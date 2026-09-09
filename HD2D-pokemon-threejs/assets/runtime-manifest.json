@@ -1,0 +1,764 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "path": "audio/cries/mudkip.wav"
+    },
+    {
+      "path": "audio/cries/poochyena.wav"
+    },
+    {
+      "path": "audio/cries/torchic.wav"
+    },
+    {
+      "path": "audio/cries/treecko.wav"
+    },
+    {
+      "path": "audio/cries/wurmple.wav"
+    },
+    {
+      "path": "audio/cries/zigzagoon.wav"
+    },
+    {
+      "path": "audio/music/caught.wav"
+    },
+    {
+      "path": "audio/music/wild-battle-intro.wav"
+    },
+    {
+      "path": "audio/music/wild-battle-loop.wav"
+    },
+    {
+      "path": "audio/music/wild-victory-intro.wav"
+    },
+    {
+      "path": "audio/music/wild-victory-loop.wav"
+    },
+    {
+      "path": "audio/sfx/battle/ball-absorb.wav"
+    },
+    {
+      "path": "audio/sfx/battle/ball-click.wav"
+    },
+    {
+      "path": "audio/sfx/battle/ball-drop.wav"
+    },
+    {
+      "path": "audio/sfx/battle/ball-hit.wav"
+    },
+    {
+      "path": "audio/sfx/battle/ball-shake.wav"
+    },
+    {
+      "path": "audio/sfx/battle/capture-success.wav"
+    },
+    {
+      "path": "audio/sfx/battle/flee.wav"
+    },
+    {
+      "path": "audio/sfx/battle/heal.wav"
+    },
+    {
+      "path": "audio/sfx/battle/hit-normal.wav"
+    },
+    {
+      "path": "audio/sfx/battle/lost.wav"
+    },
+    {
+      "path": "audio/sfx/battle/low-hp.wav"
+    },
+    {
+      "path": "audio/sfx/battle/party-switch.wav"
+    },
+    {
+      "path": "audio/sfx/battle/release-pokemon.wav"
+    },
+    {
+      "path": "audio/sfx/battle/throw-ball.wav"
+    },
+    {
+      "path": "audio/sfx/moves/leer.wav"
+    },
+    {
+      "path": "audio/sfx/moves/pound.wav"
+    },
+    {
+      "path": "audio/sfx/moves/scratch.wav"
+    },
+    {
+      "path": "audio/sfx/ui/hover.wav"
+    },
+    {
+      "path": "audio/sfx/ui/menu-close.wav"
+    },
+    {
+      "path": "audio/sfx/ui/menu-open.wav"
+    },
+    {
+      "path": "audio/sfx/ui/select.wav"
+    },
+    {
+      "path": "audio/sfx/world/door-enter.wav"
+    },
+    {
+      "path": "audio/sfx/world/door-exit.wav"
+    },
+    {
+      "path": "audio/sfx/world/exclaim.wav"
+    },
+    {
+      "path": "audio/sfx/world/grass-step.wav"
+    },
+    {
+      "path": "battle/environment/meowa-variants/props/grass-shape1.png"
+    },
+    {
+      "path": "battle/environment/meowa-variants/props/grass-shape2.png"
+    },
+    {
+      "path": "battle/environment/meowa-variants/props/grass-shape3.png"
+    },
+    {
+      "path": "battle/environment/meowa-variants/props/grass-shape4.png"
+    },
+    {
+      "path": "battle/environment/meowa-variants/props/rock-shape1.png"
+    },
+    {
+      "path": "battle/environment/meowa-variants/props/rock-shape2.png"
+    },
+    {
+      "path": "battle/environment/meowa-variants/props/rock-shape3.png"
+    },
+    {
+      "path": "battle/environment/meowa-variants/props/rock-shape4.png"
+    },
+    {
+      "path": "battle/environment/meowa-variants/trees/colors/tree-color1.png"
+    },
+    {
+      "path": "battle/environment/meowa-variants/trees/colors/tree-color2.png"
+    },
+    {
+      "path": "battle/environment/meowa-variants/trees/colors/tree-color3.png"
+    },
+    {
+      "path": "battle/environment/meowa-variants/trees/colors/tree-color4.png"
+    },
+    {
+      "path": "battle/environment/meowa-variants/trees/layers/leaves1.png"
+    },
+    {
+      "path": "battle/environment/meowa-variants/trees/layers/leaves2.png"
+    },
+    {
+      "path": "battle/environment/meowa-variants/trees/layers/leaves3.png"
+    },
+    {
+      "path": "battle/environment/meowa-variants/trees/layers/leaves4.png"
+    },
+    {
+      "path": "battle/environment/meowa-variants/trees/layers/leaves5.png"
+    },
+    {
+      "path": "battle/environment/pixel/forest_floor.png"
+    },
+    {
+      "path": "battle/environment/pixel/grass.png"
+    },
+    {
+      "path": "battle/environment/pokemon-reference/sky/skylight-strip.png"
+    },
+    {
+      "path": "battle/platform/battle-platform-top.png"
+    },
+    {
+      "path": "battle/transition/SPR_NewPokeball1.png"
+    },
+    {
+      "path": "battle/transition/SPR_Pokeball_Release1.png"
+    },
+    {
+      "path": "battle/transition/SPR_Pokeball_Release10.png"
+    },
+    {
+      "path": "battle/transition/SPR_Pokeball_Release11.png"
+    },
+    {
+      "path": "battle/transition/SPR_Pokeball_Release2.png"
+    },
+    {
+      "path": "battle/transition/SPR_Pokeball_Release3.png"
+    },
+    {
+      "path": "battle/transition/SPR_Pokeball_Release4.png"
+    },
+    {
+      "path": "battle/transition/SPR_Pokeball_Release5.png"
+    },
+    {
+      "path": "battle/transition/SPR_Pokeball_Release6.png"
+    },
+    {
+      "path": "battle/transition/SPR_Pokeball_Release7.png"
+    },
+    {
+      "path": "battle/transition/SPR_Pokeball_Release8.png"
+    },
+    {
+      "path": "battle/transition/SPR_Pokeball_Release9.png"
+    },
+    {
+      "path": "battle/ui/bag.png"
+    },
+    {
+      "path": "battle/ui/fight.png"
+    },
+    {
+      "path": "battle/ui/frame.png"
+    },
+    {
+      "path": "battle/ui/move.png"
+    },
+    {
+      "path": "battle/ui/party.png"
+    },
+    {
+      "path": "battle/ui/run.png"
+    },
+    {
+      "path": "interiors/lab/floor.png"
+    },
+    {
+      "path": "interiors/lab/wall-side.png"
+    },
+    {
+      "path": "interiors/lab/wall.png"
+    },
+    {
+      "path": "interiors/player-house/floor-1f.png"
+    },
+    {
+      "path": "interiors/player-house/floor-2f.png"
+    },
+    {
+      "path": "interiors/player-house/sprites/parts/bed-front.png"
+    },
+    {
+      "path": "interiors/player-house/sprites/parts/bed-top.png"
+    },
+    {
+      "path": "interiors/player-house/sprites/parts/cabinet-front.png"
+    },
+    {
+      "path": "interiors/player-house/sprites/parts/cabinet-top.png"
+    },
+    {
+      "path": "interiors/player-house/sprites/parts/chair-seat.png"
+    },
+    {
+      "path": "interiors/player-house/sprites/parts/chair-top.png"
+    },
+    {
+      "path": "interiors/player-house/sprites/parts/console1f-front.png"
+    },
+    {
+      "path": "interiors/player-house/sprites/parts/counter-front.png"
+    },
+    {
+      "path": "interiors/player-house/sprites/parts/counter-top.png"
+    },
+    {
+      "path": "interiors/player-house/sprites/parts/desk-front.png"
+    },
+    {
+      "path": "interiors/player-house/sprites/parts/fridge-front.png"
+    },
+    {
+      "path": "interiors/player-house/sprites/parts/fridge-top.png"
+    },
+    {
+      "path": "interiors/player-house/sprites/parts/tvtable-front.png"
+    },
+    {
+      "path": "interiors/player-house/sprites/parts/tvtable-top.png"
+    },
+    {
+      "path": "interiors/player-house/wall-1f.png"
+    },
+    {
+      "path": "interiors/player-house/wall-2f.png"
+    },
+    {
+      "path": "interiors/player-house/wall-side.png"
+    },
+    {
+      "path": "interiors/rival-house/floor-1f.png"
+    },
+    {
+      "path": "interiors/rival-house/floor-2f.png"
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/bed-front.png"
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/bed-top.png"
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/cabinet-front.png"
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/cabinet-top.png"
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/chair-seat.png"
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/chair2f-front.png"
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/console1f-front.png"
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/couch-top.png"
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/counter-front.png"
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/counter-top.png"
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/desk-front.png"
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/desk-top.png"
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/doll-front.png"
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/fridge-front.png"
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/fridge-top.png"
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/shelf-front.png"
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/shelf-top.png"
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/table-skirt.png"
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/table-top.png"
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/tv2f-front.png"
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/tvtable-front.png"
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/tvtable-top.png"
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/tvunit-front.png"
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/tvunit-top.png"
+    },
+    {
+      "path": "interiors/rival-house/wall-1f.png"
+    },
+    {
+      "path": "interiors/rival-house/wall-2f.png"
+    },
+    {
+      "path": "interiors/rival-house/wall-side.png"
+    },
+    {
+      "path": "maps/grass-tile.png"
+    },
+    {
+      "path": "maps/littleroot-route101-ground-base.png"
+    },
+    {
+      "path": "maps/route101-ledges.png"
+    },
+    {
+      "path": "sprites/npcs/boy-2.png"
+    },
+    {
+      "path": "sprites/npcs/camper.png"
+    },
+    {
+      "path": "sprites/npcs/fat-man.png"
+    },
+    {
+      "path": "sprites/npcs/girl-3.png"
+    },
+    {
+      "path": "sprites/npcs/may-idle-spritesheet.png"
+    },
+    {
+      "path": "sprites/npcs/may.png"
+    },
+    {
+      "path": "sprites/npcs/mom.png"
+    },
+    {
+      "path": "sprites/npcs/scientist-1.png"
+    },
+    {
+      "path": "sprites/npcs/twin-idle-spritesheet.png"
+    },
+    {
+      "path": "sprites/npcs/twin.png"
+    },
+    {
+      "path": "sprites/npcs/woman-4-idle-spritesheet.png"
+    },
+    {
+      "path": "sprites/npcs/woman-4.png"
+    },
+    {
+      "path": "sprites/npcs/youngster.png"
+    },
+    {
+      "path": "sprites/player.png"
+    },
+    {
+      "path": "sprites/pokemon-animated/manifest.json"
+    },
+    {
+      "path": "sprites/pokemon-animated/mudkip/back-cry.png"
+    },
+    {
+      "path": "sprites/pokemon-animated/mudkip/back-hurt.png"
+    },
+    {
+      "path": "sprites/pokemon-animated/mudkip/back-idle.png"
+    },
+    {
+      "path": "sprites/pokemon-animated/mudkip/front-cry.png"
+    },
+    {
+      "path": "sprites/pokemon-animated/mudkip/front-hurt.png"
+    },
+    {
+      "path": "sprites/pokemon-animated/mudkip/front-idle.png"
+    },
+    {
+      "path": "sprites/pokemon-animated/poochyena/back-cry.png"
+    },
+    {
+      "path": "sprites/pokemon-animated/poochyena/back-hurt.png"
+    },
+    {
+      "path": "sprites/pokemon-animated/poochyena/back-idle.png"
+    },
+    {
+      "path": "sprites/pokemon-animated/torchic/back-cry.png"
+    },
+    {
+      "path": "sprites/pokemon-animated/torchic/back-hurt.png"
+    },
+    {
+      "path": "sprites/pokemon-animated/torchic/back-idle.png"
+    },
+    {
+      "path": "sprites/pokemon-animated/torchic/front-cry.png"
+    },
+    {
+      "path": "sprites/pokemon-animated/torchic/front-hurt.png"
+    },
+    {
+      "path": "sprites/pokemon-animated/torchic/front-idle.png"
+    },
+    {
+      "path": "sprites/pokemon-animated/treecko/back-cry.png"
+    },
+    {
+      "path": "sprites/pokemon-animated/treecko/back-hurt.png"
+    },
+    {
+      "path": "sprites/pokemon-animated/treecko/back-idle.png"
+    },
+    {
+      "path": "sprites/pokemon-animated/treecko/front-cry.png"
+    },
+    {
+      "path": "sprites/pokemon-animated/treecko/front-hurt.png"
+    },
+    {
+      "path": "sprites/pokemon-animated/treecko/front-idle.png"
+    },
+    {
+      "path": "sprites/pokemon-animated/wurmple/back-cry.png"
+    },
+    {
+      "path": "sprites/pokemon-animated/wurmple/back-hurt.png"
+    },
+    {
+      "path": "sprites/pokemon-animated/wurmple/back-idle.png"
+    },
+    {
+      "path": "sprites/pokemon-animated/wurmple/front-cry.png"
+    },
+    {
+      "path": "sprites/pokemon-animated/wurmple/front-hurt.png"
+    },
+    {
+      "path": "sprites/pokemon-animated/wurmple/front-idle.png"
+    },
+    {
+      "path": "sprites/pokemon-animated/zigzagoon/back-cry.png"
+    },
+    {
+      "path": "sprites/pokemon-animated/zigzagoon/back-hurt.png"
+    },
+    {
+      "path": "sprites/pokemon-animated/zigzagoon/back-idle.png"
+    },
+    {
+      "path": "sprites/pokemon-animated/zigzagoon/front-cry.png"
+    },
+    {
+      "path": "sprites/pokemon-animated/zigzagoon/front-hurt.png"
+    },
+    {
+      "path": "sprites/pokemon-animated/zigzagoon/front-idle.png"
+    },
+    {
+      "path": "sprites/pokemon/pokeemerald-front-atlas.png"
+    },
+    {
+      "path": "sprites/props/flower-idle-spritesheet.png"
+    },
+    {
+      "path": "sprites/props/sign.png"
+    },
+    {
+      "path": "sprites/props/tall-grass.png"
+    },
+    {
+      "path": "sprites/props/tree.png"
+    },
+    {
+      "path": "sprites/props/turnaround/house-awning-gable-side.png"
+    },
+    {
+      "path": "sprites/props/turnaround/house-awning-roof-back.png"
+    },
+    {
+      "path": "sprites/props/turnaround/house-awning-roof-front.png"
+    },
+    {
+      "path": "sprites/props/turnaround/house-main-gable-side.png"
+    },
+    {
+      "path": "sprites/props/turnaround/house-main-roof-back.png"
+    },
+    {
+      "path": "sprites/props/turnaround/house-main-roof-front.png"
+    },
+    {
+      "path": "sprites/props/turnaround/house-ridge.png"
+    },
+    {
+      "path": "sprites/props/turnaround/house-upper-back-emissive.png"
+    },
+    {
+      "path": "sprites/props/turnaround/house-upper-back.png"
+    },
+    {
+      "path": "sprites/props/turnaround/house-upper-front-emissive.png"
+    },
+    {
+      "path": "sprites/props/turnaround/house-upper-front.png"
+    },
+    {
+      "path": "sprites/props/turnaround/house-upper-side-emissive.png"
+    },
+    {
+      "path": "sprites/props/turnaround/house-upper-side.png"
+    },
+    {
+      "path": "sprites/props/turnaround/house-wall-back-emissive.png"
+    },
+    {
+      "path": "sprites/props/turnaround/house-wall-back.png"
+    },
+    {
+      "path": "sprites/props/turnaround/house-wall-front-emissive.png"
+    },
+    {
+      "path": "sprites/props/turnaround/house-wall-front.png"
+    },
+    {
+      "path": "sprites/props/turnaround/house-wall-side-emissive.png"
+    },
+    {
+      "path": "sprites/props/turnaround/house-wall-side.png"
+    },
+    {
+      "path": "sprites/props/turnaround/lab-gable-side.png"
+    },
+    {
+      "path": "sprites/props/turnaround/lab-ridge.png"
+    },
+    {
+      "path": "sprites/props/turnaround/lab-roof-back.png"
+    },
+    {
+      "path": "sprites/props/turnaround/lab-roof-front.png"
+    },
+    {
+      "path": "sprites/props/turnaround/lab-wall-back-emissive.png"
+    },
+    {
+      "path": "sprites/props/turnaround/lab-wall-back.png"
+    },
+    {
+      "path": "sprites/props/turnaround/lab-wall-front-emissive.png"
+    },
+    {
+      "path": "sprites/props/turnaround/lab-wall-front.png"
+    },
+    {
+      "path": "sprites/props/turnaround/lab-wall-side-emissive.png"
+    },
+    {
+      "path": "sprites/props/turnaround/lab-wall-side.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-center-band-back.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-center-band-front.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-center-band-side.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-center-crown-back.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-center-crown-front.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-center-crown-side.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-center-top.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-center-wall-back-emissive.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-center-wall-back.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-center-wall-front-emissive.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-center-wall-front.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-center-wall-side-emissive.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-center-wall-side.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-house-gable-side-emissive.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-house-gable-side.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-house-ridge.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-house-roof-front.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-house-wall-back-emissive.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-house-wall-back.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-house-wall-front-emissive.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-house-wall-front.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-house-wall-side-emissive.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-house-wall-side.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-mart-band-back.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-mart-band-front.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-mart-band-side.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-mart-crown-back.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-mart-crown-front.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-mart-crown-side.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-mart-top.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-mart-wall-back-emissive.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-mart-wall-back.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-mart-wall-front-emissive.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-mart-wall-front.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-mart-wall-side-emissive.png"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-mart-wall-side.png"
+    },
+    {
+      "path": "sprites/story/birchs-bag.png"
+    },
+    {
+      "path": "sprites/story/enemy-zigzagoon.png"
+    },
+    {
+      "path": "sprites/story/prof-birch.png"
+    },
+    {
+      "path": "tilesets/route101-clearing-dual-grid.png"
+    },
+    {
+      "path": "vfx/BGM/OST_NewLittleRoot_Intro.wav"
+    },
+    {
+      "path": "vfx/BGM/OST_NewLittleRoot_Ioop.wav"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "date": "2026-09-09T09:10:08.002918+00:00",
+  "scope": "Player and rival house second-floor clocks and framed pictures",
+  "assets": [
+    {
+      "path": "interiors/player-house/wall-2f.png",
+      "previous_sha256": "76e524f55a9645da06f194de5b5f22145d16dc9662f31835ff67e4c18abe8bc3",
+      "sha256": "de888bc08eece3caf89fbc7c97764ad32e08251c5f79c9a8325576f4b2ffee0c",
+      "generation": {
+        "job_id": "job_1612a094f88e4d3c9e1c9eb8b4eef807",
+        "capability": "image-edit-run",
+        "remove_bg_method": "advanced",
+        "strict": true,
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/wall-decoration-advanced-20260909/continuation/player-house-wall-exact-canvas/outputs/Preserve_this_rectangular_pixel-art_wall_exactly_Keep_the_small_clock_hands_and_framed_picture_sharp_with_the_6650f85b/final_outputs.json",
+        "jobs": [
+          {
+            "job_id": "job_1612a094f88e4d3c9e1c9eb8b4eef807",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/wall-decoration-advanced-20260909/continuation/player-house-wall-exact-canvas/outputs/Preserve_this_rectangular_pixel-art_wall_exactly_Keep_the_small_clock_hands_and_framed_picture_sharp_with_the_6650f85b/final_outputs.json",
+            "role": "advanced-background-removal wall layer",
+            "remove_bg_method": "advanced"
+          },
+          {
+            "job_id": "job_331cb5f805344027ab8891ed87fc43b5",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-player-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+            "role": "existing Meowa opaque wall backing"
+          }
+        ],
+        "composition": "Alpha-composited the declared advanced Meowa output over the previous Meowa wall at native size; no resizing, painting, palette edits, or original-reference pixels copied. Clock and picture interiors come entirely from the new output.",
+        "backing_sha256": "76e524f55a9645da06f194de5b5f22145d16dc9662f31835ff67e4c18abe8bc3",
+        "width": 144,
+        "height": 48,
+        "output_sha256": "de888bc08eece3caf89fbc7c97764ad32e08251c5f79c9a8325576f4b2ffee0c",
+        "validation": "Original, previous and new textures reviewed at 6x nearest-neighbor. Clock face and picture interiors are fully opaque in the new advanced output; final wall has no transparent pixels."
+      },
+      "previous_generation": {
+        "job_id": "job_331cb5f805344027ab8891ed87fc43b5",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-player-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "76e524f55a9645da06f194de5b5f22145d16dc9662f31835ff67e4c18abe8bc3",
+        "width": 144,
+        "height": 48,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/rival-house/wall-2f.png",
+      "previous_sha256": "f34663644cde33236639b7c2f0dee526e6cb7549245cb4ebef8a5a9df39dbe53",
+      "sha256": "0202f95cb7d2270b6a7e477d59f6398767f6d086abbe6c08ead6b23ea44b9bd5",
+      "generation": {
+        "job_id": "job_5fa7a67263c34157a5f65e2000644a1d",
+        "capability": "image-edit-run",
+        "remove_bg_method": "advanced",
+        "strict": true,
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/wall-decoration-advanced-20260909/continuation/rival-house-wall-exact-canvas/outputs/Preserve_this_rectangular_pixel-art_wall_exactly_Keep_the_small_clock_hands_and_framed_picture_sharp_with_the_6650f85b/final_outputs.json",
+        "jobs": [
+          {
+            "job_id": "job_5fa7a67263c34157a5f65e2000644a1d",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/wall-decoration-advanced-20260909/continuation/rival-house-wall-exact-canvas/outputs/Preserve_this_rectangular_pixel-art_wall_exactly_Keep_the_small_clock_hands_and_framed_picture_sharp_with_the_6650f85b/final_outputs.json",
+            "role": "advanced-background-removal wall layer",
+            "remove_bg_method": "advanced"
+          },
+          {
+            "job_id": "job_d3ce045faec24522bee06581eeb9a818",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-rival-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+            "role": "existing Meowa opaque wall backing"
+          }
+        ],
+        "composition": "Alpha-composited the declared advanced Meowa output over the previous Meowa wall at native size; no resizing, painting, palette edits, or original-reference pixels copied. Clock and picture interiors come entirely from the new output.",
+        "backing_sha256": "f34663644cde33236639b7c2f0dee526e6cb7549245cb4ebef8a5a9df39dbe53",
+        "width": 144,
+        "height": 48,
+        "output_sha256": "0202f95cb7d2270b6a7e477d59f6398767f6d086abbe6c08ead6b23ea44b9bd5",
+        "validation": "Original, previous and new textures reviewed at 6x nearest-neighbor. Clock face and picture interiors are fully opaque in the new advanced output; final wall has no transparent pixels."
+      },
+      "previous_generation": {
+        "job_id": "job_d3ce045faec24522bee06581eeb9a818",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-rival-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "f34663644cde33236639b7c2f0dee526e6cb7549245cb4ebef8a5a9df39dbe53",
+        "width": 144,
+        "height": 48,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    }
+  ],
+  "archive": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/wall-decoration-advanced-20260909",
+  "browser_validation": {
+    "checks": [
+      {
+        "map": "player-house-2f",
+        "url": "http://192.168.2.106:5175/assets/interiors/player-house/wall-2f.png",
+        "width": 144,
+        "height": 48,
+        "minFilter": 1003,
+        "magFilter": 1003
+      },
+      {
+        "map": "rival-house-2f",
+        "url": "http://192.168.2.106:5175/assets/interiors/rival-house/wall-2f.png",
+        "width": 144,
+        "height": 48,
+        "minFilter": 1003,
+        "magFilter": 1003
+      }
+    ],
+    "errors": []
+  },
+  "status": "complete",
+  "validated_at": "2026-09-09T09:11:07.488064+00:00",
+  "checks": {
+    "advanced_background_removal": true,
+    "original_dimensions_retained": true,
+    "clock_and_picture_interiors_from_new_output": true,
+    "final_walls_fully_opaque": true,
+    "source_public_build_and_http_hashes_match": true,
+    "runtime_asset_audit": "passed",
+    "provenance_audit": "passed",
+    "build": "passed"
+  },
+  "screenshots": [
+    "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/wall-decoration-advanced-20260909/after-player-house-2f.png",
+    "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/wall-decoration-advanced-20260909/after-rival-house-2f.png"
+  ]
+}

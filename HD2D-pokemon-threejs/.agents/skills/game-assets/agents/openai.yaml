@@ -1,0 +1,4 @@
+interface:
+  display_name: "Meowa Game Design & Assets"
+  short_description: "Plan games and create production-ready assets"
+  default_prompt: "Use $game-assets to develop the requested game design or create and validate its production-ready assets."

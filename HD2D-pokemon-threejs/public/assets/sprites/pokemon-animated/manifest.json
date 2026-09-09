@@ -1,0 +1,333 @@
+{
+  "mudkip": {
+    "back": {
+      "idle": {
+        "url": "assets/sprites/pokemon-animated/mudkip/back-idle.png",
+        "frameWidth": 51,
+        "frameHeight": 47,
+        "frames": 25,
+        "columns": 16,
+        "rows": 2,
+        "fps": 30
+      },
+      "cry": {
+        "url": "assets/sprites/pokemon-animated/mudkip/back-cry.png",
+        "frameWidth": 51,
+        "frameHeight": 47,
+        "frames": 48,
+        "columns": 16,
+        "rows": 3,
+        "fps": 30
+      },
+      "hurt": {
+        "url": "assets/sprites/pokemon-animated/mudkip/back-hurt.png",
+        "frameWidth": 51,
+        "frameHeight": 47,
+        "frames": 14,
+        "columns": 14,
+        "rows": 1,
+        "fps": 30
+      }
+    },
+    "front": {
+      "cry": {
+        "url": "assets/sprites/pokemon-animated/mudkip/front-cry.png",
+        "frameWidth": 63,
+        "frameHeight": 48,
+        "frames": 48,
+        "columns": 16,
+        "rows": 3,
+        "fps": 30
+      },
+      "hurt": {
+        "url": "assets/sprites/pokemon-animated/mudkip/front-hurt.png",
+        "frameWidth": 63,
+        "frameHeight": 48,
+        "frames": 14,
+        "columns": 14,
+        "rows": 1,
+        "fps": 30
+      },
+      "idle": {
+        "url": "assets/sprites/pokemon-animated/mudkip/front-idle.png",
+        "frameWidth": 63,
+        "frameHeight": 48,
+        "frames": 96,
+        "columns": 16,
+        "rows": 6,
+        "fps": 30
+      }
+    }
+  },
+  "poochyena": {
+    "back": {
+      "idle": {
+        "url": "assets/sprites/pokemon-animated/poochyena/back-idle.png",
+        "frameWidth": 63,
+        "frameHeight": 49,
+        "frames": 96,
+        "columns": 16,
+        "rows": 6,
+        "fps": 30
+      },
+      "cry": {
+        "url": "assets/sprites/pokemon-animated/poochyena/back-cry.png",
+        "frameWidth": 63,
+        "frameHeight": 49,
+        "frames": 24,
+        "columns": 16,
+        "rows": 2,
+        "fps": 30
+      },
+      "hurt": {
+        "url": "assets/sprites/pokemon-animated/poochyena/back-hurt.png",
+        "frameWidth": 63,
+        "frameHeight": 49,
+        "frames": 14,
+        "columns": 14,
+        "rows": 1,
+        "fps": 30
+      }
+    }
+  },
+  "torchic": {
+    "back": {
+      "idle": {
+        "url": "assets/sprites/pokemon-animated/torchic/back-idle.png",
+        "frameWidth": 42,
+        "frameHeight": 48,
+        "frames": 96,
+        "columns": 16,
+        "rows": 6,
+        "fps": 30
+      },
+      "cry": {
+        "url": "assets/sprites/pokemon-animated/torchic/back-cry.png",
+        "frameWidth": 42,
+        "frameHeight": 48,
+        "frames": 48,
+        "columns": 16,
+        "rows": 3,
+        "fps": 30
+      },
+      "hurt": {
+        "url": "assets/sprites/pokemon-animated/torchic/back-hurt.png",
+        "frameWidth": 42,
+        "frameHeight": 48,
+        "frames": 14,
+        "columns": 14,
+        "rows": 1,
+        "fps": 30
+      }
+    },
+    "front": {
+      "cry": {
+        "url": "assets/sprites/pokemon-animated/torchic/front-cry.png",
+        "frameWidth": 54,
+        "frameHeight": 51,
+        "frames": 48,
+        "columns": 16,
+        "rows": 3,
+        "fps": 30
+      },
+      "hurt": {
+        "url": "assets/sprites/pokemon-animated/torchic/front-hurt.png",
+        "frameWidth": 54,
+        "frameHeight": 51,
+        "frames": 14,
+        "columns": 14,
+        "rows": 1,
+        "fps": 30
+      },
+      "idle": {
+        "url": "assets/sprites/pokemon-animated/torchic/front-idle.png",
+        "frameWidth": 54,
+        "frameHeight": 51,
+        "frames": 96,
+        "columns": 16,
+        "rows": 6,
+        "fps": 30
+      }
+    }
+  },
+  "treecko": {
+    "back": {
+      "idle": {
+        "url": "assets/sprites/pokemon-animated/treecko/back-idle.png",
+        "frameWidth": 51,
+        "frameHeight": 48,
+        "frames": 96,
+        "columns": 16,
+        "rows": 6,
+        "fps": 30
+      },
+      "cry": {
+        "url": "assets/sprites/pokemon-animated/treecko/back-cry.png",
+        "frameWidth": 51,
+        "frameHeight": 48,
+        "frames": 48,
+        "columns": 16,
+        "rows": 3,
+        "fps": 30
+      },
+      "hurt": {
+        "url": "assets/sprites/pokemon-animated/treecko/back-hurt.png",
+        "frameWidth": 51,
+        "frameHeight": 48,
+        "frames": 14,
+        "columns": 14,
+        "rows": 1,
+        "fps": 30
+      }
+    },
+    "front": {
+      "cry": {
+        "url": "assets/sprites/pokemon-animated/treecko/front-cry.png",
+        "frameWidth": 49,
+        "frameHeight": 48,
+        "frames": 48,
+        "columns": 16,
+        "rows": 3,
+        "fps": 30
+      },
+      "hurt": {
+        "url": "assets/sprites/pokemon-animated/treecko/front-hurt.png",
+        "frameWidth": 49,
+        "frameHeight": 48,
+        "frames": 14,
+        "columns": 14,
+        "rows": 1,
+        "fps": 30
+      },
+      "idle": {
+        "url": "assets/sprites/pokemon-animated/treecko/front-idle.png",
+        "frameWidth": 49,
+        "frameHeight": 48,
+        "frames": 120,
+        "columns": 16,
+        "rows": 8,
+        "fps": 30
+      }
+    }
+  },
+  "wurmple": {
+    "back": {
+      "cry": {
+        "url": "assets/sprites/pokemon-animated/wurmple/back-cry.png",
+        "frameWidth": 57,
+        "frameHeight": 49,
+        "frames": 24,
+        "columns": 16,
+        "rows": 2,
+        "fps": 30
+      },
+      "hurt": {
+        "url": "assets/sprites/pokemon-animated/wurmple/back-hurt.png",
+        "frameWidth": 57,
+        "frameHeight": 49,
+        "frames": 14,
+        "columns": 14,
+        "rows": 1,
+        "fps": 30
+      },
+      "idle": {
+        "url": "assets/sprites/pokemon-animated/wurmple/back-idle.png",
+        "frameWidth": 57,
+        "frameHeight": 49,
+        "frames": 96,
+        "columns": 16,
+        "rows": 6,
+        "fps": 30
+      }
+    },
+    "front": {
+      "cry": {
+        "url": "assets/sprites/pokemon-animated/wurmple/front-cry.png",
+        "frameWidth": 57,
+        "frameHeight": 44,
+        "frames": 24,
+        "columns": 16,
+        "rows": 2,
+        "fps": 30
+      },
+      "hurt": {
+        "url": "assets/sprites/pokemon-animated/wurmple/front-hurt.png",
+        "frameWidth": 57,
+        "frameHeight": 44,
+        "frames": 14,
+        "columns": 14,
+        "rows": 1,
+        "fps": 30
+      },
+      "idle": {
+        "url": "assets/sprites/pokemon-animated/wurmple/front-idle.png",
+        "frameWidth": 57,
+        "frameHeight": 44,
+        "frames": 96,
+        "columns": 16,
+        "rows": 6,
+        "fps": 30
+      }
+    }
+  },
+  "zigzagoon": {
+    "back": {
+      "cry": {
+        "url": "assets/sprites/pokemon-animated/zigzagoon/back-cry.png",
+        "frameWidth": 65,
+        "frameHeight": 41,
+        "frames": 24,
+        "columns": 16,
+        "rows": 2,
+        "fps": 30
+      },
+      "hurt": {
+        "url": "assets/sprites/pokemon-animated/zigzagoon/back-hurt.png",
+        "frameWidth": 65,
+        "frameHeight": 41,
+        "frames": 14,
+        "columns": 14,
+        "rows": 1,
+        "fps": 30
+      },
+      "idle": {
+        "url": "assets/sprites/pokemon-animated/zigzagoon/back-idle.png",
+        "frameWidth": 65,
+        "frameHeight": 41,
+        "frames": 96,
+        "columns": 16,
+        "rows": 6,
+        "fps": 30
+      }
+    },
+    "front": {
+      "idle": {
+        "url": "assets/sprites/pokemon-animated/zigzagoon/front-idle.png",
+        "frameWidth": 66,
+        "frameHeight": 45,
+        "frames": 96,
+        "columns": 16,
+        "rows": 6,
+        "fps": 30
+      },
+      "cry": {
+        "url": "assets/sprites/pokemon-animated/zigzagoon/front-cry.png",
+        "frameWidth": 66,
+        "frameHeight": 45,
+        "frames": 48,
+        "columns": 16,
+        "rows": 3,
+        "fps": 30
+      },
+      "hurt": {
+        "url": "assets/sprites/pokemon-animated/zigzagoon/front-hurt.png",
+        "frameWidth": 66,
+        "frameHeight": 45,
+        "frames": 14,
+        "columns": 14,
+        "rows": 1,
+        "fps": 30
+      }
+    }
+  }
+}

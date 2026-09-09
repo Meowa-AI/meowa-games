@@ -1,0 +1,946 @@
+[
+  {
+    "original_manifest": "outputs/meowa-battle-shape-variants-20260821/trees/Create_a_broad_spreading_tree_with_a_low_flat_canopy_wide_horizontal_branches_and_a_stout_visible_trunk_while_bb774d3b/final_outputs.json",
+    "status": "success",
+    "job_id": "job_6233bf149aeb46c2af2a40b9dcb0f34e",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-shape-variants-20260821/trees/Create_a_broad_spreading_tree_with_a_low_flat_canopy_wide_horizontal_branches_and_a_stout_visible_trunk_while_bb774d3b/remove_bg.png",
+        "mime_type": "image/png"
+      },
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-shape-variants-20260821/trees/Create_a_broad_spreading_tree_with_a_low_flat_canopy_wide_horizontal_branches_and_a_stout_visible_trunk_while_bb774d3b/remove_bg_2.png",
+        "mime_type": "image/png"
+      },
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-shape-variants-20260821/trees/Create_a_broad_spreading_tree_with_a_low_flat_canopy_wide_horizontal_branches_and_a_stout_visible_trunk_while_bb774d3b/remove_bg_3.png",
+        "mime_type": "image/png"
+      },
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-shape-variants-20260821/trees/Create_a_broad_spreading_tree_with_a_low_flat_canopy_wide_horizontal_branches_and_a_stout_visible_trunk_while_bb774d3b/remove_bg_4.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "outputs/meowa-battle-shape-variants-20260821/grass/Create_a_low_wide_grass_tuft_made_of_dense_short_overlapping_blades_while_preserving_the_pixel-art_palette_and_lighting/final_outputs.json",
+    "status": "success",
+    "job_id": "job_67c13bf76eba49c8ae40cb7e23cdf98c",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-shape-variants-20260821/grass/Create_a_low_wide_grass_tuft_made_of_dense_short_overlapping_blades_while_preserving_the_pixel-art_palette_and_lighting/remove_bg.png",
+        "mime_type": "image/png"
+      },
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-shape-variants-20260821/grass/Create_a_low_wide_grass_tuft_made_of_dense_short_overlapping_blades_while_preserving_the_pixel-art_palette_and_lighting/remove_bg_2.png",
+        "mime_type": "image/png"
+      },
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-shape-variants-20260821/grass/Create_a_low_wide_grass_tuft_made_of_dense_short_overlapping_blades_while_preserving_the_pixel-art_palette_and_lighting/remove_bg_3.png",
+        "mime_type": "image/png"
+      },
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-shape-variants-20260821/grass/Create_a_low_wide_grass_tuft_made_of_dense_short_overlapping_blades_while_preserving_the_pixel-art_palette_and_lighting/remove_bg_4.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "outputs/meowa-battle-shape-variants-20260821/rocks/Create_a_tall_upright_stone_with_a_narrow_pillar-like_silhouette_vertical_cracks_and_restrained_moss_while_pre_551f4a7e/final_outputs.json",
+    "status": "success",
+    "job_id": "job_f69dbf7054a14a6d8c7d3757e200338c",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-shape-variants-20260821/rocks/Create_a_tall_upright_stone_with_a_narrow_pillar-like_silhouette_vertical_cracks_and_restrained_moss_while_pre_551f4a7e/remove_bg.png",
+        "mime_type": "image/png"
+      },
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-shape-variants-20260821/rocks/Create_a_tall_upright_stone_with_a_narrow_pillar-like_silhouette_vertical_cracks_and_restrained_moss_while_pre_551f4a7e/remove_bg_2.png",
+        "mime_type": "image/png"
+      },
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-shape-variants-20260821/rocks/Create_a_tall_upright_stone_with_a_narrow_pillar-like_silhouette_vertical_cracks_and_restrained_moss_while_pre_551f4a7e/remove_bg_3.png",
+        "mime_type": "image/png"
+      },
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-shape-variants-20260821/rocks/Create_a_tall_upright_stone_with_a_narrow_pillar-like_silhouette_vertical_cracks_and_restrained_moss_while_pre_551f4a7e/remove_bg_4.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "outputs/littleroot-npc-blue-edit/Make_a_subtle_edit_to_this_classic_Pokemon-style_pixel_NPC_sprite_sheet_change_the_tan_cap_to_muted_forest_gre_6e938295/final_outputs.json",
+    "status": "success",
+    "job_id": "job_7e07d572552e4c6bb625a85a890b7099",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "outputs/littleroot-npc-blue-edit/Make_a_subtle_edit_to_this_classic_Pokemon-style_pixel_NPC_sprite_sheet_change_the_tan_cap_to_muted_forest_gre_6e938295/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "outputs/meowa-battle-environment-edit-20260821/tree-blue1-leaves/Subtly_vary_several_inner_blue-green_leaf_clusters_small_shadow_gaps_and_highlight_pixels_Preserve_the_exact_c_4366aeef/final_outputs.json",
+    "status": "success",
+    "job_id": "job_802142dea33144f4a1f3e5fa4b562674",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-environment-edit-20260821/tree-blue1-leaves/Subtly_vary_several_inner_blue-green_leaf_clusters_small_shadow_gaps_and_highlight_pixels_Preserve_the_exact_c_4366aeef/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "outputs/meowa-battle-environment-edit-20260821/tree3-trunk/Add_restrained_bark_highlight_pixels_and_slightly_vary_two_small_inner_grain_patterns_Preserve_the_exact_canva_4dfee798/final_outputs.json",
+    "status": "success",
+    "job_id": "job_f4883ebe9fc04edebd4f8d1f7261c664",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-environment-edit-20260821/tree3-trunk/Add_restrained_bark_highlight_pixels_and_slightly_vary_two_small_inner_grain_patterns_Preserve_the_exact_canva_4dfee798/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "outputs/meowa-battle-environment-edit-20260821/tree1-trunk/Add_a_few_subtle_bark_grain_pixels_one_small_knot_and_restrained_highlight_variation_inside_the_trunk_Preserve_d4d134ae/final_outputs.json",
+    "status": "success",
+    "job_id": "job_e0ec90f20e88484eaefa495ca79944fa",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-environment-edit-20260821/tree1-trunk/Add_a_few_subtle_bark_grain_pixels_one_small_knot_and_restrained_highlight_variation_inside_the_trunk_Preserve_d4d134ae/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "outputs/meowa-battle-environment-edit-20260821/grass1/Subtly_vary_the_shapes_and_overlap_of_a_few_grass_blades_and_add_small_pixel_clusters_of_lighter_and_darker_gr_4ef0669c/final_outputs.json",
+    "status": "success",
+    "job_id": "job_8765dc8517d248179d1e80cf485bbbd2",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-environment-edit-20260821/grass1/Subtly_vary_the_shapes_and_overlap_of_a_few_grass_blades_and_add_small_pixel_clusters_of_lighter_and_darker_gr_4ef0669c/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "outputs/meowa-battle-environment-edit-20260821/tree2-leaves/Subtly_rearrange_a_few_inner_leaf_cluster_highlights_and_shadow_pockets_while_keeping_the_same_healthy_green_p_afdea420/final_outputs.json",
+    "status": "success",
+    "job_id": "job_d16c6de32874478ea68b5f31f34c1277",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-environment-edit-20260821/tree2-leaves/Subtly_rearrange_a_few_inner_leaf_cluster_highlights_and_shadow_pockets_while_keeping_the_same_healthy_green_p_afdea420/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "outputs/meowa-battle-environment-edit-20260821/tree3-leaves/Subtly_vary_a_few_inner_teal_leaf_clusters_and_add_restrained_highlight_and_shadow_pixel_details_Preserve_the_d7598fac/final_outputs.json",
+    "status": "success",
+    "job_id": "job_6c83c0e24c2c4c1184dd1b8d3eb55f99",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-environment-edit-20260821/tree3-leaves/Subtly_vary_a_few_inner_teal_leaf_clusters_and_add_restrained_highlight_and_shadow_pixel_details_Preserve_the_d7598fac/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "outputs/meowa-battle-environment-edit-20260821/grass2/Subtly_vary_several_grass_blade_tips_and_gaps_and_add_a_few_restrained_highlight_and_shadow_pixel_clusters_Pre_e8c1deb9/final_outputs.json",
+    "status": "success",
+    "job_id": "job_0e6fdbc768034e76a31210138d01b9de",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-environment-edit-20260821/grass2/Subtly_vary_several_grass_blade_tips_and_gaps_and_add_a_few_restrained_highlight_and_shadow_pixel_clusters_Pre_e8c1deb9/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "outputs/meowa-battle-environment-edit-20260821/tree2-trunk/Subtly_vary_the_bark_grain_root_shading_and_one_small_knot_inside_the_trunk_Preserve_the_exact_canvas_transpar_be1972f4/final_outputs.json",
+    "status": "success",
+    "job_id": "job_dc3c4d751d7746258fa0a4a5bddcc306",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-environment-edit-20260821/tree2-trunk/Subtly_vary_the_bark_grain_root_shading_and_one_small_knot_inside_the_trunk_Preserve_the_exact_canvas_transpar_be1972f4/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "outputs/meowa-battle-environment-edit-20260821/rock2/Add_one_subtle_chipped_edge_detail_within_the_existing_silhouette_and_slightly_vary_the_moss_patches_and_pixel_99a43710/final_outputs.json",
+    "status": "success",
+    "job_id": "job_2745299611504ea99667ccd678706977",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-environment-edit-20260821/rock2/Add_one_subtle_chipped_edge_detail_within_the_existing_silhouette_and_slightly_vary_the_moss_patches_and_pixel_99a43710/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "outputs/meowa-battle-environment-edit-20260821/rock1/Add_two_subtle_stone_cracks_and_slightly_vary_the_moss_patches_and_pixel_shading_Preserve_the_exact_canvas_tra_229538ee/final_outputs.json",
+    "status": "success",
+    "job_id": "job_a94a9aef5a064f3d99d8fecc9255f928",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-environment-edit-20260821/rock1/Add_two_subtle_stone_cracks_and_slightly_vary_the_moss_patches_and_pixel_shading_Preserve_the_exact_canvas_tra_229538ee/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "outputs/meowa-battle-environment-edit-20260821/tree1-leaves/Subtly_vary_several_inner_leaf_clusters_small_shadow_gaps_and_highlight_pixels_while_keeping_the_same_healthy_0ac70abc/final_outputs.json",
+    "status": "success",
+    "job_id": "job_1aa136048db44401a3e81e94dc9743da",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-environment-edit-20260821/tree1-leaves/Subtly_vary_several_inner_leaf_clusters_small_shadow_gaps_and_highlight_pixels_while_keeping_the_same_healthy_0ac70abc/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "outputs/meowa-battle-environment-edit-20260821/tree-blue2-leaves/Subtly_vary_several_inner_blue-green_leaf_clusters_and_rearrange_a_few_small_colorful_flowers_without_changing_0a3cd4eb/final_outputs.json",
+    "status": "success",
+    "job_id": "job_6c6d071df7094a088742cedc660cd0ed",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-environment-edit-20260821/tree-blue2-leaves/Subtly_vary_several_inner_blue-green_leaf_clusters_and_rearrange_a_few_small_colorful_flowers_without_changing_0a3cd4eb/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "outputs/meowa-battle-platform-remove-bg-20260820/final_pixel_snapper/final_outputs.json",
+    "status": "success",
+    "job_id": "job_589c17da2fe94bfa8afd2689395802d2",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-platform-remove-bg-20260820/final_pixel_snapper/result.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "outputs/opening-battle-creatures/torchic-front/Torchic_full-body_front-facing_battle_sprite_for_a_colorful_classic_pixel_RPG_readable_silhouette_centered_abo_676c48c6/final_outputs.json",
+    "status": "success",
+    "job_id": "job_61157eab5a0e49d39aa329b8c55fca58",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "outputs/opening-battle-creatures/torchic-front/Torchic_full-body_front-facing_battle_sprite_for_a_colorful_classic_pixel_RPG_readable_silhouette_centered_abo_676c48c6/final_pixel_snapper.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "outputs/opening-battle-creatures/mudkip-front/Mudkip_full-body_front-facing_battle_sprite_for_a_colorful_classic_pixel_RPG_readable_silhouette_centered_abov_2b19a94c/final_outputs.json",
+    "status": "success",
+    "job_id": "job_0337b5c899fe4f24972311ad9cf1bcfb",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "outputs/opening-battle-creatures/mudkip-front/Mudkip_full-body_front-facing_battle_sprite_for_a_colorful_classic_pixel_RPG_readable_silhouette_centered_abov_2b19a94c/final_pixel_snapper.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "outputs/opening-battle-creatures/treecko-front/Treecko_full-body_front-facing_battle_sprite_for_a_colorful_classic_pixel_RPG_readable_silhouette_centered_abo_e297eb02/final_outputs.json",
+    "status": "success",
+    "job_id": "job_80df15bb59814c3a858d6af0f6fcd9eb",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "outputs/opening-battle-creatures/treecko-front/Treecko_full-body_front-facing_battle_sprite_for_a_colorful_classic_pixel_RPG_readable_silhouette_centered_abo_e297eb02/final_pixel_snapper.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "outputs/meowa-battle-layered-leaf-variants-20260821/leaves/Create_a_wide_rounded_dome_of_dense_emerald_foliage_with_mint_highlights_and_deep_pine_shadows_Foliage_layer_o_5e43db37/final_outputs.json",
+    "status": "success",
+    "job_id": "job_d36bef9213aa45cdb9b23a5ced107196",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-layered-leaf-variants-20260821/leaves/Create_a_wide_rounded_dome_of_dense_emerald_foliage_with_mint_highlights_and_deep_pine_shadows_Foliage_layer_o_5e43db37/remove_bg.png",
+        "mime_type": "image/png"
+      },
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-layered-leaf-variants-20260821/leaves/Create_a_wide_rounded_dome_of_dense_emerald_foliage_with_mint_highlights_and_deep_pine_shadows_Foliage_layer_o_5e43db37/remove_bg_2.png",
+        "mime_type": "image/png"
+      },
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-layered-leaf-variants-20260821/leaves/Create_a_wide_rounded_dome_of_dense_emerald_foliage_with_mint_highlights_and_deep_pine_shadows_Foliage_layer_o_5e43db37/remove_bg_3.png",
+        "mime_type": "image/png"
+      },
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-layered-leaf-variants-20260821/leaves/Create_a_wide_rounded_dome_of_dense_emerald_foliage_with_mint_highlights_and_deep_pine_shadows_Foliage_layer_o_5e43db37/remove_bg_4.png",
+        "mime_type": "image/png"
+      },
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-layered-leaf-variants-20260821/leaves/Create_a_wide_rounded_dome_of_dense_emerald_foliage_with_mint_highlights_and_deep_pine_shadows_Foliage_layer_o_5e43db37/remove_bg_5.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "outputs/meowa-battle-tree-color-variants-20260821/tree1/Recolor_the_foliage_to_a_bright_fresh_spring_yellow-green_palette_with_lime_highlights_and_medium_leaf-green_s_fc92194f/final_outputs.json",
+    "status": "success",
+    "job_id": "job_45725acb134f44d6a0342728c5ecbfab",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-tree-color-variants-20260821/tree1/Recolor_the_foliage_to_a_bright_fresh_spring_yellow-green_palette_with_lime_highlights_and_medium_leaf-green_s_fc92194f/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "outputs/meowa-battle-tree-color-variants-20260821/tree4/Recolor_the_foliage_to_a_warm_olive_and_moss-green_palette_with_yellow-olive_highlights_and_dark_moss_shadows_999fe68f/final_outputs.json",
+    "status": "success",
+    "job_id": "job_2c41a78feb3d4dd49b863e8d3e61fe5e",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-tree-color-variants-20260821/tree4/Recolor_the_foliage_to_a_warm_olive_and_moss-green_palette_with_yellow-olive_highlights_and_dark_moss_shadows_999fe68f/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "outputs/meowa-battle-tree-color-variants-20260821/tree2/Recolor_the_foliage_to_a_deep_emerald_forest-green_palette_with_restrained_jade_highlights_and_dark_pine-green_e002bc77/final_outputs.json",
+    "status": "success",
+    "job_id": "job_0f1a1c8198d244dba9fb9a52ee9d5a10",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-tree-color-variants-20260821/tree2/Recolor_the_foliage_to_a_deep_emerald_forest-green_palette_with_restrained_jade_highlights_and_dark_pine-green_e002bc77/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "outputs/meowa-battle-tree-color-variants-20260821/tree3/Recolor_the_foliage_to_a_cool_blue-green_pine_palette_with_teal_highlights_and_deep_blue-green_shadows_Preserv_2bbc9e08/final_outputs.json",
+    "status": "success",
+    "job_id": "job_f066dde3b7044c8c999d658c0dc75db6",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-tree-color-variants-20260821/tree3/Recolor_the_foliage_to_a_cool_blue-green_pine_palette_with_teal_highlights_and_deep_blue-green_shadows_Preserv_2bbc9e08/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "outputs/littleroot-npc-red-bow-silhouette-fix-transparent/Keep_all_12_pixel_character_frames_and_remove_only_the_flat_background/final_outputs.json",
+    "status": "success",
+    "job_id": "job_199f37bf74bd4c19bd0d0f7fe1f7eb99",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "outputs/littleroot-npc-red-bow-silhouette-fix-transparent/Keep_all_12_pixel_character_frames_and_remove_only_the_flat_background/result.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "outputs/littleroot-npc-pink-blue-edit/Make_a_subtle_edit_to_this_classic_Pokemon-style_pixel_NPC_sprite_sheet_shift_the_pink_clothing_to_soft_coral_f479dd3c/final_outputs.json",
+    "status": "success",
+    "job_id": "job_5986895636d443ebaddcaba7a39a816e",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "outputs/littleroot-npc-pink-blue-edit/Make_a_subtle_edit_to_this_classic_Pokemon-style_pixel_NPC_sprite_sheet_shift_the_pink_clothing_to_soft_coral_f479dd3c/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "outputs/littleroot-npc-red-bow-silhouette-fix/Make_only_this_tiny_palette_edit_to_the_classic_Pokemon-style_pixel_NPC_sheet_shift_the_red_bow_to_deep_raspbe_a7bafe81/final_outputs.json",
+    "status": "success",
+    "job_id": "job_70f7f79b08854b12b98005084ea9b0af",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "outputs/littleroot-npc-red-bow-silhouette-fix/Make_only_this_tiny_palette_edit_to_the_classic_Pokemon-style_pixel_NPC_sheet_shift_the_red_bow_to_deep_raspbe_a7bafe81/edited.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "outputs/littleroot-npc-red-bow-edit/Make_a_subtle_edit_to_this_classic_Pokemon-style_pixel_NPC_sprite_sheet_shift_the_red_bow_to_deep_raspberry_an_b8f18c8c/final_outputs.json",
+    "status": "success",
+    "job_id": "job_c04cdbed17964104bcd2984bf52c362f",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "outputs/littleroot-npc-red-bow-edit/Make_a_subtle_edit_to_this_classic_Pokemon-style_pixel_NPC_sprite_sheet_shift_the_red_bow_to_deep_raspberry_an_b8f18c8c/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "outputs/flower-idle-animation/A_seamless_idle_loop_the_flower_petals_gently_open_and_close_while_the_leaves_make_tiny_lively_motions_Keep_th_0ec5716c/final_outputs.json",
+    "status": "success",
+    "job_id": "job_a2a3a30cbf81489ba4acd11b4cbe5746",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "outputs/flower-idle-animation/A_seamless_idle_loop_the_flower_petals_gently_open_and_close_while_the_leaves_make_tiny_lively_motions_Keep_th_0ec5716c/result_output_url.bin",
+        "mime_type": "image/webp"
+      },
+      {
+        "type": "media",
+        "path": "outputs/flower-idle-animation/A_seamless_idle_loop_the_flower_petals_gently_open_and_close_while_the_leaves_make_tiny_lively_motions_Keep_th_0ec5716c/result_output_transparent_output_urls_gif.gif",
+        "mime_type": "image/gif"
+      },
+      {
+        "type": "media",
+        "path": "outputs/flower-idle-animation/A_seamless_idle_loop_the_flower_petals_gently_open_and_close_while_the_leaves_make_tiny_lively_motions_Keep_th_0ec5716c/result_output_transparent_output_urls_png.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "outputs/meowa-battle-platform-20260820/俯视视角的圆形像素战斗高台顶面_外圈是鲜绿短草和参差草边_中间是暖棕色踩实泥_5682aec6/final_outputs.json",
+    "status": "success",
+    "job_id": "job_0810cb4582b54bdc87979a25290e8d8b",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "outputs/meowa-battle-platform-20260820/俯视视角的圆形像素战斗高台顶面_外圈是鲜绿短草和参差草边_中间是暖棕色踩实泥_5682aec6/final_pixel_snapper.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "local-assets/meowa-jobs/route101-clearing-dual-grid/tileset/final_outputs.json",
+    "status": "success",
+    "job_id": "job_6c5e2ece416c4b13bd2fc6ea67c1ba12",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "local-assets/meowa-jobs/route101-clearing-dual-grid/tileset/tileset.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "local-assets/meowa-jobs/oldale-center-side-window-glass/Edit_this_pixel-art_building_side_elevation_with_one_change_only_replace_the_small_white_window_on_the_wall_wi_85a1c192/final_outputs.json",
+    "status": "success",
+    "job_id": "job_fcf299af9afc4c289639abc5bbc2f458",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "local-assets/meowa-jobs/oldale-center-side-window-glass/Edit_this_pixel-art_building_side_elevation_with_one_change_only_replace_the_small_white_window_on_the_wall_wi_85a1c192/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "local-assets/meowa-jobs/oldale-mart-front-elevation-retry/Redraw_this_Pokemon-style_village_shop_building_as_a_strict_eye-level_front_elevation_viewed_horizontally_from_2b991217/final_outputs.json",
+    "status": "success",
+    "job_id": "job_0074f110bc2a4e73b4df0fe827f185a6",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "local-assets/meowa-jobs/oldale-mart-front-elevation-retry/Redraw_this_Pokemon-style_village_shop_building_as_a_strict_eye-level_front_elevation_viewed_horizontally_from_2b991217/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "local-assets/meowa-jobs/oldale-center-turnaround-retry/Create_one_clean_orthographic_pixel-art_turnaround_sheet_for_this_compact_village_healing_center_Show_exactly_bab783d8/final_outputs.json",
+    "status": "success",
+    "job_id": "job_7c78eb2463b249928948498876b38bb0",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "local-assets/meowa-jobs/oldale-center-turnaround-retry/Create_one_clean_orthographic_pixel-art_turnaround_sheet_for_this_compact_village_healing_center_Show_exactly_bab783d8/sprite_00.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "local-assets/meowa-jobs/oldale-house-turnaround/Create_one_clean_orthographic_pixel-art_turnaround_sheet_for_this_small_village_house_Show_exactly_three_separ_5c636e5d/final_outputs.json",
+    "status": "success",
+    "job_id": "job_243961b1a7d543aa8ad5d4d4ddd5d002",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "local-assets/meowa-jobs/oldale-house-turnaround/Create_one_clean_orthographic_pixel-art_turnaround_sheet_for_this_small_village_house_Show_exactly_three_separ_5c636e5d/sprite_00.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "local-assets/meowa-jobs/oldale-center-front-elevation/Redraw_this_Pokemon-style_healing_center_building_as_a_strict_eye-level_front_elevation_viewed_horizontally_fr_582ceb58/final_outputs.json",
+    "status": "success",
+    "job_id": "job_2e82bf91481845a58b38ce47b2310485",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "local-assets/meowa-jobs/oldale-center-front-elevation/Redraw_this_Pokemon-style_healing_center_building_as_a_strict_eye-level_front_elevation_viewed_horizontally_fr_582ceb58/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "local-assets/meowa-jobs/oldale-center-front-elevation-straight/Edit_this_pixel-art_building_front_elevation_with_one_change_only_make_the_wall_a_plain_flat_rectangle_with_st_b800b78f/final_outputs.json",
+    "status": "success",
+    "job_id": "job_155dfb1a599f486c8af302957b7f9c14",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "local-assets/meowa-jobs/oldale-center-front-elevation-straight/Edit_this_pixel-art_building_front_elevation_with_one_change_only_make_the_wall_a_plain_flat_rectangle_with_st_b800b78f/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "local-assets/meowa-jobs/oldale-mart-front-elevation-straight/Edit_this_pixel-art_building_front_elevation_with_one_change_only_make_the_wall_a_plain_flat_rectangle_with_st_6b823b10/final_outputs.json",
+    "status": "success",
+    "job_id": "job_04bcc6a6df974aca80c7bdf8884c2b62",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "local-assets/meowa-jobs/oldale-mart-front-elevation-straight/Edit_this_pixel-art_building_front_elevation_with_one_change_only_make_the_wall_a_plain_flat_rectangle_with_st_6b823b10/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "local-assets/meowa-jobs/oldale-center-front-door-glass/Edit_this_pixel-art_building_front_elevation_with_one_change_only_replace_the_dark_door_with_a_bright_sliding_349fc765/final_outputs.json",
+    "status": "success",
+    "job_id": "job_e8314bcc352d44dc960188458577c628",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "local-assets/meowa-jobs/oldale-center-front-door-glass/Edit_this_pixel-art_building_front_elevation_with_one_change_only_replace_the_dark_door_with_a_bright_sliding_349fc765/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "local-assets/meowa-jobs/oldale-mart-turnaround/Create_one_clean_orthographic_pixel-art_turnaround_sheet_for_this_compact_village_shop_Show_exactly_three_sepa_9a74e24e/final_outputs.json",
+    "status": "success",
+    "job_id": "job_ce4301488d824bd99c197fd20cedb40b",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "local-assets/meowa-jobs/oldale-mart-turnaround/Create_one_clean_orthographic_pixel-art_turnaround_sheet_for_this_compact_village_shop_Show_exactly_three_sepa_9a74e24e/sprite_00.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "local-assets/meowa-jobs/oldale-mart-side-elevation/Show_the_RIGHT_SIDE_of_this_same_Pokemon-style_building_as_a_strict_eye-level_side_elevation_viewed_horizontal_6a6a964c/final_outputs.json",
+    "status": "success",
+    "job_id": "job_5929fcd5a25d48f1b2040c497f40fd7c",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "local-assets/meowa-jobs/oldale-mart-side-elevation/Show_the_RIGHT_SIDE_of_this_same_Pokemon-style_building_as_a_strict_eye-level_side_elevation_viewed_horizontal_6a6a964c/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "local-assets/meowa-jobs/tall-grass/Lightly_redesign_this_top-down_pixel-art_tall_grass_tile_into_an_original_monster-catching_RPG_environment_ass_43d4fd9a/final_outputs.json",
+    "status": "success",
+    "job_id": "job_7ab3e52a9bdb4f9fbcb6ca1132423f97",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "local-assets/meowa-jobs/tall-grass/Lightly_redesign_this_top-down_pixel-art_tall_grass_tile_into_an_original_monster-catching_RPG_environment_ass_43d4fd9a/edited.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "local-assets/meowa-jobs/oldale-mart-top-view/Draw_the_ROOF_of_this_same_Pokemon-style_building_as_a_strict_top-down_plan_view_looking_straight_down_from_di_f10dbdf4/final_outputs.json",
+    "status": "success",
+    "job_id": "job_16e1a7581efe4369844942cd483a3b51",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "local-assets/meowa-jobs/oldale-mart-top-view/Draw_the_ROOF_of_this_same_Pokemon-style_building_as_a_strict_top-down_plan_view_looking_straight_down_from_di_f10dbdf4/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "local-assets/meowa-jobs/oldale-center-turnaround/Create_one_clean_orthographic_pixel-art_turnaround_sheet_for_this_compact_village_healing_center_Show_exactly_d18bb5a1/final_outputs.json",
+    "status": "success",
+    "job_id": "job_d9868df6d2294e228772caa2332a2101",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "local-assets/meowa-jobs/oldale-center-turnaround/Create_one_clean_orthographic_pixel-art_turnaround_sheet_for_this_compact_village_healing_center_Show_exactly_d18bb5a1/sprite_00.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "local-assets/meowa-jobs/oldale-mart-back-elevation/Show_the_BACK_side_of_this_same_Pokemon-style_building_as_a_strict_eye-level_rear_elevation_viewed_horizontall_bffb59b0/final_outputs.json",
+    "status": "success",
+    "job_id": "job_676fa3dea98e4f17bc281b8c55cd4593",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "local-assets/meowa-jobs/oldale-mart-back-elevation/Show_the_BACK_side_of_this_same_Pokemon-style_building_as_a_strict_eye-level_rear_elevation_viewed_horizontall_bffb59b0/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "local-assets/meowa-jobs/oldale-center-back-elevation/Show_the_BACK_side_of_this_same_Pokemon-style_building_as_a_strict_eye-level_rear_elevation_viewed_horizontall_97019187/final_outputs.json",
+    "status": "success",
+    "job_id": "job_a90bfe363c94409d82658dcc6f2c3ef7",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "local-assets/meowa-jobs/oldale-center-back-elevation/Show_the_BACK_side_of_this_same_Pokemon-style_building_as_a_strict_eye-level_rear_elevation_viewed_horizontall_97019187/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "local-assets/meowa-jobs/oldale-center-side-elevation/Show_the_RIGHT_SIDE_of_this_same_Pokemon-style_building_as_a_strict_eye-level_side_elevation_viewed_horizontal_62782515/final_outputs.json",
+    "status": "success",
+    "job_id": "job_9ec5742c7e7541208daa535a75c20a1b",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "local-assets/meowa-jobs/oldale-center-side-elevation/Show_the_RIGHT_SIDE_of_this_same_Pokemon-style_building_as_a_strict_eye-level_side_elevation_viewed_horizontal_62782515/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "local-assets/meowa-jobs/oldale-house-front-edit/Lightly_redesign_this_small_pixel-art_village_house_with_a_muted_honey-gold_roof_warm_beige_walls_and_desatura_ff42ea91/final_outputs.json",
+    "status": "success",
+    "job_id": "job_63117a6326fd4fd68d62e210a10ea8fe",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "local-assets/meowa-jobs/oldale-house-front-edit/Lightly_redesign_this_small_pixel-art_village_house_with_a_muted_honey-gold_roof_warm_beige_walls_and_desatura_ff42ea91/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "local-assets/meowa-jobs/tall-grass-clump/Transform_this_top-down_grass_reference_into_one_original_side-view_pixel-art_tall-grass_clump_sprite_for_an_H_cbef017a/final_outputs.json",
+    "status": "success",
+    "job_id": "job_12922b6fc1264e249073987e7cb24f51",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "local-assets/meowa-jobs/tall-grass-clump/Transform_this_top-down_grass_reference_into_one_original_side-view_pixel-art_tall-grass_clump_sprite_for_an_H_cbef017a/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "local-assets/meowa-jobs/oldale-mart-front-elevation/Redraw_this_Pokemon-style_village_shop_building_as_a_strict_eye-level_front_elevation_viewed_horizontally_from_ebeebc07/final_outputs.json",
+    "status": "success",
+    "job_id": "job_cbfb9e738d76424ab53ff766c328e9b1",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "local-assets/meowa-jobs/oldale-mart-front-elevation/Redraw_this_Pokemon-style_village_shop_building_as_a_strict_eye-level_front_elevation_viewed_horizontally_from_ebeebc07/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "local-assets/meowa-jobs/route101-clearing-texture/Seamless_pale_mint-green_short_grass_ground_texture_matching_a_soft_retro_monster-catching_RPG_pixel-art_meado_e9e7b8cd/final_outputs.json",
+    "status": "success",
+    "job_id": "job_f458de5226e241ff80136bcbb7854180",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "local-assets/meowa-jobs/route101-clearing-texture/Seamless_pale_mint-green_short_grass_ground_texture_matching_a_soft_retro_monster-catching_RPG_pixel-art_meado_e9e7b8cd/texture.png",
+        "mime_type": "image/png"
+      },
+      {
+        "type": "media",
+        "path": "local-assets/meowa-jobs/route101-clearing-texture/Seamless_pale_mint-green_short_grass_ground_texture_matching_a_soft_retro_monster-catching_RPG_pixel-art_meado_e9e7b8cd/step_20_tiling_preview.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "local-assets/meowa-jobs/oldale-center-side-elevation-retry/Show_the_RIGHT_SIDE_of_this_same_Pokemon-style_building_as_a_strict_eye-level_side_elevation_viewed_horizontal_82bc9b20/final_outputs.json",
+    "status": "success",
+    "job_id": "job_c8bc31aa73834806b4157d35ffa05ec3",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "local-assets/meowa-jobs/oldale-center-side-elevation-retry/Show_the_RIGHT_SIDE_of_this_same_Pokemon-style_building_as_a_strict_eye-level_side_elevation_viewed_horizontal_82bc9b20/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "local-assets/meowa-jobs/oldale-center-top-view/Draw_the_ROOF_of_this_same_Pokemon-style_building_as_a_strict_top-down_plan_view_looking_straight_down_from_di_370852f1/final_outputs.json",
+    "status": "success",
+    "job_id": "job_fd5589e5c0304f41974feaaa6a842bf2",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "local-assets/meowa-jobs/oldale-center-top-view/Draw_the_ROOF_of_this_same_Pokemon-style_building_as_a_strict_top-down_plan_view_looking_straight_down_from_di_370852f1/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "local-assets/pokemon-reference/generated-three-views/lab/Create_one_clean_pixel-art_orthographic_turnaround_sheet_for_Professor_Birch_laboratory_in_the_references_Show_b7df3d35/final_outputs.json",
+    "status": "success",
+    "job_id": "job_b650566f60de4ca591e37ae060472314",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "assets-src/generated-three-views/lab/Create_one_clean_pixel-art_orthographic_turnaround_sheet_for_Professor_Birch_laboratory_in_the_references_Show_b7df3d35/sprite_00.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "local-assets/pokemon-reference/generated-three-views/edited/lab/Lightly_redesign_this_three-view_laboratory_into_an_original_GBA-era_monster-catching_RPG_research_building_Pr_c62257e3/final_outputs.json",
+    "status": "success",
+    "job_id": "job_faec4079027e485189ef4975b41af181",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "assets-src/generated-three-views/edited/lab/Lightly_redesign_this_three-view_laboratory_into_an_original_GBA-era_monster-catching_RPG_research_building_Pr_c62257e3/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "local-assets/pokemon-reference/generated-three-views/edited/house/Lightly_redesign_this_three-view_house_into_an_original_GBA-era_monster-catching_RPG_building_Preserve_exactly_93a18500/final_outputs.json",
+    "status": "success",
+    "job_id": "job_5d081667d72f43f79fbe943c43be37dc",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "assets-src/generated-three-views/edited/house/Lightly_redesign_this_three-view_house_into_an_original_GBA-era_monster-catching_RPG_building_Preserve_exactly_93a18500/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "local-assets/pokemon-reference/generated-three-views/house/Create_one_clean_pixel-art_orthographic_turnaround_sheet_for_the_small_Littleroot_house_in_the_references_Show_cff96e94/final_outputs.json",
+    "status": "success",
+    "job_id": "job_3eade98b34b0464eaf1f61bceeb86ce6",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "assets-src/generated-three-views/house/Create_one_clean_pixel-art_orthographic_turnaround_sheet_for_the_small_Littleroot_house_in_the_references_Show_cff96e94/sprite_00.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "local-assets/pokemon-reference/generated-image-edits/player/Make_only_a_subtle_palette_and_clothing-detail_edit_to_this_pixel-art_walking_sprite_sheet_Preserve_the_exact_252a32a5/final_outputs.json",
+    "status": "failure",
+    "job_id": "job_65a4ab2f812048cd8c19dcbaa07bc309",
+    "outputs": []
+  },
+  {
+    "original_manifest": "local-assets/pokemon-reference/generated-image-edits/player-retry/Subtly_recolor_this_nine-frame_pixel_walking_sheet_warm_ivory_and_muted_teal_cap_deep_navy-charcoal_clothes_re_2b4be31f/final_outputs.json",
+    "status": "failure",
+    "job_id": "job_0c52d447efe04c149585f1d1ac82a512",
+    "outputs": []
+  },
+  {
+    "original_manifest": "local-assets/pokemon-reference/generated-image-edits/tree-8x/Make_only_a_subtle_palette_edit_to_this_pixel_tree_Preserve_its_exact_silhouette_canopy_and_trunk_shapes_pixel_d2ec294a/final_outputs.json",
+    "status": "failure",
+    "job_id": "job_ef324923ffd34a97abcbdf1d8992b013",
+    "outputs": []
+  },
+  {
+    "original_manifest": "local-assets/pokemon-reference/generated-image-edits/player-padded/Subtly_recolor_the_nine-frame_pixel_walking_sheet_warm_ivory_and_muted_teal_cap_deep_navy-charcoal_clothes_res_20efefc3/final_outputs.json",
+    "status": "failure",
+    "job_id": "job_7670fca6986346518415f9d25da1c904",
+    "outputs": []
+  },
+  {
+    "original_manifest": "local-assets/pokemon-reference/generated-image-edits/tree-opaque/Subtly_recolor_only_the_pixel_tree_slightly_fresher_teal-green_foliage_soft_yellow-green_highlights_and_a_warm_53a23045/final_outputs.json",
+    "status": "success",
+    "job_id": "job_df6c2e3cab79411287c90344f63b815c",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "assets-src/generated-image-edits/tree-opaque/Subtly_recolor_only_the_pixel_tree_slightly_fresher_teal-green_foliage_soft_yellow-green_highlights_and_a_warm_53a23045/edited.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "local-assets/pokemon-reference/generated-image-edits/tree-retry/Make_a_very_subtle_palette_edit_to_this_pixel_tree_Keep_the_exact_32x40_size_silhouette_canopy_shape_trunk_sha_e0239604/final_outputs.json",
+    "status": "failure",
+    "job_id": "job_5985c10b7432407da308d50c4c7b6784",
+    "outputs": []
+  },
+  {
+    "original_manifest": "local-assets/pokemon-reference/generated-image-edits/nano-banana/flower/Subtly_recolor_this_tiny_pixel_flower_cluster_with_muted_coral-red_petals_warm_golden_centers_and_slightly_dee_721590ad/final_outputs.json",
+    "status": "success",
+    "job_id": "job_54bcf0e664e545afb888cc3a6df39570",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "assets-src/generated-image-edits/nano-banana/flower/Subtly_recolor_this_tiny_pixel_flower_cluster_with_muted_coral-red_petals_warm_golden_centers_and_slightly_dee_721590ad/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "local-assets/pokemon-reference/generated-image-edits/nano-banana/player/Subtly_recolor_this_nine-frame_pixel_walking_sheet_warm_ivory_and_muted_teal_cap_deep_navy-charcoal_clothes_an_f0e5065b/final_outputs.json",
+    "status": "success",
+    "job_id": "job_11798d106813416086821badaa6298e4",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "assets-src/generated-image-edits/nano-banana/player/Subtly_recolor_this_nine-frame_pixel_walking_sheet_warm_ivory_and_muted_teal_cap_deep_navy-charcoal_clothes_an_f0e5065b/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "local-assets/pokemon-reference/generated-image-edits/nano-banana/tree/Subtly_recolor_this_pixel_tree_with_slightly_fresher_teal-green_foliage_soft_yellow-green_highlights_and_a_war_e1e2eeb8/final_outputs.json",
+    "status": "success",
+    "job_id": "job_f410fb16ea3e4e8f856c0f4e9cc35801",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "assets-src/generated-image-edits/nano-banana/tree/Subtly_recolor_this_pixel_tree_with_slightly_fresher_teal-green_foliage_soft_yellow-green_highlights_and_a_war_e1e2eeb8/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "local-assets/pokemon-reference/generated-image-edits/nano-banana/grass/Make_only_a_very_subtle_palette_edit_to_this_seamless_pixel-art_grass_tile_shift_the_mint_green_slightly_towar_fcc59f48/final_outputs.json",
+    "status": "success",
+    "job_id": "job_28650d001b7f4dacaaf2da641bc6dc8c",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "assets-src/generated-image-edits/nano-banana/grass/Make_only_a_very_subtle_palette_edit_to_this_seamless_pixel-art_grass_tile_shift_the_mint_green_slightly_towar_fcc59f48/edited.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": "local-assets/pokemon-reference/generated-image-edits/nano-banana/player-may/Subtly_recolor_this_nine-frame_pixel_walking_sheet_warm_cream_headwear_with_muted_coral_accents_deep_forest-te_9fb8249d/final_outputs.json",
+    "status": "success",
+    "job_id": "job_c01bb56eb23b4bfa8f92fe238a822b4d",
+    "outputs": [
+      {
+        "type": "media",
+        "path": "assets-src/generated-image-edits/nano-banana/player-may/Subtly_recolor_this_nine-frame_pixel_walking_sheet_warm_cream_headwear_with_muted_coral_accents_deep_forest-te_9fb8249d/remove_bg.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": ".tmp/meowa-door-girl-idle/generated/A_seamless_four-frame_idle_loop_The_girl_breathes_gently_in_place_while_her_hair_bow_and_dress_move_subtly_Her_67261b56/final_outputs.json",
+    "status": "success",
+    "job_id": "job_998947b522aa48a7a389e24989965b2f",
+    "outputs": [
+      {
+        "type": "media",
+        "path": ".tmp/meowa-door-girl-idle/generated/A_seamless_four-frame_idle_loop_The_girl_breathes_gently_in_place_while_her_hair_bow_and_dress_move_subtly_Her_67261b56/result_output_url.bin",
+        "mime_type": "image/webp"
+      },
+      {
+        "type": "media",
+        "path": ".tmp/meowa-door-girl-idle/generated/A_seamless_four-frame_idle_loop_The_girl_breathes_gently_in_place_while_her_hair_bow_and_dress_move_subtly_Her_67261b56/result_output_transparent_output_urls_gif.gif",
+        "mime_type": "image/gif"
+      },
+      {
+        "type": "media",
+        "path": ".tmp/meowa-door-girl-idle/generated/A_seamless_four-frame_idle_loop_The_girl_breathes_gently_in_place_while_her_hair_bow_and_dress_move_subtly_Her_67261b56/result_output_transparent_output_urls_png.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": ".tmp/meowa-may-woman-idle/generated-woman/A_seamless_four-frame_idle_loop_The_friendly_woman_breathes_gently_in_place_while_her_hair_and_dress_move_subt_ec75c598/final_outputs.json",
+    "status": "success",
+    "job_id": "job_7b267f7efd8443a781068b5360945105",
+    "outputs": [
+      {
+        "type": "media",
+        "path": ".tmp/meowa-may-woman-idle/generated-woman/A_seamless_four-frame_idle_loop_The_friendly_woman_breathes_gently_in_place_while_her_hair_and_dress_move_subt_ec75c598/result_output_url.bin",
+        "mime_type": "image/webp"
+      },
+      {
+        "type": "media",
+        "path": ".tmp/meowa-may-woman-idle/generated-woman/A_seamless_four-frame_idle_loop_The_friendly_woman_breathes_gently_in_place_while_her_hair_and_dress_move_subt_ec75c598/result_output_transparent_output_urls_gif.gif",
+        "mime_type": "image/gif"
+      },
+      {
+        "type": "media",
+        "path": ".tmp/meowa-may-woman-idle/generated-woman/A_seamless_four-frame_idle_loop_The_friendly_woman_breathes_gently_in_place_while_her_hair_and_dress_move_subt_ec75c598/result_output_transparent_output_urls_png.png",
+        "mime_type": "image/png"
+      }
+    ]
+  },
+  {
+    "original_manifest": ".tmp/meowa-may-woman-idle/generated-may/A_seamless_four-frame_idle_loop_May_breathes_gently_in_place_while_her_bandana_tails_hair_and_clothes_move_sub_3bddf6dc/final_outputs.json",
+    "status": "success",
+    "job_id": "job_4304d8461dbb43a1a59c0911171b286a",
+    "outputs": [
+      {
+        "type": "media",
+        "path": ".tmp/meowa-may-woman-idle/generated-may/A_seamless_four-frame_idle_loop_May_breathes_gently_in_place_while_her_bandana_tails_hair_and_clothes_move_sub_3bddf6dc/result_output_url.bin",
+        "mime_type": "image/webp"
+      },
+      {
+        "type": "media",
+        "path": ".tmp/meowa-may-woman-idle/generated-may/A_seamless_four-frame_idle_loop_May_breathes_gently_in_place_while_her_bandana_tails_hair_and_clothes_move_sub_3bddf6dc/result_output_transparent_output_urls_gif.gif",
+        "mime_type": "image/gif"
+      },
+      {
+        "type": "media",
+        "path": ".tmp/meowa-may-woman-idle/generated-may/A_seamless_four-frame_idle_loop_May_breathes_gently_in_place_while_her_bandana_tails_hair_and_clothes_move_sub_3bddf6dc/result_output_transparent_output_urls_png.png",
+        "mime_type": "image/png"
+      }
+    ]
+  }
+]

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reference to 3D Building"
+  short_description: "Turn building references into validated 3D assets"
+  default_prompt: "Use $reference-to-3d-building to generate a three-view turnaround from this building reference and implement the corresponding 3D game model."

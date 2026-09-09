@@ -1,0 +1,22 @@
+# Local credentials and environment configuration
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Local caches and generated files
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+.godot/
+node_modules/
+
+# Local agent state
+.agents/
+.claude/
+.playwright-mcp/
+.superpowers/
+
+# Versioned Meowa asset-generation skills used by the Three.js project
+!/HD2D-pokemon-threejs/.agents/

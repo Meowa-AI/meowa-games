@@ -1,0 +1,3308 @@
+{
+  "updated_at": "2026-09-09T09:10:08.002918+00:00",
+  "scope": "Six opening species; source and runtime copies counted once. Existing Meowa assets follow the prior project generation records; reference edits include their exact task IDs and final file hashes.",
+  "original_non_meowa_runtime_files": 1269,
+  "retained_from_original_list": 151,
+  "counts": {
+    "original-audio-retained": 38,
+    "existing-meowa-asset": 95,
+    "meowa-reference-edit": 119,
+    "runtime-metadata": 1
+  },
+  "assets": [
+    {
+      "path": "audio/cries/mudkip.wav",
+      "sha256": "243a5eb44a09618bf0fabe209fdeffbc17ff3270c3e1e7b0c2b7acd74825ef6a",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/cries/poochyena.wav",
+      "sha256": "314577260f78afe70a81d7fbceb33b09c01313b2785bcde8d86f26ebeda616e1",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/cries/torchic.wav",
+      "sha256": "f9cc0b2b1ace48b374c0afed4f00a11113f0343147d51c7698bfa624308cd8b3",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/cries/treecko.wav",
+      "sha256": "01379f03d3a3940c1f0e602f4de20efea76772fa847df0026a4723e56d7923cc",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/cries/wurmple.wav",
+      "sha256": "e4428f2ab72b23c23c195848991aeb85668cfe16b416f1dbf620936984aba406",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/cries/zigzagoon.wav",
+      "sha256": "6043900a25e403dbb0b5e032f8dc87ac05c5decfd5bc4721d0ecc5b6615e39f5",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/music/caught.wav",
+      "sha256": "2c22403c5447659b2fc31e6701b7fc33d6fa4424ead026480954e6c2927b638a",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/music/wild-battle-intro.wav",
+      "sha256": "9d030f4a6231baff79812c498932c51097cb5e0187497115bdfbddeec8c49f49",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/music/wild-battle-loop.wav",
+      "sha256": "71f00a3be5002c44a2457d18f621a5da459021faf13d5a062d7ffede5685886c",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/music/wild-victory-intro.wav",
+      "sha256": "d5d0c0fbec9688f47f74efb9eb0cedba116d210a90eadd37da163be8bd229336",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/music/wild-victory-loop.wav",
+      "sha256": "2ad6732ac1466fece9b42024061bf2c4f7a43ee7828193d86f1d24e619591158",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/sfx/battle/ball-absorb.wav",
+      "sha256": "26d85a8de73bbec522c4452e891882a6be5567c4d3af0638f7920a1d9b359cab",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/sfx/battle/ball-click.wav",
+      "sha256": "e3842018734a59c51822f9d8eea6dd88e513a571dbb6bfc0433ddadc475946e7",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/sfx/battle/ball-drop.wav",
+      "sha256": "04e57b2a99058d704eee8550de74ac5929148b34502cd5746b459e7dfa662b39",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/sfx/battle/ball-hit.wav",
+      "sha256": "fc216784b49d26c59e7c625e03b14ce34d9272c8713dfac81bfe3e08f9a7f144",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/sfx/battle/ball-shake.wav",
+      "sha256": "9dc388eb7073ddd6c90372ab0c21d138041d6abbd8b017b5e204adddd71aad47",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/sfx/battle/capture-success.wav",
+      "sha256": "63907e18b532c1491be665df0715aadb97e4b2b1b55061723124c73677bc64da",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/sfx/battle/flee.wav",
+      "sha256": "09259f07ecb1d204df199b6882e7eeb4357423941ec6277c0f5774d292678672",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/sfx/battle/heal.wav",
+      "sha256": "9455ae1d27b9389224ab0d1d2318e208b06ec8b098b6628d8497635ac7da721a",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/sfx/battle/hit-normal.wav",
+      "sha256": "9d27e0a24ac04db2859878e7b7f195b7d04aa4a1b2a31f27f4d40e8ac84a33c0",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/sfx/battle/lost.wav",
+      "sha256": "42b1f4942ac612977e5268cd61ca89fa3ba41cde424da84d1b60cca7422a3f04",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/sfx/battle/low-hp.wav",
+      "sha256": "58a1930e52512a7b23531c8f8386b0fbf05cbc96773d697efb194a856c1c446f",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/sfx/battle/party-switch.wav",
+      "sha256": "59826b1e6f0650f4c76ab89d4b84e087f30a05be1185b96d8ebd75e38f84ca25",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/sfx/battle/release-pokemon.wav",
+      "sha256": "d0068655fbcaabd0a05e19e85b71fad5590d07a92dac9acf4980e662785abc2a",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/sfx/battle/throw-ball.wav",
+      "sha256": "26b105031bd7aac79a270c53b95be3f3b9329cd9893c40950007ced1182ffcd4",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/sfx/moves/leer.wav",
+      "sha256": "33cb9c9dca0ba213728debc7f1ff924194c4789e944ade33799505be51b32f4c",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/sfx/moves/pound.wav",
+      "sha256": "369bff091c743b09d39a6ae04d9c034ae1c1d79d9986e4c688f061312aff517e",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/sfx/moves/scratch.wav",
+      "sha256": "6cfaf9182ecc8755bfee81ac7137d9eda898292ac6f79c88b93b8a77c4a846cb",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/sfx/ui/hover.wav",
+      "sha256": "97a29313e1e8bf045f36edfc9d811ba24a5a39a2de3fbba0fa15a52c2be2e0df",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/sfx/ui/menu-close.wav",
+      "sha256": "96f91d87d01e60abab92cf37819a8369d9ed0cda2b3f2c0c9791a7ce971a9100",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/sfx/ui/menu-open.wav",
+      "sha256": "1480da24fbdb66acbf00438a1257c0d26ba5eb9ba895515ebbe81aa70407811b",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/sfx/ui/select.wav",
+      "sha256": "7d89bfbacee820cb8bc3306d94776b19f5bff5907938db9f75f5c1c00598efe0",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/sfx/world/door-enter.wav",
+      "sha256": "911931471d5e8669e2a87501752f64fce742185938cfe0de3bf27b094a3ef2d3",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/sfx/world/door-exit.wav",
+      "sha256": "4370e9d044c00257198ec7942d002653c8b8fbfec97fe17c4fd9eb35363316c9",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/sfx/world/exclaim.wav",
+      "sha256": "b86d9b3998b1eafa9fcd83c891741aff9832f3d4c13cab974a23b1c0efcaa724",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "audio/sfx/world/grass-step.wav",
+      "sha256": "085e63ee65b4184ab42cb1c514ba13bfacf5465a3e0da494d1902e32576f6b6a",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "battle/environment/meowa-variants/props/grass-shape1.png",
+      "sha256": "868dd3df6c8c9e1a6984ff601f1e562a52454d3c13fec5d8ffb4e1af7cb8d774",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "battle/environment/meowa-variants/props/grass-shape2.png",
+      "sha256": "58f18b479983383e2735b55247f410f7cc17de8cc37651ab1a287aa313aaea08",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "battle/environment/meowa-variants/props/grass-shape3.png",
+      "sha256": "3cbd4d633c034ac2cc60afa3eda062f5310e54dc627af0732fd69a53f99c6f00",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "battle/environment/meowa-variants/props/grass-shape4.png",
+      "sha256": "1d502572d5d0e30fdbd18744ccabbe407d9930152899472e6ffce8c2c3d5edf9",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "battle/environment/meowa-variants/props/rock-shape1.png",
+      "sha256": "c9f5d9ae89864aff85a295755e76255b5e523e818fa646f9b19389d7cd3d6970",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "battle/environment/meowa-variants/props/rock-shape2.png",
+      "sha256": "ba48d78c3cff73639690f5f8af8ce8ec85829cb18ec376f3e80ca4f209014d44",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "battle/environment/meowa-variants/props/rock-shape3.png",
+      "sha256": "d960e199b5b2e273c045e81461511449bdfefd828fee8b7c1463e5254a4b638c",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "battle/environment/meowa-variants/props/rock-shape4.png",
+      "sha256": "8f65a13c919a3979f0792bcd848b1c2ba0ca707c1c1e4f6b70c71e7af7383cb8",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "battle/environment/meowa-variants/trees/colors/tree-color1.png",
+      "sha256": "5ff68ba9c4ebdb5b1238bfb30b7faeadd053dc41c469ec19d3e89a5470a64930",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "battle/environment/meowa-variants/trees/colors/tree-color2.png",
+      "sha256": "1a754443936e84ba0c6aca8db03d1c2e59a38a98891619d8d1839b1f6071ad7d",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "battle/environment/meowa-variants/trees/colors/tree-color3.png",
+      "sha256": "a7e469616d54fc4d5a546c102366a8b987decd8a30b130e6b4c9b823ecbf1a7a",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "battle/environment/meowa-variants/trees/colors/tree-color4.png",
+      "sha256": "d7a43fbe0c0dff7ad1d62adf7117766eba1c1e99f9734dafe042d08877801351",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "battle/environment/meowa-variants/trees/layers/leaves1.png",
+      "sha256": "4df308f726cf52adbe3e994594ffb571f5dad00e8fdd5b624c39aaced5cee7db",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "battle/environment/meowa-variants/trees/layers/leaves2.png",
+      "sha256": "aa80752d2b00c05039a002bbab5d230712d711b2b7d85d2a8f9d6a5b344eaa2b",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "battle/environment/meowa-variants/trees/layers/leaves3.png",
+      "sha256": "654f6871a347b42d52db30e94d258e804ae9b6c5a749a51d2bb5387de443f7f5",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "battle/environment/meowa-variants/trees/layers/leaves4.png",
+      "sha256": "2a3505d27a893e979ba0d25a0e9aac5b5560b8bf3a91bd2752ea652a03f4f66f",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "battle/environment/meowa-variants/trees/layers/leaves5.png",
+      "sha256": "977ec1b453b02a18e829e93c7406787d806039cbf21ef66651cf9f941a756f24",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "battle/environment/pixel/forest_floor.png",
+      "sha256": "2a9e5f494f1950806db020b2e60e8c5e74c94a36da84be365b5d9c863f5fb1ba",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "battle/environment/pixel/grass.png",
+      "sha256": "ac21d8a15f85a5be7447105f7fa3eb66590d29a1b046d2af00e754e347c10770",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "battle/environment/pokemon-reference/sky/skylight-strip.png",
+      "sha256": "5ec24a0b5d9f7abe2a17a1b5ccb50cbd9b912644824e3c14e07a73da1163334b",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_3754fcc0da32464e830f4d301df1fdfb",
+        "capability": "one-click-upgrade-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/sky-retry/Refine_the_existing_sky_shading_almost_imperceptibly_Preserve_every_cloud_color_horizon_and_the_exact_six-face_61695242/final_outputs.json",
+        "width": 512,
+        "height": 3072,
+        "output_sha256": "5ec24a0b5d9f7abe2a17a1b5ccb50cbd9b912644824e3c14e07a73da1163334b",
+        "validation": "All six sky faces visually compared against original; preserved face order and 512 px face size; fully opaque; repacked 3x2 Meowa final image to vertical cube-map strip."
+      }
+    },
+    {
+      "path": "battle/platform/battle-platform-top.png",
+      "sha256": "59ed21af586e36d3d733da619692ef856446485f2b8d4d544af2dfabf0a491ca",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "battle/transition/SPR_NewPokeball1.png",
+      "sha256": "070fc715ee3620ce1e829d78ab7e1bf76298c66cbef33633bc319eb6a0d39903",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_cf801930d7a84a46a845d5bce08b67bb",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/pokeball-frames/Refine_only_a_few_interior_shading_pixels_on_these_Pokeball_animation_frames_Preserve_the_red_and_white_ball_d_589c6654/final_outputs.json",
+        "output_sha256": "070fc715ee3620ce1e829d78ab7e1bf76298c66cbef33633bc319eb6a0d39903",
+        "width": 32,
+        "height": 32,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "battle/transition/SPR_Pokeball_Release1.png",
+      "sha256": "025bbb73d940ac6e0914a6544e7d17d9d4c25da02d407a1a8771882f19c00beb",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_cf801930d7a84a46a845d5bce08b67bb",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/pokeball-frames/Refine_only_a_few_interior_shading_pixels_on_these_Pokeball_animation_frames_Preserve_the_red_and_white_ball_d_589c6654/final_outputs.json",
+        "output_sha256": "025bbb73d940ac6e0914a6544e7d17d9d4c25da02d407a1a8771882f19c00beb",
+        "width": 32,
+        "height": 32,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "battle/transition/SPR_Pokeball_Release10.png",
+      "sha256": "121ee684c89acb25344961d2871fa9640c6b192810509f6cd399b43ce89a1c0b",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_cf801930d7a84a46a845d5bce08b67bb",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/pokeball-frames/Refine_only_a_few_interior_shading_pixels_on_these_Pokeball_animation_frames_Preserve_the_red_and_white_ball_d_589c6654/final_outputs.json",
+        "output_sha256": "121ee684c89acb25344961d2871fa9640c6b192810509f6cd399b43ce89a1c0b",
+        "width": 32,
+        "height": 32,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "battle/transition/SPR_Pokeball_Release11.png",
+      "sha256": "8cefc0d857dfff2d9736f36d03d5a08f4bd1c763bbac809128a6d5ef5fec6e15",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_cf801930d7a84a46a845d5bce08b67bb",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/pokeball-frames/Refine_only_a_few_interior_shading_pixels_on_these_Pokeball_animation_frames_Preserve_the_red_and_white_ball_d_589c6654/final_outputs.json",
+        "output_sha256": "8cefc0d857dfff2d9736f36d03d5a08f4bd1c763bbac809128a6d5ef5fec6e15",
+        "width": 32,
+        "height": 32,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "battle/transition/SPR_Pokeball_Release2.png",
+      "sha256": "b90cf4c2030297053157c54af609284ea3545d90c19e30376b872d245b0e7969",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_cf801930d7a84a46a845d5bce08b67bb",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/pokeball-frames/Refine_only_a_few_interior_shading_pixels_on_these_Pokeball_animation_frames_Preserve_the_red_and_white_ball_d_589c6654/final_outputs.json",
+        "output_sha256": "b90cf4c2030297053157c54af609284ea3545d90c19e30376b872d245b0e7969",
+        "width": 32,
+        "height": 32,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "battle/transition/SPR_Pokeball_Release3.png",
+      "sha256": "ab3d3dc3da8359bb2879b670f4c4b6b2991604bfef2c2e3fa234228b2e45c118",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_cf801930d7a84a46a845d5bce08b67bb",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/pokeball-frames/Refine_only_a_few_interior_shading_pixels_on_these_Pokeball_animation_frames_Preserve_the_red_and_white_ball_d_589c6654/final_outputs.json",
+        "output_sha256": "ab3d3dc3da8359bb2879b670f4c4b6b2991604bfef2c2e3fa234228b2e45c118",
+        "width": 32,
+        "height": 32,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "battle/transition/SPR_Pokeball_Release4.png",
+      "sha256": "70887fefb30b9271f0af13aea83eef7da1ce348d5389d7596ad5fd2b13a4853d",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_cf801930d7a84a46a845d5bce08b67bb",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/pokeball-frames/Refine_only_a_few_interior_shading_pixels_on_these_Pokeball_animation_frames_Preserve_the_red_and_white_ball_d_589c6654/final_outputs.json",
+        "output_sha256": "70887fefb30b9271f0af13aea83eef7da1ce348d5389d7596ad5fd2b13a4853d",
+        "width": 32,
+        "height": 32,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "battle/transition/SPR_Pokeball_Release5.png",
+      "sha256": "af2ae1de92050504f8a19b0a2380bd4938a82b92711be3ce06bbacb77209ce99",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_cf801930d7a84a46a845d5bce08b67bb",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/pokeball-frames/Refine_only_a_few_interior_shading_pixels_on_these_Pokeball_animation_frames_Preserve_the_red_and_white_ball_d_589c6654/final_outputs.json",
+        "output_sha256": "af2ae1de92050504f8a19b0a2380bd4938a82b92711be3ce06bbacb77209ce99",
+        "width": 32,
+        "height": 32,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "battle/transition/SPR_Pokeball_Release6.png",
+      "sha256": "9a7d00a7a72a2edb7f09ea3758ac8d31eb2dcad5bd4443a3c0fe2796cfa2eb1d",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_cf801930d7a84a46a845d5bce08b67bb",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/pokeball-frames/Refine_only_a_few_interior_shading_pixels_on_these_Pokeball_animation_frames_Preserve_the_red_and_white_ball_d_589c6654/final_outputs.json",
+        "output_sha256": "9a7d00a7a72a2edb7f09ea3758ac8d31eb2dcad5bd4443a3c0fe2796cfa2eb1d",
+        "width": 32,
+        "height": 32,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "battle/transition/SPR_Pokeball_Release7.png",
+      "sha256": "a500e0f85be02eb4a1d6abdc706e4d8a772044db2caec62149a258fbf0e53b23",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_cf801930d7a84a46a845d5bce08b67bb",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/pokeball-frames/Refine_only_a_few_interior_shading_pixels_on_these_Pokeball_animation_frames_Preserve_the_red_and_white_ball_d_589c6654/final_outputs.json",
+        "output_sha256": "a500e0f85be02eb4a1d6abdc706e4d8a772044db2caec62149a258fbf0e53b23",
+        "width": 32,
+        "height": 32,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "battle/transition/SPR_Pokeball_Release8.png",
+      "sha256": "857ba24ed3ea2f9c7d2a68faae7ca61f1665b948a6f11f8c9f01ac373aa7a652",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_cf801930d7a84a46a845d5bce08b67bb",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/pokeball-frames/Refine_only_a_few_interior_shading_pixels_on_these_Pokeball_animation_frames_Preserve_the_red_and_white_ball_d_589c6654/final_outputs.json",
+        "output_sha256": "857ba24ed3ea2f9c7d2a68faae7ca61f1665b948a6f11f8c9f01ac373aa7a652",
+        "width": 32,
+        "height": 32,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "battle/transition/SPR_Pokeball_Release9.png",
+      "sha256": "f3f6d70bdfce6a0ac91197c8d2bdfd8f955aa91d2b9516b40873c9f8c46e28b4",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_cf801930d7a84a46a845d5bce08b67bb",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/pokeball-frames/Refine_only_a_few_interior_shading_pixels_on_these_Pokeball_animation_frames_Preserve_the_red_and_white_ball_d_589c6654/final_outputs.json",
+        "output_sha256": "f3f6d70bdfce6a0ac91197c8d2bdfd8f955aa91d2b9516b40873c9f8c46e28b4",
+        "width": 32,
+        "height": 32,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "battle/ui/bag.png",
+      "sha256": "6d9a148e232d496600591a6fe94b4b2afb00940a4787e7732d9a8951c9f8cc86",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_e099530e6cf84cf6a251d00345641bf0",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/battle-ui-retry/Make_an_almost_imperceptible_refinement_to_the_colors_of_these_existing_pixel_shapes_Preserve_every_original_s_ec82f1c8/final_outputs.json",
+        "width": 18,
+        "height": 18,
+        "output_sha256": "6d9a148e232d496600591a6fe94b4b2afb00940a4787e7732d9a8951c9f8cc86",
+        "validation": "Native canvas and individual frame layout reviewed against original; UI/sign normalized to runtime dimensions and original alpha contract using generated RGB only."
+      }
+    },
+    {
+      "path": "battle/ui/fight.png",
+      "sha256": "02c0fa7aadb367ea6a4972f024a7887bb0ad358c5e523f212c34130fdb81de7e",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_e099530e6cf84cf6a251d00345641bf0",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/battle-ui-retry/Make_an_almost_imperceptible_refinement_to_the_colors_of_these_existing_pixel_shapes_Preserve_every_original_s_ec82f1c8/final_outputs.json",
+        "width": 18,
+        "height": 18,
+        "output_sha256": "02c0fa7aadb367ea6a4972f024a7887bb0ad358c5e523f212c34130fdb81de7e",
+        "validation": "Native canvas and individual frame layout reviewed against original; UI/sign normalized to runtime dimensions and original alpha contract using generated RGB only."
+      }
+    },
+    {
+      "path": "battle/ui/frame.png",
+      "sha256": "491929275134149141981aa3a7a067120b5c1963af93bd637e7ac67730e92495",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_e099530e6cf84cf6a251d00345641bf0",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/battle-ui-retry/Make_an_almost_imperceptible_refinement_to_the_colors_of_these_existing_pixel_shapes_Preserve_every_original_s_ec82f1c8/final_outputs.json",
+        "width": 24,
+        "height": 24,
+        "output_sha256": "491929275134149141981aa3a7a067120b5c1963af93bd637e7ac67730e92495",
+        "validation": "Native canvas and individual frame layout reviewed against original; UI/sign normalized to runtime dimensions and original alpha contract using generated RGB only."
+      }
+    },
+    {
+      "path": "battle/ui/move.png",
+      "sha256": "6c0cac9ddcec0e1e655ffec2d342b84f102bf73091a87199d0d289178defc0fb",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_e099530e6cf84cf6a251d00345641bf0",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/battle-ui-retry/Make_an_almost_imperceptible_refinement_to_the_colors_of_these_existing_pixel_shapes_Preserve_every_original_s_ec82f1c8/final_outputs.json",
+        "width": 18,
+        "height": 18,
+        "output_sha256": "6c0cac9ddcec0e1e655ffec2d342b84f102bf73091a87199d0d289178defc0fb",
+        "validation": "Native canvas and individual frame layout reviewed against original; UI/sign normalized to runtime dimensions and original alpha contract using generated RGB only."
+      }
+    },
+    {
+      "path": "battle/ui/party.png",
+      "sha256": "4a4f683e80e011a852fea82e9c6f59a90a252659e5eccc4dc3ce3dc807308111",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_e099530e6cf84cf6a251d00345641bf0",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/battle-ui-retry/Make_an_almost_imperceptible_refinement_to_the_colors_of_these_existing_pixel_shapes_Preserve_every_original_s_ec82f1c8/final_outputs.json",
+        "width": 18,
+        "height": 18,
+        "output_sha256": "4a4f683e80e011a852fea82e9c6f59a90a252659e5eccc4dc3ce3dc807308111",
+        "validation": "Native canvas and individual frame layout reviewed against original; UI/sign normalized to runtime dimensions and original alpha contract using generated RGB only."
+      }
+    },
+    {
+      "path": "battle/ui/run.png",
+      "sha256": "bf13ffcd0b976651e244227083558ea88a773f36c3fa702de3b169d23b0cf09c",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_e099530e6cf84cf6a251d00345641bf0",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/battle-ui-retry/Make_an_almost_imperceptible_refinement_to_the_colors_of_these_existing_pixel_shapes_Preserve_every_original_s_ec82f1c8/final_outputs.json",
+        "width": 18,
+        "height": 18,
+        "output_sha256": "bf13ffcd0b976651e244227083558ea88a773f36c3fa702de3b169d23b0cf09c",
+        "validation": "Native canvas and individual frame layout reviewed against original; UI/sign normalized to runtime dimensions and original alpha contract using generated RGB only."
+      }
+    },
+    {
+      "path": "interiors/lab/floor.png",
+      "sha256": "11da77d79f46057423bcb1890339a80b15987cf3c1bc9a28898b60165310b51d",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_2daefc4256394ed98ebebecc9614c075",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-lab/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "11da77d79f46057423bcb1890339a80b15987cf3c1bc9a28898b60165310b51d",
+        "width": 208,
+        "height": 176,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/lab/wall-side.png",
+      "sha256": "a9896c2ef14b150ba23ec77248e97aba6aeff2d47d0eea94c025a7656248ae31",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_2daefc4256394ed98ebebecc9614c075",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-lab/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "a9896c2ef14b150ba23ec77248e97aba6aeff2d47d0eea94c025a7656248ae31",
+        "width": 16,
+        "height": 48,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/lab/wall.png",
+      "sha256": "c39e29d824b2a2bb9c4617483e3b4bb3f9744dbd94f54fd0d6f8b0a8a47ed642",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_2daefc4256394ed98ebebecc9614c075",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-lab/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "c39e29d824b2a2bb9c4617483e3b4bb3f9744dbd94f54fd0d6f8b0a8a47ed642",
+        "width": 208,
+        "height": 48,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/player-house/floor-1f.png",
+      "sha256": "6ab2cc6bcc41a3a382f7fa006ca767727024f727a82a729f4e3704432afa6969",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_d88c9b1aac664d16a8a0c35c558621ef",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/pilot-floor/Make_an_almost_imperceptible_refinement_to_the_shading_of_the_existing_wooden_floor_and_blue_rug_Keep_every_ti_d390913b/final_outputs.json",
+        "output_sha256": "6ab2cc6bcc41a3a382f7fa006ca767727024f727a82a729f4e3704432afa6969",
+        "width": 176,
+        "height": 112,
+        "validation": "Native-size visual inspection; original canvas retained; source/output alpha IoU and RGB error checked"
+      }
+    },
+    {
+      "path": "interiors/player-house/floor-2f.png",
+      "sha256": "4aadb4360653b46d3e1de301df4a7cb3cfc0b6b092371f276ee07a2f3d4b1402",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_331cb5f805344027ab8891ed87fc43b5",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-player-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "4aadb4360653b46d3e1de301df4a7cb3cfc0b6b092371f276ee07a2f3d4b1402",
+        "width": 144,
+        "height": 112,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/player-house/sprites/parts/bed-front.png",
+      "sha256": "1831211a642e246d15f9c84627848fe9118e18afd5becc6dd0dba1fd071295c6",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_331cb5f805344027ab8891ed87fc43b5",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-player-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "1831211a642e246d15f9c84627848fe9118e18afd5becc6dd0dba1fd071295c6",
+        "width": 24,
+        "height": 6,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/player-house/sprites/parts/bed-top.png",
+      "sha256": "b6d3c5539b3ea1cb932769478a25b79f91cdcc457256e9e45f26b7f45e3fbec8",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_331cb5f805344027ab8891ed87fc43b5",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-player-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "b6d3c5539b3ea1cb932769478a25b79f91cdcc457256e9e45f26b7f45e3fbec8",
+        "width": 24,
+        "height": 17,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/player-house/sprites/parts/cabinet-front.png",
+      "sha256": "2a9659ee4be78d57871758209ef83168cad4b59b3c3612e50096f3f653a2b88c",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_331cb5f805344027ab8891ed87fc43b5",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-player-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "2a9659ee4be78d57871758209ef83168cad4b59b3c3612e50096f3f653a2b88c",
+        "width": 24,
+        "height": 24,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/player-house/sprites/parts/cabinet-top.png",
+      "sha256": "55605d495fcdfa457c602ae609bb7ed0fa0ac5543859fb2df58097231d67e7d5",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_331cb5f805344027ab8891ed87fc43b5",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-player-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "55605d495fcdfa457c602ae609bb7ed0fa0ac5543859fb2df58097231d67e7d5",
+        "width": 24,
+        "height": 6,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/player-house/sprites/parts/chair-seat.png",
+      "sha256": "c5ffb0bfd3fcef0ca35a06cd96cbb3dfc4ccc1ddf0fcd6d5b0a8dd9b770e3c30",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_331cb5f805344027ab8891ed87fc43b5",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-player-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "c5ffb0bfd3fcef0ca35a06cd96cbb3dfc4ccc1ddf0fcd6d5b0a8dd9b770e3c30",
+        "width": 9,
+        "height": 11,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/player-house/sprites/parts/chair-top.png",
+      "sha256": "041b490db4575fc0d2d5364776fa62b8072b0b6a982c07d9066c070f897b528c",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_331cb5f805344027ab8891ed87fc43b5",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-player-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "041b490db4575fc0d2d5364776fa62b8072b0b6a982c07d9066c070f897b528c",
+        "width": 11,
+        "height": 8,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/player-house/sprites/parts/console1f-front.png",
+      "sha256": "92bfaecf1e4dd4c19c3ff5944bc181747a7bbcb84d2bf440914756db672c67db",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_331cb5f805344027ab8891ed87fc43b5",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-player-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "92bfaecf1e4dd4c19c3ff5944bc181747a7bbcb84d2bf440914756db672c67db",
+        "width": 17,
+        "height": 12,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/player-house/sprites/parts/counter-front.png",
+      "sha256": "aec72df1e96b47c39cc3d4d055b66d882ac3dcb1652a0f9d2363877458a4391f",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_331cb5f805344027ab8891ed87fc43b5",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-player-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "aec72df1e96b47c39cc3d4d055b66d882ac3dcb1652a0f9d2363877458a4391f",
+        "width": 30,
+        "height": 11,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/player-house/sprites/parts/counter-top.png",
+      "sha256": "82fcd3fbf3801c2889608b53cd601f89d292154cb50b9d3a3f14123b6376af77",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_331cb5f805344027ab8891ed87fc43b5",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-player-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "82fcd3fbf3801c2889608b53cd601f89d292154cb50b9d3a3f14123b6376af77",
+        "width": 30,
+        "height": 9,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/player-house/sprites/parts/desk-front.png",
+      "sha256": "60728ef27d1cf22f11343cbe2fbd4cd50608b43e518a8fcaeaa9577729bd4123",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_331cb5f805344027ab8891ed87fc43b5",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-player-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "60728ef27d1cf22f11343cbe2fbd4cd50608b43e518a8fcaeaa9577729bd4123",
+        "width": 31,
+        "height": 8,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/player-house/sprites/parts/fridge-front.png",
+      "sha256": "f6b34cf1d05265036d523fdef02ee30cb847e8dc15deb115137448717e94c4dd",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_331cb5f805344027ab8891ed87fc43b5",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-player-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "f6b34cf1d05265036d523fdef02ee30cb847e8dc15deb115137448717e94c4dd",
+        "width": 16,
+        "height": 26,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/player-house/sprites/parts/fridge-top.png",
+      "sha256": "9b5b98374eb301b7d77a0b9ead4303fe4b758e35be223b21201054011752f7b7",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_331cb5f805344027ab8891ed87fc43b5",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-player-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "9b5b98374eb301b7d77a0b9ead4303fe4b758e35be223b21201054011752f7b7",
+        "width": 16,
+        "height": 4,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/player-house/sprites/parts/tvtable-front.png",
+      "sha256": "b195c584d6545a88d7da2a202061f0f9e3fb52e04031bf2239ab9593e08e41b7",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_331cb5f805344027ab8891ed87fc43b5",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-player-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "b195c584d6545a88d7da2a202061f0f9e3fb52e04031bf2239ab9593e08e41b7",
+        "width": 30,
+        "height": 10,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/player-house/sprites/parts/tvtable-top.png",
+      "sha256": "b0b94046ecbfb0af0fceadd6288daa765dc5b35ab28fd4258dcd4b40f5fdca4e",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_331cb5f805344027ab8891ed87fc43b5",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-player-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "b0b94046ecbfb0af0fceadd6288daa765dc5b35ab28fd4258dcd4b40f5fdca4e",
+        "width": 30,
+        "height": 13,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/player-house/wall-1f.png",
+      "sha256": "d8a384b718ee47fab898ee293fcd0fe982478b89438d47f2ec055abdeec7cfea",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_331cb5f805344027ab8891ed87fc43b5",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-player-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "d8a384b718ee47fab898ee293fcd0fe982478b89438d47f2ec055abdeec7cfea",
+        "width": 176,
+        "height": 48,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/player-house/wall-2f.png",
+      "sha256": "de888bc08eece3caf89fbc7c97764ad32e08251c5f79c9a8325576f4b2ffee0c",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_1612a094f88e4d3c9e1c9eb8b4eef807",
+        "capability": "image-edit-run",
+        "remove_bg_method": "advanced",
+        "strict": true,
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/wall-decoration-advanced-20260909/continuation/player-house-wall-exact-canvas/outputs/Preserve_this_rectangular_pixel-art_wall_exactly_Keep_the_small_clock_hands_and_framed_picture_sharp_with_the_6650f85b/final_outputs.json",
+        "jobs": [
+          {
+            "job_id": "job_1612a094f88e4d3c9e1c9eb8b4eef807",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/wall-decoration-advanced-20260909/continuation/player-house-wall-exact-canvas/outputs/Preserve_this_rectangular_pixel-art_wall_exactly_Keep_the_small_clock_hands_and_framed_picture_sharp_with_the_6650f85b/final_outputs.json",
+            "role": "advanced-background-removal wall layer",
+            "remove_bg_method": "advanced"
+          },
+          {
+            "job_id": "job_331cb5f805344027ab8891ed87fc43b5",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-player-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+            "role": "existing Meowa opaque wall backing"
+          }
+        ],
+        "composition": "Alpha-composited the declared advanced Meowa output over the previous Meowa wall at native size; no resizing, painting, palette edits, or original-reference pixels copied. Clock and picture interiors come entirely from the new output.",
+        "backing_sha256": "76e524f55a9645da06f194de5b5f22145d16dc9662f31835ff67e4c18abe8bc3",
+        "width": 144,
+        "height": 48,
+        "output_sha256": "de888bc08eece3caf89fbc7c97764ad32e08251c5f79c9a8325576f4b2ffee0c",
+        "validation": "Original, previous and new textures reviewed at 6x nearest-neighbor. Clock face and picture interiors are fully opaque in the new advanced output; final wall has no transparent pixels."
+      }
+    },
+    {
+      "path": "interiors/player-house/wall-side.png",
+      "sha256": "0fe18ef39391665003c18327b70ba4e00b4c543b31033808255c036ca56f0a51",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_331cb5f805344027ab8891ed87fc43b5",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-player-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "0fe18ef39391665003c18327b70ba4e00b4c543b31033808255c036ca56f0a51",
+        "width": 16,
+        "height": 48,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/rival-house/floor-1f.png",
+      "sha256": "31ab592863bf6abdc4f4e1d49fd45a7de24c0d8e9a15028df62e7bc9af1ab69e",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_d3ce045faec24522bee06581eeb9a818",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-rival-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "31ab592863bf6abdc4f4e1d49fd45a7de24c0d8e9a15028df62e7bc9af1ab69e",
+        "width": 176,
+        "height": 112,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/rival-house/floor-2f.png",
+      "sha256": "161c423bd095aafe58b752c2d07609dd83a6ef5c2f67abd4724051c2f703e34f",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_d3ce045faec24522bee06581eeb9a818",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-rival-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "161c423bd095aafe58b752c2d07609dd83a6ef5c2f67abd4724051c2f703e34f",
+        "width": 144,
+        "height": 112,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/bed-front.png",
+      "sha256": "0b3a59d4328a337a86b4a86ea5cbbf364e8102c496342a387cbffb01643b94a6",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_d3ce045faec24522bee06581eeb9a818",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-rival-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "0b3a59d4328a337a86b4a86ea5cbbf364e8102c496342a387cbffb01643b94a6",
+        "width": 26,
+        "height": 4,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/bed-top.png",
+      "sha256": "4d066639bf3ee0901608fa719d09c7a17391cd71d3b684a61caa40e0c6821efb",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_d3ce045faec24522bee06581eeb9a818",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-rival-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "4d066639bf3ee0901608fa719d09c7a17391cd71d3b684a61caa40e0c6821efb",
+        "width": 26,
+        "height": 21,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/cabinet-front.png",
+      "sha256": "3801bcec5c35cd77d39f7ae6fc2e05c1b8a82cac66c1c4fe298b02a857ab4e13",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_d3ce045faec24522bee06581eeb9a818",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-rival-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "3801bcec5c35cd77d39f7ae6fc2e05c1b8a82cac66c1c4fe298b02a857ab4e13",
+        "width": 21,
+        "height": 22,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/cabinet-top.png",
+      "sha256": "f5303e0ff07a1bffc8e6f947b40ead62c8b05e3d873498f5c8ffe8f7d6b604bd",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_d3ce045faec24522bee06581eeb9a818",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-rival-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "f5303e0ff07a1bffc8e6f947b40ead62c8b05e3d873498f5c8ffe8f7d6b604bd",
+        "width": 21,
+        "height": 7,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/chair-seat.png",
+      "sha256": "2435cf5c21a92fd74e0bd606b34eba2e4e1318ffd850f8598623e51685800255",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_d3ce045faec24522bee06581eeb9a818",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-rival-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "2435cf5c21a92fd74e0bd606b34eba2e4e1318ffd850f8598623e51685800255",
+        "width": 11,
+        "height": 9,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/chair2f-front.png",
+      "sha256": "f48cd9f0f8f8e2ce9f2f275d3b27480a6b4a7c788f68a37406665738c2035106",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_d3ce045faec24522bee06581eeb9a818",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-rival-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "f48cd9f0f8f8e2ce9f2f275d3b27480a6b4a7c788f68a37406665738c2035106",
+        "width": 12,
+        "height": 12,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/console1f-front.png",
+      "sha256": "e306831dd73b6b622834d96adf436cea88e276f8f726c14cefb1fdd5ed1fe0ee",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_d3ce045faec24522bee06581eeb9a818",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-rival-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "e306831dd73b6b622834d96adf436cea88e276f8f726c14cefb1fdd5ed1fe0ee",
+        "width": 16,
+        "height": 5,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/couch-top.png",
+      "sha256": "243a744cfaef7315017b5ffa7fa8b6dd5d2541e4f6253ca1e906f300b63448c1",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_d3ce045faec24522bee06581eeb9a818",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-rival-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "243a744cfaef7315017b5ffa7fa8b6dd5d2541e4f6253ca1e906f300b63448c1",
+        "width": 16,
+        "height": 8,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/counter-front.png",
+      "sha256": "88054926e021cbf444faba9f86f1acc463cbf22e73332b64d10f4eb9b60c2e8b",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_d3ce045faec24522bee06581eeb9a818",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-rival-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "88054926e021cbf444faba9f86f1acc463cbf22e73332b64d10f4eb9b60c2e8b",
+        "width": 32,
+        "height": 9,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/counter-top.png",
+      "sha256": "415401fad809f29876fdd7e668bae90423a52267ce24e19fd6384347a2ce57a1",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_d3ce045faec24522bee06581eeb9a818",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-rival-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "415401fad809f29876fdd7e668bae90423a52267ce24e19fd6384347a2ce57a1",
+        "width": 32,
+        "height": 9,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/desk-front.png",
+      "sha256": "c3ae74005bdbb0d3cb483620de263864e4b57afcfd65f8e8d793422df441dd3c",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_d3ce045faec24522bee06581eeb9a818",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-rival-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "c3ae74005bdbb0d3cb483620de263864e4b57afcfd65f8e8d793422df441dd3c",
+        "width": 18,
+        "height": 8,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/desk-top.png",
+      "sha256": "a2610e43c5810a6b1f65848032da8970f48490a10dbf19f9a1a6879dd89173bf",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_d3ce045faec24522bee06581eeb9a818",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-rival-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "a2610e43c5810a6b1f65848032da8970f48490a10dbf19f9a1a6879dd89173bf",
+        "width": 18,
+        "height": 6,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/doll-front.png",
+      "sha256": "8bd423df72b4d660233315f6ea0eed56b199386af78350dc1f25e40eafe36004",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_d3ce045faec24522bee06581eeb9a818",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-rival-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "8bd423df72b4d660233315f6ea0eed56b199386af78350dc1f25e40eafe36004",
+        "width": 13,
+        "height": 16,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/fridge-front.png",
+      "sha256": "c9d6ea1fe517a6169b155503b56b2006c6b8fa6b90449cd83f5ca4e3821def40",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_d3ce045faec24522bee06581eeb9a818",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-rival-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "c9d6ea1fe517a6169b155503b56b2006c6b8fa6b90449cd83f5ca4e3821def40",
+        "width": 16,
+        "height": 23,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/fridge-top.png",
+      "sha256": "8c0909a1ae0dab4bf0cc634fe1608d07e52ab4ad7cf353e46be7374638f855f3",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_d3ce045faec24522bee06581eeb9a818",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-rival-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "8c0909a1ae0dab4bf0cc634fe1608d07e52ab4ad7cf353e46be7374638f855f3",
+        "width": 16,
+        "height": 6,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/shelf-front.png",
+      "sha256": "a3eed73341754bdb17834aef1c30a9322b692ad82cffc5da481f6914c0c9c775",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_d3ce045faec24522bee06581eeb9a818",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-rival-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "a3eed73341754bdb17834aef1c30a9322b692ad82cffc5da481f6914c0c9c775",
+        "width": 15,
+        "height": 20,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/shelf-top.png",
+      "sha256": "c5bf92146c17272715a589503861092db121e44f82ab3f6865c80df016c5c1b6",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_d3ce045faec24522bee06581eeb9a818",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-rival-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "c5bf92146c17272715a589503861092db121e44f82ab3f6865c80df016c5c1b6",
+        "width": 15,
+        "height": 4,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/table-skirt.png",
+      "sha256": "7ee947236b26cad8551108450007c483f511bbd0aa2efdf5d612edfdec2477fb",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_d3ce045faec24522bee06581eeb9a818",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-rival-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "7ee947236b26cad8551108450007c483f511bbd0aa2efdf5d612edfdec2477fb",
+        "width": 30,
+        "height": 5,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/table-top.png",
+      "sha256": "0d6970c107a055bd70f2cb1226f209e1c9cb7529f02d5120a47cbf1f0aedbe8e",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_d3ce045faec24522bee06581eeb9a818",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-rival-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "0d6970c107a055bd70f2cb1226f209e1c9cb7529f02d5120a47cbf1f0aedbe8e",
+        "width": 30,
+        "height": 25,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/tv2f-front.png",
+      "sha256": "430f72c5c188ec5d377a1590a742f9fde89698ddab2965143e15dbab455f48e3",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_d3ce045faec24522bee06581eeb9a818",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-rival-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "430f72c5c188ec5d377a1590a742f9fde89698ddab2965143e15dbab455f48e3",
+        "width": 16,
+        "height": 18,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/tvtable-front.png",
+      "sha256": "b9fbcd3b1294767df08a44ae96b08369dfb4030eadc07d03ac26ade9aa7f75c9",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_d3ce045faec24522bee06581eeb9a818",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-rival-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "b9fbcd3b1294767df08a44ae96b08369dfb4030eadc07d03ac26ade9aa7f75c9",
+        "width": 32,
+        "height": 5,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/tvtable-top.png",
+      "sha256": "4a9ec3b964f25889f7451726de833df4962e1f5fd9e7dac9531d3ea126b428a0",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_d3ce045faec24522bee06581eeb9a818",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-rival-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "4a9ec3b964f25889f7451726de833df4962e1f5fd9e7dac9531d3ea126b428a0",
+        "width": 32,
+        "height": 14,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/tvunit-front.png",
+      "sha256": "792ff9be0642b6e3f35a025da25f68ac5f50329593eb6cda9d9da43e2bcbaeaf",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_d3ce045faec24522bee06581eeb9a818",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-rival-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "792ff9be0642b6e3f35a025da25f68ac5f50329593eb6cda9d9da43e2bcbaeaf",
+        "width": 16,
+        "height": 12,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/rival-house/sprites/parts/tvunit-top.png",
+      "sha256": "0ee639d0e6e62796b18148e5c75a25d71fbbac595e86bbf220fefab588066145",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_d3ce045faec24522bee06581eeb9a818",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-rival-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "0ee639d0e6e62796b18148e5c75a25d71fbbac595e86bbf220fefab588066145",
+        "width": 16,
+        "height": 7,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/rival-house/wall-1f.png",
+      "sha256": "4716851f3bfa81824a147a885317313e915373474ad7ef32a238762294582a42",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_d3ce045faec24522bee06581eeb9a818",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-rival-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "4716851f3bfa81824a147a885317313e915373474ad7ef32a238762294582a42",
+        "width": 176,
+        "height": 48,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "interiors/rival-house/wall-2f.png",
+      "sha256": "0202f95cb7d2270b6a7e477d59f6398767f6d086abbe6c08ead6b23ea44b9bd5",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_5fa7a67263c34157a5f65e2000644a1d",
+        "capability": "image-edit-run",
+        "remove_bg_method": "advanced",
+        "strict": true,
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/wall-decoration-advanced-20260909/continuation/rival-house-wall-exact-canvas/outputs/Preserve_this_rectangular_pixel-art_wall_exactly_Keep_the_small_clock_hands_and_framed_picture_sharp_with_the_6650f85b/final_outputs.json",
+        "jobs": [
+          {
+            "job_id": "job_5fa7a67263c34157a5f65e2000644a1d",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/wall-decoration-advanced-20260909/continuation/rival-house-wall-exact-canvas/outputs/Preserve_this_rectangular_pixel-art_wall_exactly_Keep_the_small_clock_hands_and_framed_picture_sharp_with_the_6650f85b/final_outputs.json",
+            "role": "advanced-background-removal wall layer",
+            "remove_bg_method": "advanced"
+          },
+          {
+            "job_id": "job_d3ce045faec24522bee06581eeb9a818",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-rival-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+            "role": "existing Meowa opaque wall backing"
+          }
+        ],
+        "composition": "Alpha-composited the declared advanced Meowa output over the previous Meowa wall at native size; no resizing, painting, palette edits, or original-reference pixels copied. Clock and picture interiors come entirely from the new output.",
+        "backing_sha256": "f34663644cde33236639b7c2f0dee526e6cb7549245cb4ebef8a5a9df39dbe53",
+        "width": 144,
+        "height": 48,
+        "output_sha256": "0202f95cb7d2270b6a7e477d59f6398767f6d086abbe6c08ead6b23ea44b9bd5",
+        "validation": "Original, previous and new textures reviewed at 6x nearest-neighbor. Clock face and picture interiors are fully opaque in the new advanced output; final wall has no transparent pixels."
+      }
+    },
+    {
+      "path": "interiors/rival-house/wall-side.png",
+      "sha256": "6b2456ac00ff79111eeccbfcd8f997230db5cd2cedf437282029b4beac5eab22",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_d3ce045faec24522bee06581eeb9a818",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/interior-rival-house/Make_an_almost_imperceptible_refinement_to_the_existing_interior_pixel-art_shading_Preserve_every_component_re_7056c9a6/final_outputs.json",
+        "output_sha256": "6b2456ac00ff79111eeccbfcd8f997230db5cd2cedf437282029b4beac5eab22",
+        "width": 16,
+        "height": 48,
+        "validation": "Reviewed source/output layout and palette; cropped at original component coordinates; interior original alpha mask restored for transparent furniture edges."
+      }
+    },
+    {
+      "path": "maps/grass-tile.png",
+      "sha256": "daa365c153e0a25e46a6855b3f2a2946721bcc09a38aa00c5f1e5622948052e7",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "maps/littleroot-route101-ground-base.png",
+      "sha256": "9ed0e1bf50e983c66c60eeaad9c4a051e4534d1497a84edd65021a0a3ea8d8f2",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "maps/route101-ledges.png",
+      "sha256": "76cc8091026212fbbc6057b81056da65d14bc7992921f84b63785e20b5ae8e04",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_fb5ce3ee5c6a4d16b622e857473a42b5",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/route-ledges/Make_only_a_tiny_refinement_to_the_inner_stone_shading_of_these_five_pixel_ledge_tiles_Preserve_the_exact_top_6c0c300d/final_outputs.json",
+        "output_sha256": "76cc8091026212fbbc6057b81056da65d14bc7992921f84b63785e20b5ae8e04",
+        "width": 320,
+        "height": 960,
+        "validation": "Reviewed five Meowa ledge tiles; reconstructed original map tile placements with unchanged dimensions and collision alignment."
+      }
+    },
+    {
+      "path": "sprites/npcs/boy-2.png",
+      "sha256": "d1ceb7fef0bd0eb8ae48f1f8b5dc4c360fdc7dac89ae6ccb3c9cec7b1a9b21f5",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_8b984c5b31dc43279cb09dd0327c50b2",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/individual-boy-2/Make_an_almost_imperceptible_refinement_to_a_few_interior_clothing_or_fur_shading_pixels_Preserve_the_original_c09c4f7c/final_outputs.json",
+        "width": 144,
+        "height": 32,
+        "output_sha256": "d1ceb7fef0bd0eb8ae48f1f8b5dc4c360fdc7dac89ae6ccb3c9cec7b1a9b21f5",
+        "validation": "Native canvas and individual frame layout reviewed against original; UI/sign normalized to runtime dimensions and original alpha contract using generated RGB only."
+      }
+    },
+    {
+      "path": "sprites/npcs/camper.png",
+      "sha256": "093a0130253dc0a3040ace189da80f1e4f0fd4618014daab139a41b4a0b8e240",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_000ee2794d9e43b38e238abebfd3d28b",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/individual-camper/Make_an_almost_imperceptible_refinement_to_a_few_interior_clothing_or_fur_shading_pixels_Preserve_the_original_c09c4f7c/final_outputs.json",
+        "width": 144,
+        "height": 32,
+        "output_sha256": "093a0130253dc0a3040ace189da80f1e4f0fd4618014daab139a41b4a0b8e240",
+        "validation": "Native canvas and individual frame layout reviewed against original; UI/sign normalized to runtime dimensions and original alpha contract using generated RGB only."
+      }
+    },
+    {
+      "path": "sprites/npcs/fat-man.png",
+      "sha256": "05472872719a03458ec29fa7796ca3fc59056770d79f201ff066ed4212f7c9ac",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_215a35f22a8b4dae8c45a7cfd51b2d3e",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/individual-fat-man/Make_an_almost_imperceptible_refinement_to_a_few_interior_clothing_or_fur_shading_pixels_Preserve_the_original_c09c4f7c/final_outputs.json",
+        "width": 144,
+        "height": 32,
+        "output_sha256": "05472872719a03458ec29fa7796ca3fc59056770d79f201ff066ed4212f7c9ac",
+        "validation": "Native canvas and individual frame layout reviewed against original; UI/sign normalized to runtime dimensions and original alpha contract using generated RGB only."
+      }
+    },
+    {
+      "path": "sprites/npcs/girl-3.png",
+      "sha256": "4a558c8128d9b6d8d820609decd0e70c14505ca7f54870c1172f7b3fd96da8bd",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_1f077b3b7b924703b9add398345f8dce",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/individual-girl-3/Make_an_almost_imperceptible_refinement_to_a_few_interior_clothing_or_fur_shading_pixels_Preserve_the_original_c09c4f7c/final_outputs.json",
+        "width": 144,
+        "height": 32,
+        "output_sha256": "4a558c8128d9b6d8d820609decd0e70c14505ca7f54870c1172f7b3fd96da8bd",
+        "validation": "Native canvas and individual frame layout reviewed against original; UI/sign normalized to runtime dimensions and original alpha contract using generated RGB only."
+      }
+    },
+    {
+      "path": "sprites/npcs/may-idle-spritesheet.png",
+      "sha256": "d524bfe98fefae182575ea25c6af9db47a8bbfb22adaa8e1d7f21f2978cf3a06",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/npcs/may.png",
+      "sha256": "3d5b35c1d58219f7973c05dc2e1fd449126fa66a161126d8d877146d428940a8",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_5fc9f32c706b4bf4bd479485037ae3f0",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/individual-may/Make_an_almost_imperceptible_refinement_to_a_few_interior_clothing_or_fur_shading_pixels_Preserve_the_original_c09c4f7c/final_outputs.json",
+        "width": 144,
+        "height": 32,
+        "output_sha256": "3d5b35c1d58219f7973c05dc2e1fd449126fa66a161126d8d877146d428940a8",
+        "validation": "Native canvas and individual frame layout reviewed against original; UI/sign normalized to runtime dimensions and original alpha contract using generated RGB only."
+      }
+    },
+    {
+      "path": "sprites/npcs/mom.png",
+      "sha256": "c49a7297e23cf3d2fd8bde72d5f31e5ecfb2a70807ac60987f5c1cbbed95d642",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_ffbfd95c987c4c929f7b9e4752982b6e",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/pilot-mom/Make_an_almost_imperceptible_refinement_to_the_inner_clothing_shading_in_this_nine-frame_pixel_walking_sheet_K_5c363f9c/final_outputs.json",
+        "output_sha256": "c49a7297e23cf3d2fd8bde72d5f31e5ecfb2a70807ac60987f5c1cbbed95d642",
+        "width": 144,
+        "height": 32,
+        "validation": "Native-size visual inspection; original canvas retained; source/output alpha IoU and RGB error checked"
+      }
+    },
+    {
+      "path": "sprites/npcs/scientist-1.png",
+      "sha256": "03ae6c6d6d364f46a7757dde0acdffee823fb7632e03a7eaded7ddec4abdb4db",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_39f9d4b39a6e4acea70e86f817e948c7",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/individual-scientist-1/Make_an_almost_imperceptible_refinement_to_a_few_interior_clothing_or_fur_shading_pixels_Preserve_the_original_c09c4f7c/final_outputs.json",
+        "width": 144,
+        "height": 32,
+        "output_sha256": "03ae6c6d6d364f46a7757dde0acdffee823fb7632e03a7eaded7ddec4abdb4db",
+        "validation": "Native canvas and individual frame layout reviewed against original; UI/sign normalized to runtime dimensions and original alpha contract using generated RGB only."
+      }
+    },
+    {
+      "path": "sprites/npcs/twin-idle-spritesheet.png",
+      "sha256": "af75ac096b68f33a49c7841aad778fdf4b723ef8450f473706b6badc52ea5382",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/npcs/twin.png",
+      "sha256": "d2d702d5adc3ac084678a0a624ff813810ef120f1ad1b90351716cdf6bb7a500",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_f089ecfe785e438c9fcb54093f9524c8",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/individual-twin/Make_an_almost_imperceptible_refinement_to_a_few_interior_clothing_or_fur_shading_pixels_Preserve_the_original_c09c4f7c/final_outputs.json",
+        "width": 144,
+        "height": 32,
+        "output_sha256": "d2d702d5adc3ac084678a0a624ff813810ef120f1ad1b90351716cdf6bb7a500",
+        "validation": "Native canvas and individual frame layout reviewed against original; UI/sign normalized to runtime dimensions and original alpha contract using generated RGB only."
+      }
+    },
+    {
+      "path": "sprites/npcs/woman-4-idle-spritesheet.png",
+      "sha256": "e39d7e0d0c566980378d9732d78d0f8015cf805cf9b9d5fd3e78c30a8c02e465",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/npcs/woman-4.png",
+      "sha256": "d4134eedde6efa81b37474f93abc45b3aa5a2726dd2c7829e59ffbde2f3499b6",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_5648dba579d14f96b495b0ede1da25cc",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/individual-woman-4/Make_an_almost_imperceptible_refinement_to_a_few_interior_clothing_or_fur_shading_pixels_Preserve_the_original_c09c4f7c/final_outputs.json",
+        "width": 144,
+        "height": 32,
+        "output_sha256": "d4134eedde6efa81b37474f93abc45b3aa5a2726dd2c7829e59ffbde2f3499b6",
+        "validation": "Native canvas and individual frame layout reviewed against original; UI/sign normalized to runtime dimensions and original alpha contract using generated RGB only."
+      }
+    },
+    {
+      "path": "sprites/npcs/youngster.png",
+      "sha256": "0cadf12cd79909610ac8e96f5e3feb4d1ae8d027af349448fa37e25a3fe5a601",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_a1ceff5a9b014c0f875b166d4ee7db24",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/individual-youngster/Make_an_almost_imperceptible_refinement_to_a_few_interior_clothing_or_fur_shading_pixels_Preserve_the_original_c09c4f7c/final_outputs.json",
+        "width": 144,
+        "height": 32,
+        "output_sha256": "0cadf12cd79909610ac8e96f5e3feb4d1ae8d027af349448fa37e25a3fe5a601",
+        "validation": "Native canvas and individual frame layout reviewed against original; UI/sign normalized to runtime dimensions and original alpha contract using generated RGB only."
+      }
+    },
+    {
+      "path": "sprites/player.png",
+      "sha256": "7df41361af87f316f26c442ee7606b656b0a49652aece56f87de7f6e44dc8920",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/pokemon-animated/manifest.json",
+      "sha256": "4d838b03700f563ed7c8db666c2fb19b88db16dabe3651b1af8842d5baa1a680",
+      "origin": "runtime-metadata"
+    },
+    {
+      "path": "sprites/pokemon-animated/mudkip/back-cry.png",
+      "sha256": "56f65bb20436bc796aa768dedb0f2a32b57931e2da38d777c7e8eaa6b83fc5f4",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "job_id": "job_d013e0f665514015b89a538535a9133f",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/recovered/job_d013e0f665514015b89a538535a9133f/recovered-final/final_outputs.json",
+            "frame_start": 0,
+            "frame_count": 76
+          }
+        ],
+        "capability": "animation-edit-run",
+        "width": 816,
+        "height": 141,
+        "frames": 48,
+        "fps": 30,
+        "output_sha256": "56f65bb20436bc796aa768dedb0f2a32b57931e2da38d777c7e8eaa6b83fc5f4",
+        "validation": "Reassembled Meowa final WebP frames using original deduplicated frame mapping; original canvas, sheet layout, frame count, FPS and frame order preserved; source/output silhouette and pose comparison."
+      }
+    },
+    {
+      "path": "sprites/pokemon-animated/mudkip/back-hurt.png",
+      "sha256": "c092da84242c050138cdf83541f83b66c055b91bb2f63e3d0d86a190a453d8be",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "job_id": "job_d013e0f665514015b89a538535a9133f",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/recovered/job_d013e0f665514015b89a538535a9133f/recovered-final/final_outputs.json",
+            "frame_start": 0,
+            "frame_count": 76
+          }
+        ],
+        "capability": "animation-edit-run",
+        "width": 714,
+        "height": 47,
+        "frames": 14,
+        "fps": 30,
+        "output_sha256": "c092da84242c050138cdf83541f83b66c055b91bb2f63e3d0d86a190a453d8be",
+        "validation": "Reassembled Meowa final WebP frames using original deduplicated frame mapping; original canvas, sheet layout, frame count, FPS and frame order preserved; source/output silhouette and pose comparison."
+      }
+    },
+    {
+      "path": "sprites/pokemon-animated/mudkip/back-idle.png",
+      "sha256": "b71a9d9d0e2d23fa7bb583cca85a9e23c97ceca08166f18f1d4608e4cc83d10c",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "job_id": "job_d013e0f665514015b89a538535a9133f",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/recovered/job_d013e0f665514015b89a538535a9133f/recovered-final/final_outputs.json",
+            "frame_start": 0,
+            "frame_count": 76
+          }
+        ],
+        "capability": "animation-edit-run",
+        "width": 816,
+        "height": 94,
+        "frames": 25,
+        "fps": 30,
+        "output_sha256": "b71a9d9d0e2d23fa7bb583cca85a9e23c97ceca08166f18f1d4608e4cc83d10c",
+        "validation": "Reassembled Meowa final WebP frames using original deduplicated frame mapping; original canvas, sheet layout, frame count, FPS and frame order preserved; source/output silhouette and pose comparison."
+      }
+    },
+    {
+      "path": "sprites/pokemon-animated/mudkip/front-cry.png",
+      "sha256": "814f806a85c527a2260117bf84d382f70176250fe43a3f2580ef0b2a6586ab77",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "task_id": "animation-mudkip-front-part-000-refine-000",
+            "job_id": "job_f78b3227bfd64dd58fbbe5b6b0c5266f",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/animation-mudkip-front-part-000-refine-000/Refine_only_a_few_shading_pixels_while_keeping_this_character_almost_unchanged_in_every_frame_Preserve_the_ori_dbc78c17/final_outputs.json",
+            "frame_start": 0,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-mudkip-front-part-000-refine-016-color",
+            "job_id": "job_f3bd8abead104a3396796f050ce7a274",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/recovered-continuation/job_f3bd8abead104a3396796f050ce7a274/recovered-final/final_outputs.json",
+            "frame_start": 16,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-mudkip-front-part-000-refine-032",
+            "job_id": "job_ccd5788b35944d4db8378a5ff03a1c03",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/animation-mudkip-front-part-000-refine-032/Refine_only_a_few_shading_pixels_while_keeping_this_character_almost_unchanged_in_every_frame_Preserve_the_ori_dbc78c17/final_outputs.json",
+            "frame_start": 32,
+            "frame_count": 16
+          }
+        ],
+        "capability": "animation-edit-run",
+        "width": 1008,
+        "height": 144,
+        "frames": 48,
+        "fps": 30,
+        "output_sha256": "814f806a85c527a2260117bf84d382f70176250fe43a3f2580ef0b2a6586ab77",
+        "validation": "Every source and generated frame visually compared at 2x nearest-neighbor; original pose, flat palette, canvas, sheet layout, FPS and frame order preserved.",
+        "comparison_metrics": {
+          "min_iou": 0.9875706214689266,
+          "avg_mae": 9.414095604530138,
+          "max_mae": 13.21946636602781
+        }
+      }
+    },
+    {
+      "path": "sprites/pokemon-animated/mudkip/front-hurt.png",
+      "sha256": "566ce27af815206a21159a397cfa4b36e1a6375431e48ff62e4ae5c33ca7bb11",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "task_id": "animation-mudkip-front-part-000-refine-048",
+            "job_id": "job_d77f32b74e7148f082969675e68a41c0",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/animation-mudkip-front-part-000-refine-048/Refine_only_a_few_shading_pixels_while_keeping_this_character_almost_unchanged_in_every_frame_Preserve_the_ori_dbc78c17/final_outputs.json",
+            "frame_start": 48,
+            "frame_count": 16
+          }
+        ],
+        "capability": "animation-edit-run",
+        "width": 882,
+        "height": 48,
+        "frames": 14,
+        "fps": 30,
+        "output_sha256": "566ce27af815206a21159a397cfa4b36e1a6375431e48ff62e4ae5c33ca7bb11",
+        "validation": "Every frame compared at 2x nearest-neighbor; reassembled exclusively from declared Meowa output frames with original canvas, sheet layout, FPS and frame order.",
+        "comparison_metrics": {
+          "min_iou": 0.9920091324200914,
+          "avg_mae": 11.267531252431677,
+          "max_mae": 13.591985428051002
+        }
+      }
+    },
+    {
+      "path": "sprites/pokemon-animated/mudkip/front-idle.png",
+      "sha256": "d4a50ebc49a252352b899508a23aa13271d1e9498fc6dcf4567bf174e4d2a9de",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "task_id": "animation-mudkip-front-part-000-refine-048",
+            "job_id": "job_d77f32b74e7148f082969675e68a41c0",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/animation-mudkip-front-part-000-refine-048/Refine_only_a_few_shading_pixels_while_keeping_this_character_almost_unchanged_in_every_frame_Preserve_the_ori_dbc78c17/final_outputs.json",
+            "frame_start": 48,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-mudkip-front-part-000-refine-064",
+            "job_id": "job_00b65fdbe4e442cfab585025fc133ef7",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/animation-mudkip-front-part-000-refine-064/Refine_only_a_few_shading_pixels_while_keeping_this_character_almost_unchanged_in_every_frame_Preserve_the_ori_dbc78c17/final_outputs.json",
+            "frame_start": 64,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-mudkip-front-part-000-refine-080",
+            "job_id": "job_893faab62be64a2892086cdc38c40801",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/animation-mudkip-front-part-000-refine-080/Refine_only_a_few_shading_pixels_while_keeping_this_character_almost_unchanged_in_every_frame_Preserve_the_ori_dbc78c17/final_outputs.json",
+            "frame_start": 80,
+            "frame_count": 10
+          },
+          {
+            "task_id": "animation-mudkip-front-part-090-refine-000",
+            "job_id": "job_ad07eaa4b08f431eb4ce7db9c2d42355",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/animation-mudkip-front-part-090-refine-000/Refine_only_a_few_shading_pixels_while_keeping_this_character_almost_unchanged_in_every_frame_Preserve_the_ori_dbc78c17/final_outputs.json",
+            "frame_start": 90,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-mudkip-front-part-090-refine-016",
+            "job_id": "job_8f090f1ad7014a259e221e9d9ec3dbb1",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/animation-mudkip-front-part-090-refine-016/Refine_only_a_few_shading_pixels_while_keeping_this_character_almost_unchanged_in_every_frame_Preserve_the_ori_dbc78c17/final_outputs.json",
+            "frame_start": 106,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-mudkip-front-part-090-refine-032",
+            "job_id": "job_013f87ef731f497a9a97f7b86505bda8",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/animation-mudkip-front-part-090-refine-032/Refine_only_a_few_shading_pixels_while_keeping_this_character_almost_unchanged_in_every_frame_Preserve_the_ori_dbc78c17/final_outputs.json",
+            "frame_start": 122,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-mudkip-front-part-090-refine-048",
+            "job_id": "job_4ecf3a7bbb0340508069b88c6da5a501",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/animation-mudkip-front-part-090-refine-048/Refine_only_a_few_shading_pixels_while_keeping_this_character_almost_unchanged_in_every_frame_Preserve_the_ori_dbc78c17/final_outputs.json",
+            "frame_start": 138,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-mudkip-front-part-090-refine-064",
+            "job_id": "job_db7306b095134aa885a5284a9841d579",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/animation-mudkip-front-part-090-refine-064/Refine_only_a_few_shading_pixels_while_keeping_this_character_almost_unchanged_in_every_frame_Preserve_the_ori_dbc78c17/final_outputs.json",
+            "frame_start": 154,
+            "frame_count": 4
+          }
+        ],
+        "capability": "animation-edit-run",
+        "width": 1008,
+        "height": 288,
+        "frames": 96,
+        "fps": 30,
+        "output_sha256": "d4a50ebc49a252352b899508a23aa13271d1e9498fc6dcf4567bf174e4d2a9de",
+        "validation": "Every frame compared at 2x nearest-neighbor; reassembled exclusively from declared Meowa output frames with original canvas, sheet layout, FPS and frame order.",
+        "comparison_metrics": {
+          "min_iou": 0.9844311377245509,
+          "avg_mae": 9.852024861709145,
+          "max_mae": 17.270542635658916
+        }
+      }
+    },
+    {
+      "path": "sprites/pokemon-animated/poochyena/back-cry.png",
+      "sha256": "cc2d82d30cdb54d6fcdb0b9df5aec731ad606a7e11f6d901acf2f046b1dbd4d7",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "task_id": "animation-poochyena-back-part-000-refine-064",
+            "job_id": "job_2eea547dd7da41a6a42a995178505437",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/animation-poochyena-back-part-000-refine-064/Refine_only_a_few_shading_pixels_while_keeping_this_character_almost_unchanged_in_every_frame_Preserve_the_ori_dbc78c17/final_outputs.json",
+            "frame_start": 64,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-poochyena-back-part-000-refine-080-complete-palette",
+            "job_id": "job_55a6f30c900c45d987b09bb8423064ba",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-poochyena-back-part-000-refine-080-complete-palette/outputs/Keep_Poochyena_neutral_gray_light_gray_fur_charcoal-gray_legs_and_muzzle_yellow_eyes_and_a_red_nose_Preserve_t_efe95e6c/final_outputs.json",
+            "frame_start": 80,
+            "frame_count": 10
+          },
+          {
+            "task_id": "animation-poochyena-back-part-090-quality-000-complete",
+            "job_id": "job_99ad87eea4f047bb9f3de572e364dab5",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-poochyena-back-part-090-quality-000-complete/outputs/Keep_Poochyena_neutral_gray_light_gray_fur_charcoal-gray_legs_and_muzzle_yellow_eyes_and_a_red_nose_Preserve_t_efe95e6c/final_outputs.json",
+            "frame_start": 90,
+            "frame_count": 16
+          }
+        ],
+        "capability": "animation-edit-run",
+        "width": 1008,
+        "height": 98,
+        "frames": 24,
+        "fps": 30,
+        "output_sha256": "cc2d82d30cdb54d6fcdb0b9df5aec731ad606a7e11f6d901acf2f046b1dbd4d7",
+        "validation": "Every source and generated frame visually compared at 2x nearest-neighbor; original pose, flat palette, canvas, sheet layout, FPS and frame order preserved.",
+        "comparison_metrics": {
+          "min_iou": 0.9740840035746202,
+          "avg_mae": 8.641976415631033,
+          "max_mae": 12.963620230700975
+        }
+      }
+    },
+    {
+      "path": "sprites/pokemon-animated/poochyena/back-hurt.png",
+      "sha256": "1bfffb6368b4f08abce458f041a5cade315ca536b6f569b0f7d05e1bba87daa1",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "task_id": "animation-poochyena-back-part-090-quality-000-complete",
+            "job_id": "job_99ad87eea4f047bb9f3de572e364dab5",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-poochyena-back-part-090-quality-000-complete/outputs/Keep_Poochyena_neutral_gray_light_gray_fur_charcoal-gray_legs_and_muzzle_yellow_eyes_and_a_red_nose_Preserve_t_efe95e6c/final_outputs.json",
+            "frame_start": 90,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-poochyena-back-part-090-quality-016-complete",
+            "job_id": "job_20efea6539884dd4a0ceed6650c36429",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-poochyena-back-part-090-quality-016-complete/outputs/Keep_Poochyena_neutral_gray_light_gray_fur_charcoal-gray_legs_and_muzzle_yellow_eyes_and_a_red_nose_Preserve_t_efe95e6c/final_outputs.json",
+            "frame_start": 106,
+            "frame_count": 10
+          }
+        ],
+        "capability": "animation-edit-run",
+        "width": 882,
+        "height": 49,
+        "frames": 14,
+        "fps": 30,
+        "output_sha256": "1bfffb6368b4f08abce458f041a5cade315ca536b6f569b0f7d05e1bba87daa1",
+        "validation": "Every source and generated frame visually compared at 2x nearest-neighbor; original pose, flat palette, canvas, sheet layout, FPS and frame order preserved.",
+        "comparison_metrics": {
+          "min_iou": 0.9637883008356546,
+          "avg_mae": 15.871046310245363,
+          "max_mae": 20.193862048009724
+        }
+      }
+    },
+    {
+      "path": "sprites/pokemon-animated/poochyena/back-idle.png",
+      "sha256": "d89b8fb145a6fc0743edf9ea5621b037b8f77b0261abdab0d252fcb3aa05d991",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "task_id": "animation-poochyena-back-part-000-refine-000",
+            "job_id": "job_0212e3ecc4194d27a7614461bf589b31",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/animation-poochyena-back-part-000-refine-000/Refine_only_a_few_shading_pixels_while_keeping_this_character_almost_unchanged_in_every_frame_Preserve_the_ori_dbc78c17/final_outputs.json",
+            "frame_start": 0,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-poochyena-back-part-000-refine-016",
+            "job_id": "job_b8d58df2fbb341deb4b3f8a063d79a4e",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/animation-poochyena-back-part-000-refine-016/Refine_only_a_few_shading_pixels_while_keeping_this_character_almost_unchanged_in_every_frame_Preserve_the_ori_dbc78c17/final_outputs.json",
+            "frame_start": 16,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-poochyena-back-part-000-refine-032",
+            "job_id": "job_aa58f42af8bd48bf97bbf9be8f010aed",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/animation-poochyena-back-part-000-refine-032/Refine_only_a_few_shading_pixels_while_keeping_this_character_almost_unchanged_in_every_frame_Preserve_the_ori_dbc78c17/final_outputs.json",
+            "frame_start": 32,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-poochyena-back-part-000-refine-048",
+            "job_id": "job_721f101e002d4d11ab313a2daf2ce8ed",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/animation-poochyena-back-part-000-refine-048/Refine_only_a_few_shading_pixels_while_keeping_this_character_almost_unchanged_in_every_frame_Preserve_the_ori_dbc78c17/final_outputs.json",
+            "frame_start": 48,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-poochyena-back-part-000-refine-064",
+            "job_id": "job_2eea547dd7da41a6a42a995178505437",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/animation-poochyena-back-part-000-refine-064/Refine_only_a_few_shading_pixels_while_keeping_this_character_almost_unchanged_in_every_frame_Preserve_the_ori_dbc78c17/final_outputs.json",
+            "frame_start": 64,
+            "frame_count": 16
+          }
+        ],
+        "capability": "animation-edit-run",
+        "width": 1008,
+        "height": 294,
+        "frames": 96,
+        "fps": 30,
+        "output_sha256": "d89b8fb145a6fc0743edf9ea5621b037b8f77b0261abdab0d252fcb3aa05d991",
+        "validation": "Every frame compared at 2x nearest-neighbor; reassembled exclusively from declared Meowa output frames with original canvas, sheet layout, FPS and frame order.",
+        "comparison_metrics": {
+          "min_iou": 0.96280276816609,
+          "avg_mae": 9.82680406864472,
+          "max_mae": 14.86030303030303
+        }
+      }
+    },
+    {
+      "path": "sprites/pokemon-animated/torchic/back-cry.png",
+      "sha256": "94b5c7ab105488a9a34ad62ad59372384eab0d6ea2e73a6ed7738be7cf140e98",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "task_id": "animation-torchic-back-part-090-quality-000-complete",
+            "job_id": "job_66fc52a1bf88491a9e4fb96a8e0e5f01",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-torchic-back-part-090-quality-000-complete/outputs/Keep_Torchic_s_source_palette_orange_body_E05820_golden-yellow_crest_and_neck_E8B830_dark_orange_shadows_A8401_14b78ca0/final_outputs.json",
+            "frame_start": 90,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-torchic-back-part-090-quality-016-complete",
+            "job_id": "job_0c6901c335d04e94895ed538014d9a57",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-torchic-back-part-090-quality-016-complete/outputs/Keep_Torchic_s_source_palette_orange_body_E05820_golden-yellow_crest_and_neck_E8B830_dark_orange_shadows_A8401_14b78ca0/final_outputs.json",
+            "frame_start": 106,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-torchic-back-part-090-quality-032-complete",
+            "job_id": "job_431fdc162089490d8755ca9ec8d280ac",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-torchic-back-part-090-quality-032-complete/outputs/Keep_Torchic_s_source_palette_orange_body_E05820_golden-yellow_crest_and_neck_E8B830_dark_orange_shadows_A8401_14b78ca0/final_outputs.json",
+            "frame_start": 122,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-torchic-back-part-090-quality-048-complete",
+            "job_id": "job_d54fb79f9003465bbcac1d85753a6b61",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-torchic-back-part-090-quality-048-complete/outputs/Keep_Torchic_s_source_palette_orange_body_E05820_golden-yellow_crest_and_neck_E8B830_dark_orange_shadows_A8401_14b78ca0/final_outputs.json",
+            "frame_start": 138,
+            "frame_count": 15
+          }
+        ],
+        "capability": "animation-edit-run",
+        "width": 672,
+        "height": 144,
+        "frames": 48,
+        "fps": 30,
+        "output_sha256": "94b5c7ab105488a9a34ad62ad59372384eab0d6ea2e73a6ed7738be7cf140e98",
+        "validation": "Every source and generated frame visually compared at 2x nearest-neighbor; original pose, flat palette, canvas, sheet layout, FPS and frame order preserved.",
+        "comparison_metrics": {
+          "min_iou": 0.9855769230769231,
+          "avg_mae": 13.345362797874047,
+          "max_mae": 16.179945799457993
+        }
+      }
+    },
+    {
+      "path": "sprites/pokemon-animated/torchic/back-hurt.png",
+      "sha256": "2e2d74d41df11060fcb9be8316aa016fa17e66755c297fcb04e109a4b6aa5fb0",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "task_id": "animation-torchic-back-part-090-quality-048-complete",
+            "job_id": "job_d54fb79f9003465bbcac1d85753a6b61",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-torchic-back-part-090-quality-048-complete/outputs/Keep_Torchic_s_source_palette_orange_body_E05820_golden-yellow_crest_and_neck_E8B830_dark_orange_shadows_A8401_14b78ca0/final_outputs.json",
+            "frame_start": 138,
+            "frame_count": 15
+          }
+        ],
+        "capability": "animation-edit-run",
+        "width": 588,
+        "height": 48,
+        "frames": 14,
+        "fps": 30,
+        "output_sha256": "2e2d74d41df11060fcb9be8316aa016fa17e66755c297fcb04e109a4b6aa5fb0",
+        "validation": "Every source and generated frame visually compared at 2x nearest-neighbor; original pose, flat palette, canvas, sheet layout, FPS and frame order preserved.",
+        "comparison_metrics": {
+          "min_iou": 0.993485342019544,
+          "avg_mae": 15.261537261289007,
+          "max_mae": 17.851910828025478
+        }
+      }
+    },
+    {
+      "path": "sprites/pokemon-animated/torchic/back-idle.png",
+      "sha256": "58181281e08f0eebf99c01b256db0e092bae9c9e9c5afa6fbd0352c3c63a2669",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "task_id": "animation-torchic-back-part-000-refine-000-complete-palette-exact",
+            "job_id": "job_4ddb6b359695433c9c8ba620a6f34e13",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-torchic-back-part-000-refine-000-complete-palette-exact/outputs/Keep_Torchic_s_source_palette_orange_body_E05820_golden-yellow_crest_and_neck_E8B830_dark_orange_shadows_A8401_14b78ca0/final_outputs.json",
+            "frame_start": 0,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-torchic-back-part-000-refine-016-complete",
+            "job_id": "job_727ea9eaeecf437581049dc6f69920fe",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-torchic-back-part-000-refine-016-complete/outputs/Preserve_every_animation_frame_pose_and_pixel_outline_Keep_the_same_flat_color_blocks_and_markings_as_the_refe_3936d8d7/final_outputs.json",
+            "frame_start": 16,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-torchic-back-part-000-refine-032",
+            "job_id": "job_cc6a1f54a3b845d9914716e8f849fe95",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/recovered-continuation/job_cc6a1f54a3b845d9914716e8f849fe95/recovered-final/final_outputs.json",
+            "frame_start": 32,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-torchic-back-part-000-refine-048-complete-palette-exact",
+            "job_id": "job_c6667d5c88c24fa781be2b8c0537eafc",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-torchic-back-part-000-refine-048-complete-palette-exact/outputs/Keep_Torchic_s_source_palette_orange_body_E05820_golden-yellow_crest_and_neck_E8B830_dark_orange_shadows_A8401_14b78ca0/final_outputs.json",
+            "frame_start": 48,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-torchic-back-part-000-refine-064-complete-palette",
+            "job_id": "job_bf6c95c4406244c89fdf4cdee29aeb8f",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-torchic-back-part-000-refine-064-complete-palette/outputs/Keep_Torchic_bright_orange_with_a_yellow_crest_yellow_neck_feathers_and_yellow_feet_Preserve_the_original_flat_c0ab5869/final_outputs.json",
+            "frame_start": 64,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-torchic-back-part-000-refine-080-complete",
+            "job_id": "job_8799d92cd0e84e7c9b88cdff30fe5e92",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-torchic-back-part-000-refine-080-complete/outputs/Preserve_every_animation_frame_pose_and_pixel_outline_Keep_the_same_flat_color_blocks_and_markings_as_the_refe_3936d8d7/final_outputs.json",
+            "frame_start": 80,
+            "frame_count": 10
+          },
+          {
+            "task_id": "animation-torchic-back-part-090-quality-000-complete",
+            "job_id": "job_66fc52a1bf88491a9e4fb96a8e0e5f01",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-torchic-back-part-090-quality-000-complete/outputs/Keep_Torchic_s_source_palette_orange_body_E05820_golden-yellow_crest_and_neck_E8B830_dark_orange_shadows_A8401_14b78ca0/final_outputs.json",
+            "frame_start": 90,
+            "frame_count": 16
+          }
+        ],
+        "capability": "animation-edit-run",
+        "width": 672,
+        "height": 288,
+        "frames": 96,
+        "fps": 30,
+        "output_sha256": "58181281e08f0eebf99c01b256db0e092bae9c9e9c5afa6fbd0352c3c63a2669",
+        "validation": "Every source and generated frame visually compared at 2x nearest-neighbor; original pose, flat palette, canvas, sheet layout, FPS and frame order preserved.",
+        "comparison_metrics": {
+          "min_iou": 0.990228013029316,
+          "avg_mae": 9.844125488219778,
+          "max_mae": 15.643753409710856
+        }
+      }
+    },
+    {
+      "path": "sprites/pokemon-animated/torchic/front-cry.png",
+      "sha256": "e97eac7cb0001bb20eac90cbcbf03fca6b9eae52f64082977e4999a210809060",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "job_id": "job_50883cf79d1048d899ca6f192439d98a",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/recovered/job_50883cf79d1048d899ca6f192439d98a/recovered-final/final_outputs.json",
+            "frame_start": 0,
+            "frame_count": 90
+          },
+          {
+            "job_id": "job_b75b1bce530c43609f8dbbd46f7446de",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/recovered/job_b75b1bce530c43609f8dbbd46f7446de/recovered-final/final_outputs.json",
+            "frame_start": 90,
+            "frame_count": 60
+          }
+        ],
+        "capability": "animation-edit-run",
+        "width": 864,
+        "height": 153,
+        "frames": 48,
+        "fps": 30,
+        "output_sha256": "e97eac7cb0001bb20eac90cbcbf03fca6b9eae52f64082977e4999a210809060",
+        "validation": "Reassembled Meowa final WebP frames using original deduplicated frame mapping; original canvas, sheet layout, frame count, FPS and frame order preserved; source/output silhouette and pose comparison."
+      }
+    },
+    {
+      "path": "sprites/pokemon-animated/torchic/front-hurt.png",
+      "sha256": "34f2cb99d367973e66bcee6f07f4bd91c3ae4b507b3d6e150ca9bf7c035a247b",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "job_id": "job_50883cf79d1048d899ca6f192439d98a",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/recovered/job_50883cf79d1048d899ca6f192439d98a/recovered-final/final_outputs.json",
+            "frame_start": 0,
+            "frame_count": 90
+          },
+          {
+            "job_id": "job_b75b1bce530c43609f8dbbd46f7446de",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/recovered/job_b75b1bce530c43609f8dbbd46f7446de/recovered-final/final_outputs.json",
+            "frame_start": 90,
+            "frame_count": 60
+          }
+        ],
+        "capability": "animation-edit-run",
+        "width": 756,
+        "height": 51,
+        "frames": 14,
+        "fps": 30,
+        "output_sha256": "34f2cb99d367973e66bcee6f07f4bd91c3ae4b507b3d6e150ca9bf7c035a247b",
+        "validation": "Reassembled Meowa final WebP frames using original deduplicated frame mapping; original canvas, sheet layout, frame count, FPS and frame order preserved; source/output silhouette and pose comparison."
+      }
+    },
+    {
+      "path": "sprites/pokemon-animated/torchic/front-idle.png",
+      "sha256": "b889f50878bca2c7c9f0dbe9fb679aecd1f32eed2e1aba835aaa3baaa1a76720",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "job_id": "job_50883cf79d1048d899ca6f192439d98a",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/recovered/job_50883cf79d1048d899ca6f192439d98a/recovered-final/final_outputs.json",
+            "frame_start": 0,
+            "frame_count": 90
+          },
+          {
+            "job_id": "job_b75b1bce530c43609f8dbbd46f7446de",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/recovered/job_b75b1bce530c43609f8dbbd46f7446de/recovered-final/final_outputs.json",
+            "frame_start": 90,
+            "frame_count": 60
+          }
+        ],
+        "capability": "animation-edit-run",
+        "width": 864,
+        "height": 306,
+        "frames": 96,
+        "fps": 30,
+        "output_sha256": "b889f50878bca2c7c9f0dbe9fb679aecd1f32eed2e1aba835aaa3baaa1a76720",
+        "validation": "Reassembled Meowa final WebP frames using original deduplicated frame mapping; original canvas, sheet layout, frame count, FPS and frame order preserved; source/output silhouette and pose comparison."
+      }
+    },
+    {
+      "path": "sprites/pokemon-animated/treecko/back-cry.png",
+      "sha256": "8f1187d9569fced97c29a7536bb6ef01ec5f353dab52f6c3a4aeb121a51fe8f4",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "job_id": "job_db216c4868094ccfae16bbaef8e65cdc",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/recovered/job_db216c4868094ccfae16bbaef8e65cdc/recovered-final/final_outputs.json",
+            "frame_start": 0,
+            "frame_count": 90
+          },
+          {
+            "job_id": "job_e4a72460d11a443987633175dfb09e86",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/animation-treecko-back-part-090/Refine_only_a_few_interior_shading_pixels_on_treecko_consistently_in_every_back-view_frame_Preserve_the_exact_03e445ff/final_outputs.json",
+            "frame_start": 90,
+            "frame_count": 66
+          }
+        ],
+        "capability": "animation-edit-run",
+        "width": 816,
+        "height": 144,
+        "frames": 48,
+        "fps": 30,
+        "output_sha256": "8f1187d9569fced97c29a7536bb6ef01ec5f353dab52f6c3a4aeb121a51fe8f4",
+        "validation": "Reassembled Meowa final WebP frames using original deduplicated frame mapping; original canvas, sheet layout, frame count, FPS and frame order preserved; source/output silhouette and pose comparison."
+      }
+    },
+    {
+      "path": "sprites/pokemon-animated/treecko/back-hurt.png",
+      "sha256": "8849a0966cc695f7c1cc4564f6d1169da5a7cdc9474a20f23d14a7044b598b4f",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "job_id": "job_db216c4868094ccfae16bbaef8e65cdc",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/recovered/job_db216c4868094ccfae16bbaef8e65cdc/recovered-final/final_outputs.json",
+            "frame_start": 0,
+            "frame_count": 90
+          },
+          {
+            "job_id": "job_e4a72460d11a443987633175dfb09e86",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/animation-treecko-back-part-090/Refine_only_a_few_interior_shading_pixels_on_treecko_consistently_in_every_back-view_frame_Preserve_the_exact_03e445ff/final_outputs.json",
+            "frame_start": 90,
+            "frame_count": 66
+          }
+        ],
+        "capability": "animation-edit-run",
+        "width": 714,
+        "height": 48,
+        "frames": 14,
+        "fps": 30,
+        "output_sha256": "8849a0966cc695f7c1cc4564f6d1169da5a7cdc9474a20f23d14a7044b598b4f",
+        "validation": "Reassembled Meowa final WebP frames using original deduplicated frame mapping; original canvas, sheet layout, frame count, FPS and frame order preserved; source/output silhouette and pose comparison."
+      }
+    },
+    {
+      "path": "sprites/pokemon-animated/treecko/back-idle.png",
+      "sha256": "7252aab7c4b2dfa5e43ae5cdc5cf1827dbf699fda40b6dfa30e0b7879175719a",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "job_id": "job_db216c4868094ccfae16bbaef8e65cdc",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/recovered/job_db216c4868094ccfae16bbaef8e65cdc/recovered-final/final_outputs.json",
+            "frame_start": 0,
+            "frame_count": 90
+          },
+          {
+            "job_id": "job_e4a72460d11a443987633175dfb09e86",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/animation-treecko-back-part-090/Refine_only_a_few_interior_shading_pixels_on_treecko_consistently_in_every_back-view_frame_Preserve_the_exact_03e445ff/final_outputs.json",
+            "frame_start": 90,
+            "frame_count": 66
+          }
+        ],
+        "capability": "animation-edit-run",
+        "width": 816,
+        "height": 288,
+        "frames": 96,
+        "fps": 30,
+        "output_sha256": "7252aab7c4b2dfa5e43ae5cdc5cf1827dbf699fda40b6dfa30e0b7879175719a",
+        "validation": "Reassembled Meowa final WebP frames using original deduplicated frame mapping; original canvas, sheet layout, frame count, FPS and frame order preserved; source/output silhouette and pose comparison."
+      }
+    },
+    {
+      "path": "sprites/pokemon-animated/treecko/front-cry.png",
+      "sha256": "ae12c87d880ad1d4145c67dea8f63f73890b8b14387ad2d45b63073bde0953f6",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "job_id": "job_72c2307dd51f4aff99a5b1f112b5b9da",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/animation-treecko-front-part-000/Refine_only_a_few_interior_shading_pixels_on_treecko_consistently_in_every_front-view_frame_Preserve_the_exact_ab35c9e2/final_outputs.json",
+            "frame_start": 0,
+            "frame_count": 90
+          },
+          {
+            "job_id": "job_ef0eede9a848432eb213153ac9952406",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/animation-treecko-front-part-090/Refine_only_a_few_interior_shading_pixels_on_treecko_consistently_in_every_front-view_frame_Preserve_the_exact_ab35c9e2/final_outputs.json",
+            "frame_start": 90,
+            "frame_count": 88
+          }
+        ],
+        "capability": "animation-edit-run",
+        "width": 784,
+        "height": 144,
+        "frames": 48,
+        "fps": 30,
+        "output_sha256": "ae12c87d880ad1d4145c67dea8f63f73890b8b14387ad2d45b63073bde0953f6",
+        "validation": "Reassembled Meowa final WebP frames using original deduplicated frame mapping; original canvas, sheet layout, frame count, FPS and frame order preserved; source/output silhouette and pose comparison."
+      }
+    },
+    {
+      "path": "sprites/pokemon-animated/treecko/front-hurt.png",
+      "sha256": "bdc0dca4ad0f0dbd3aca5b3b227f5f8d9276c8c58353fe3b96b4aa092240775b",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "job_id": "job_72c2307dd51f4aff99a5b1f112b5b9da",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/animation-treecko-front-part-000/Refine_only_a_few_interior_shading_pixels_on_treecko_consistently_in_every_front-view_frame_Preserve_the_exact_ab35c9e2/final_outputs.json",
+            "frame_start": 0,
+            "frame_count": 90
+          },
+          {
+            "job_id": "job_ef0eede9a848432eb213153ac9952406",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/animation-treecko-front-part-090/Refine_only_a_few_interior_shading_pixels_on_treecko_consistently_in_every_front-view_frame_Preserve_the_exact_ab35c9e2/final_outputs.json",
+            "frame_start": 90,
+            "frame_count": 88
+          }
+        ],
+        "capability": "animation-edit-run",
+        "width": 686,
+        "height": 48,
+        "frames": 14,
+        "fps": 30,
+        "output_sha256": "bdc0dca4ad0f0dbd3aca5b3b227f5f8d9276c8c58353fe3b96b4aa092240775b",
+        "validation": "Reassembled Meowa final WebP frames using original deduplicated frame mapping; original canvas, sheet layout, frame count, FPS and frame order preserved; source/output silhouette and pose comparison."
+      }
+    },
+    {
+      "path": "sprites/pokemon-animated/treecko/front-idle.png",
+      "sha256": "271d7a9e8ef1b6df055d1a7f72c6c9f73e3415e6978ce452c840af00646c8035",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "job_id": "job_72c2307dd51f4aff99a5b1f112b5b9da",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/animation-treecko-front-part-000/Refine_only_a_few_interior_shading_pixels_on_treecko_consistently_in_every_front-view_frame_Preserve_the_exact_ab35c9e2/final_outputs.json",
+            "frame_start": 0,
+            "frame_count": 90
+          },
+          {
+            "job_id": "job_ef0eede9a848432eb213153ac9952406",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/animation-treecko-front-part-090/Refine_only_a_few_interior_shading_pixels_on_treecko_consistently_in_every_front-view_frame_Preserve_the_exact_ab35c9e2/final_outputs.json",
+            "frame_start": 90,
+            "frame_count": 88
+          }
+        ],
+        "capability": "animation-edit-run",
+        "width": 784,
+        "height": 384,
+        "frames": 120,
+        "fps": 30,
+        "output_sha256": "271d7a9e8ef1b6df055d1a7f72c6c9f73e3415e6978ce452c840af00646c8035",
+        "validation": "Reassembled Meowa final WebP frames using original deduplicated frame mapping; original canvas, sheet layout, frame count, FPS and frame order preserved; source/output silhouette and pose comparison."
+      }
+    },
+    {
+      "path": "sprites/pokemon-animated/wurmple/back-cry.png",
+      "sha256": "83601abbe75a5dbc5455f295a44d0e962e92e0050490abc4a986e2b627803a13",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "task_id": "animation-wurmple-back-part-000-refine-000-complete-palette",
+            "job_id": "job_65b05edb064b4c3297073439a06f0389",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-wurmple-back-part-000-refine-000-complete-palette/outputs/Keep_Wurmple_coral_red_with_a_cream_face_yellow_horns_and_white_feet_Preserve_the_original_flat_color_blocks_o_dcc4873e/final_outputs.json",
+            "frame_start": 0,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-wurmple-back-part-000-refine-016",
+            "job_id": "job_66a237a314144d2d807803ea4adcf9de",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/recovered-continuation/job_66a237a314144d2d807803ea4adcf9de/recovered-final/final_outputs.json",
+            "frame_start": 16,
+            "frame_count": 16
+          }
+        ],
+        "capability": "animation-edit-run",
+        "width": 912,
+        "height": 98,
+        "frames": 24,
+        "fps": 30,
+        "output_sha256": "83601abbe75a5dbc5455f295a44d0e962e92e0050490abc4a986e2b627803a13",
+        "validation": "Every source and generated frame visually compared at 2x nearest-neighbor; original pose, flat palette, canvas, sheet layout, FPS and frame order preserved.",
+        "comparison_metrics": {
+          "min_iou": 0.9814814814814815,
+          "avg_mae": 14.194513633522709,
+          "max_mae": 16.90246913580247
+        }
+      }
+    },
+    {
+      "path": "sprites/pokemon-animated/wurmple/back-hurt.png",
+      "sha256": "1a819b29117763355344747de32df910e91b0b028a28aefb38839ac0ded1bf77",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "task_id": "animation-wurmple-back-part-000-refine-016",
+            "job_id": "job_66a237a314144d2d807803ea4adcf9de",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/recovered-continuation/job_66a237a314144d2d807803ea4adcf9de/recovered-final/final_outputs.json",
+            "frame_start": 16,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-wurmple-back-part-000-refine-032-complete-exact",
+            "job_id": "job_66688b91a24649bdb2f07b4193049ea5",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-wurmple-back-part-000-refine-032-complete-exact/outputs/Keep_Wurmple_s_source_palette_raspberry-red_body_D02850_coral_highlights_F06068_burgundy_shadows_802828_beige_cb0bb428/final_outputs.json",
+            "frame_start": 32,
+            "frame_count": 16
+          }
+        ],
+        "capability": "animation-edit-run",
+        "width": 798,
+        "height": 49,
+        "frames": 14,
+        "fps": 30,
+        "output_sha256": "1a819b29117763355344747de32df910e91b0b028a28aefb38839ac0ded1bf77",
+        "validation": "Every source and generated frame visually compared at 2x nearest-neighbor; original pose, flat palette, canvas, sheet layout, FPS and frame order preserved.",
+        "comparison_metrics": {
+          "min_iou": 0.9862155388471178,
+          "avg_mae": 12.272249918813733,
+          "max_mae": 13.825814536340852
+        }
+      }
+    },
+    {
+      "path": "sprites/pokemon-animated/wurmple/back-idle.png",
+      "sha256": "4efed432afc5e502602d9371f26cae7a630337bcddcb5e8ba06665d54af65865",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "task_id": "animation-wurmple-back-part-000-refine-016",
+            "job_id": "job_66a237a314144d2d807803ea4adcf9de",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/recovered-continuation/job_66a237a314144d2d807803ea4adcf9de/recovered-final/final_outputs.json",
+            "frame_start": 16,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-wurmple-back-part-000-refine-032-complete-exact",
+            "job_id": "job_66688b91a24649bdb2f07b4193049ea5",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-wurmple-back-part-000-refine-032-complete-exact/outputs/Keep_Wurmple_s_source_palette_raspberry-red_body_D02850_coral_highlights_F06068_burgundy_shadows_802828_beige_cb0bb428/final_outputs.json",
+            "frame_start": 32,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-wurmple-back-part-000-refine-048-complete",
+            "job_id": "job_3f7921a3d2c0404b90e48c6492f055cf",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-wurmple-back-part-000-refine-048-complete/outputs/Keep_Wurmple_coral_red_with_a_cream_face_yellow_horns_and_white_feet_Preserve_the_original_flat_color_blocks_o_dcc4873e/final_outputs.json",
+            "frame_start": 48,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-wurmple-back-part-000-refine-064-complete-exact",
+            "job_id": "job_11109e1232494768b966cd0d94bf14d0",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-wurmple-back-part-000-refine-064-complete-exact/outputs/Keep_Wurmple_s_source_palette_raspberry-red_body_D02850_coral_highlights_F06068_burgundy_shadows_802828_beige_cb0bb428/final_outputs.json",
+            "frame_start": 64,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-wurmple-back-part-000-refine-080-complete",
+            "job_id": "job_7ed4b981baff4196ba1592594d442f50",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-wurmple-back-part-000-refine-080-complete/outputs/Keep_Wurmple_coral_red_with_a_cream_face_yellow_horns_and_white_feet_Preserve_the_original_flat_color_blocks_o_dcc4873e/final_outputs.json",
+            "frame_start": 80,
+            "frame_count": 10
+          },
+          {
+            "task_id": "animation-wurmple-back-part-090",
+            "job_id": "job_e19f3488f8454bd0b734ce4cf763fcc8",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/animation-wurmple-back-part-090/Refine_only_a_few_interior_shading_pixels_on_wurmple_consistently_in_every_back-view_frame_Preserve_the_exact_7c5720a8/final_outputs.json",
+            "frame_start": 90,
+            "frame_count": 39
+          }
+        ],
+        "capability": "animation-edit-run",
+        "width": 912,
+        "height": 294,
+        "frames": 96,
+        "fps": 30,
+        "output_sha256": "4efed432afc5e502602d9371f26cae7a630337bcddcb5e8ba06665d54af65865",
+        "validation": "Every source and generated frame visually compared at 2x nearest-neighbor; original pose, flat palette, canvas, sheet layout, FPS and frame order preserved.",
+        "comparison_metrics": {
+          "min_iou": 0.9561952440550688,
+          "avg_mae": 17.625280119737354,
+          "max_mae": 27.88258946521914
+        }
+      }
+    },
+    {
+      "path": "sprites/pokemon-animated/wurmple/front-cry.png",
+      "sha256": "4e9e6950b725f9fd23c4f2bf0cd14eecf1b901dbd8ff5bd16c6e7cc8976e1fa5",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "task_id": "animation-wurmple-front-part-000-refine-000-complete",
+            "job_id": "job_2ed2e3fe554e4a8bbe4fb72baf00b330",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-wurmple-front-part-000-refine-000-complete/outputs/Keep_Wurmple_coral_red_with_a_cream_face_yellow_horns_and_white_feet_Preserve_the_original_flat_color_blocks_o_dcc4873e/final_outputs.json",
+            "frame_start": 0,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-wurmple-front-part-000-refine-016-complete",
+            "job_id": "job_c917cb38da4b4648a279347a5c4f1f5d",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-wurmple-front-part-000-refine-016-complete/outputs/Keep_Wurmple_coral_red_with_a_cream_face_yellow_horns_and_white_feet_Preserve_the_original_flat_color_blocks_o_dcc4873e/final_outputs.json",
+            "frame_start": 16,
+            "frame_count": 16
+          }
+        ],
+        "capability": "animation-edit-run",
+        "width": 912,
+        "height": 88,
+        "frames": 24,
+        "fps": 30,
+        "output_sha256": "4e9e6950b725f9fd23c4f2bf0cd14eecf1b901dbd8ff5bd16c6e7cc8976e1fa5",
+        "validation": "Every source and generated frame visually compared at 2x nearest-neighbor; original pose, flat palette, canvas, sheet layout, FPS and frame order preserved.",
+        "comparison_metrics": {
+          "min_iou": 0.9803680981595092,
+          "avg_mae": 11.992718512496564,
+          "max_mae": 17.36848792884371
+        }
+      }
+    },
+    {
+      "path": "sprites/pokemon-animated/wurmple/front-hurt.png",
+      "sha256": "30a17640d21ebb116d95e40261d69b88f4d477c815f8fd99ab481d984e693f27",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "task_id": "animation-wurmple-front-part-000-refine-016-complete",
+            "job_id": "job_c917cb38da4b4648a279347a5c4f1f5d",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-wurmple-front-part-000-refine-016-complete/outputs/Keep_Wurmple_coral_red_with_a_cream_face_yellow_horns_and_white_feet_Preserve_the_original_flat_color_blocks_o_dcc4873e/final_outputs.json",
+            "frame_start": 16,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-wurmple-front-part-000-refine-032-complete",
+            "job_id": "job_ac06647d3c174162bdfe4fdf453ee63b",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-wurmple-front-part-000-refine-032-complete/outputs/Keep_Wurmple_coral_red_with_a_cream_face_yellow_horns_and_white_feet_Preserve_the_original_flat_color_blocks_o_dcc4873e/final_outputs.json",
+            "frame_start": 32,
+            "frame_count": 16
+          }
+        ],
+        "capability": "animation-edit-run",
+        "width": 798,
+        "height": 44,
+        "frames": 14,
+        "fps": 30,
+        "output_sha256": "30a17640d21ebb116d95e40261d69b88f4d477c815f8fd99ab481d984e693f27",
+        "validation": "Every source and generated frame visually compared at 2x nearest-neighbor; original pose, flat palette, canvas, sheet layout, FPS and frame order preserved.",
+        "comparison_metrics": {
+          "min_iou": 0.9903961584633854,
+          "avg_mae": 9.727102085915025,
+          "max_mae": 11.167539267015707
+        }
+      }
+    },
+    {
+      "path": "sprites/pokemon-animated/wurmple/front-idle.png",
+      "sha256": "2125a175c6e3b449fe7203b86bb9b702ffee2e7f5ec6a40b9889ff070e4ac275",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "task_id": "animation-wurmple-front-part-000-refine-032-complete",
+            "job_id": "job_ac06647d3c174162bdfe4fdf453ee63b",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-wurmple-front-part-000-refine-032-complete/outputs/Keep_Wurmple_coral_red_with_a_cream_face_yellow_horns_and_white_feet_Preserve_the_original_flat_color_blocks_o_dcc4873e/final_outputs.json",
+            "frame_start": 32,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-wurmple-front-part-000-refine-048-complete",
+            "job_id": "job_765980f11aa346939ed8184f0bd70005",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-wurmple-front-part-000-refine-048-complete/outputs/Keep_Wurmple_coral_red_with_a_cream_face_yellow_horns_and_white_feet_Preserve_the_original_flat_color_blocks_o_dcc4873e/final_outputs.json",
+            "frame_start": 48,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-wurmple-front-part-000-refine-064-complete",
+            "job_id": "job_24e6c4c31e6d458fb4353b5fad82e748",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-wurmple-front-part-000-refine-064-complete/outputs/Keep_Wurmple_s_source_palette_raspberry-red_body_D02850_coral_highlights_F06068_burgundy_shadows_802828_beige_cb0bb428/final_outputs.json",
+            "frame_start": 64,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-wurmple-front-part-000-refine-080-complete-repair",
+            "job_id": "job_f9df283702fa45a680a35bfb7236edb9",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-wurmple-front-part-000-refine-080-complete-repair/outputs/Keep_all_10_Wurmple_frames_at_the_exact_original_size_placement_and_pose_Preserve_the_raspberry-red_body_D0285_d0294f08/final_outputs.json",
+            "frame_start": 80,
+            "frame_count": 10
+          },
+          {
+            "task_id": "animation-wurmple-front-part-090",
+            "job_id": "job_3e76cf3b4459403a8a3f01926960ee65",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/animation-wurmple-front-part-090/Refine_only_a_few_interior_shading_pixels_on_wurmple_consistently_in_every_front-view_frame_Preserve_the_exact_90854f4f/final_outputs.json",
+            "frame_start": 90,
+            "frame_count": 41
+          }
+        ],
+        "capability": "animation-edit-run",
+        "width": 912,
+        "height": 264,
+        "frames": 96,
+        "fps": 30,
+        "output_sha256": "2125a175c6e3b449fe7203b86bb9b702ffee2e7f5ec6a40b9889ff070e4ac275",
+        "validation": "Every source and generated frame visually compared at 2x nearest-neighbor; original pose, flat palette, canvas, sheet layout, FPS and frame order preserved.",
+        "comparison_metrics": {
+          "min_iou": 0.9817739975698664,
+          "avg_mae": 13.282360829946597,
+          "max_mae": 20.94995864350703
+        }
+      }
+    },
+    {
+      "path": "sprites/pokemon-animated/zigzagoon/back-cry.png",
+      "sha256": "504b09a67f2979263a597a98c8be56672671c40e466eec9e66a4b4b7ad285f5a",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "job_id": "job_3d18cce947bc4522bd01be7ed0880eab",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/animation-zigzagoon-back-part-000/Refine_only_a_few_interior_shading_pixels_on_zigzagoon_consistently_in_every_back-view_frame_Preserve_the_exac_38c6a011/final_outputs.json",
+            "frame_start": 0,
+            "frame_count": 90
+          }
+        ],
+        "capability": "animation-edit-run",
+        "width": 1040,
+        "height": 82,
+        "frames": 24,
+        "fps": 30,
+        "output_sha256": "504b09a67f2979263a597a98c8be56672671c40e466eec9e66a4b4b7ad285f5a",
+        "validation": "Reassembled Meowa final WebP frames using original deduplicated frame mapping; original canvas, sheet layout, frame count, FPS and frame order preserved; source/output silhouette and pose comparison."
+      }
+    },
+    {
+      "path": "sprites/pokemon-animated/zigzagoon/back-hurt.png",
+      "sha256": "f58f244e6ca0bbb948f19c67f4b8a11c81f8ad0843539241c6ca66eca9d0f46d",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "job_id": "job_3d18cce947bc4522bd01be7ed0880eab",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/animation-zigzagoon-back-part-000/Refine_only_a_few_interior_shading_pixels_on_zigzagoon_consistently_in_every_back-view_frame_Preserve_the_exac_38c6a011/final_outputs.json",
+            "frame_start": 0,
+            "frame_count": 90
+          }
+        ],
+        "capability": "animation-edit-run",
+        "width": 910,
+        "height": 41,
+        "frames": 14,
+        "fps": 30,
+        "output_sha256": "f58f244e6ca0bbb948f19c67f4b8a11c81f8ad0843539241c6ca66eca9d0f46d",
+        "validation": "Reassembled Meowa final WebP frames using original deduplicated frame mapping; original canvas, sheet layout, frame count, FPS and frame order preserved; source/output silhouette and pose comparison."
+      }
+    },
+    {
+      "path": "sprites/pokemon-animated/zigzagoon/back-idle.png",
+      "sha256": "d42594d693fec78c2155b3c9dadc9efcf264abc57a86435f54ce8d57d0050fbf",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "job_id": "job_3d18cce947bc4522bd01be7ed0880eab",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/animation-zigzagoon-back-part-000/Refine_only_a_few_interior_shading_pixels_on_zigzagoon_consistently_in_every_back-view_frame_Preserve_the_exac_38c6a011/final_outputs.json",
+            "frame_start": 0,
+            "frame_count": 90
+          }
+        ],
+        "capability": "animation-edit-run",
+        "width": 1040,
+        "height": 246,
+        "frames": 96,
+        "fps": 30,
+        "output_sha256": "d42594d693fec78c2155b3c9dadc9efcf264abc57a86435f54ce8d57d0050fbf",
+        "validation": "Reassembled Meowa final WebP frames using original deduplicated frame mapping; original canvas, sheet layout, frame count, FPS and frame order preserved; source/output silhouette and pose comparison."
+      }
+    },
+    {
+      "path": "sprites/pokemon-animated/zigzagoon/front-cry.png",
+      "sha256": "c6c631796931f9a3fbc3041c959c875b72f736e771ce2362dc6a8aa79fefd89c",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "task_id": "animation-zigzagoon-front-part-090-quality-000-complete",
+            "job_id": "job_a41322f8692e4591b5f7ddb84699dc1f",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-zigzagoon-front-part-090-quality-000-complete/outputs/Keep_Zigzagoon_beige_and_brown_with_dark_brown_zigzag_fur_markings_and_a_dark_brown_face_mask_Preserve_the_ori_2a81feb1/final_outputs.json",
+            "frame_start": 90,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-zigzagoon-front-part-090-quality-016-complete",
+            "job_id": "job_27d36ec9958c4079a84cbddb58bd83bc",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-zigzagoon-front-part-090-quality-016-complete/outputs/Keep_Zigzagoon_beige_and_brown_with_dark_brown_zigzag_fur_markings_and_a_dark_brown_face_mask_Preserve_the_ori_2a81feb1/final_outputs.json",
+            "frame_start": 106,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-zigzagoon-front-part-090-quality-032-complete",
+            "job_id": "job_65559e2101e949448a4513840c6dd304",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-zigzagoon-front-part-090-quality-032-complete/outputs/Keep_Zigzagoon_beige_and_brown_with_dark_brown_zigzag_fur_markings_and_a_dark_brown_face_mask_Preserve_the_ori_2a81feb1/final_outputs.json",
+            "frame_start": 122,
+            "frame_count": 16
+          }
+        ],
+        "capability": "animation-edit-run",
+        "width": 1056,
+        "height": 135,
+        "frames": 48,
+        "fps": 30,
+        "output_sha256": "c6c631796931f9a3fbc3041c959c875b72f736e771ce2362dc6a8aa79fefd89c",
+        "validation": "Every source and generated frame visually compared at 2x nearest-neighbor; original pose, flat palette, canvas, sheet layout, FPS and frame order preserved.",
+        "comparison_metrics": {
+          "min_iou": 0.9807692307692307,
+          "avg_mae": 11.890667088410261,
+          "max_mae": 14.747085415179633
+        }
+      }
+    },
+    {
+      "path": "sprites/pokemon-animated/zigzagoon/front-hurt.png",
+      "sha256": "3c45f0f82939be2b268171f531609a994028be3a48b3ff57c69bca5eadfe3cdd",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "task_id": "animation-zigzagoon-front-part-090-quality-048-complete",
+            "job_id": "job_ffa4ffbc6c1c4c2683b0fab95bf47fc9",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-zigzagoon-front-part-090-quality-048-complete/outputs/Keep_Zigzagoon_beige_and_brown_with_dark_brown_zigzag_fur_markings_and_a_dark_brown_face_mask_Preserve_the_ori_2a81feb1/final_outputs.json",
+            "frame_start": 138,
+            "frame_count": 14
+          }
+        ],
+        "capability": "animation-edit-run",
+        "width": 924,
+        "height": 45,
+        "frames": 14,
+        "fps": 30,
+        "output_sha256": "3c45f0f82939be2b268171f531609a994028be3a48b3ff57c69bca5eadfe3cdd",
+        "validation": "Every source and generated frame visually compared at 2x nearest-neighbor; original pose, flat palette, canvas, sheet layout, FPS and frame order preserved.",
+        "comparison_metrics": {
+          "min_iou": 0.9835831548893648,
+          "avg_mae": 11.280686287028036,
+          "max_mae": 12.343881856540085
+        }
+      }
+    },
+    {
+      "path": "sprites/pokemon-animated/zigzagoon/front-idle.png",
+      "sha256": "61cce45840db3d0bff9f20ef93ec47283d23ac1448f8c19fb5e8a66a6a234d4c",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "task_id": "animation-zigzagoon-front-part-000-refine-000-complete",
+            "job_id": "job_db49a73409284529a7295ccabe71a08e",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-zigzagoon-front-part-000-refine-000-complete/outputs/Keep_Zigzagoon_beige_and_brown_with_dark_brown_zigzag_fur_markings_and_a_dark_brown_face_mask_Preserve_the_ori_2a81feb1/final_outputs.json",
+            "frame_start": 0,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-zigzagoon-front-part-000-refine-016-complete",
+            "job_id": "job_103cca61e0e2418086a7c32163a570ae",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-zigzagoon-front-part-000-refine-016-complete/outputs/Keep_Zigzagoon_beige_and_brown_with_dark_brown_zigzag_fur_markings_and_a_dark_brown_face_mask_Preserve_the_ori_2a81feb1/final_outputs.json",
+            "frame_start": 16,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-zigzagoon-front-part-000-refine-032",
+            "job_id": "job_54d3249ebbc449829c506c0d46dd76cc",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/recovered-continuation/job_54d3249ebbc449829c506c0d46dd76cc/recovered-final/final_outputs.json",
+            "frame_start": 32,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-zigzagoon-front-part-000-refine-048",
+            "job_id": "job_38d7bfc4416e4d73808023ed5e9b477a",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/recovered-continuation/job_38d7bfc4416e4d73808023ed5e9b477a/recovered-final/final_outputs.json",
+            "frame_start": 48,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-zigzagoon-front-part-000-refine-064-complete",
+            "job_id": "job_d8dc1de72373417b952b0ac5c099b395",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-zigzagoon-front-part-000-refine-064-complete/outputs/Keep_Zigzagoon_beige_and_brown_with_dark_brown_zigzag_fur_markings_and_a_dark_brown_face_mask_Preserve_the_ori_2a81feb1/final_outputs.json",
+            "frame_start": 64,
+            "frame_count": 16
+          },
+          {
+            "task_id": "animation-zigzagoon-front-part-000-refine-080-complete",
+            "job_id": "job_ac0f94de97dd4a509d8f84a471f81207",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/continuation/animation-zigzagoon-front-part-000-refine-080-complete/outputs/Keep_Zigzagoon_beige_and_brown_with_dark_brown_zigzag_fur_markings_and_a_dark_brown_face_mask_Preserve_the_ori_2a81feb1/final_outputs.json",
+            "frame_start": 80,
+            "frame_count": 10
+          }
+        ],
+        "capability": "animation-edit-run",
+        "width": 1056,
+        "height": 270,
+        "frames": 96,
+        "fps": 30,
+        "output_sha256": "61cce45840db3d0bff9f20ef93ec47283d23ac1448f8c19fb5e8a66a6a234d4c",
+        "validation": "Every source and generated frame visually compared at 2x nearest-neighbor; original pose, flat palette, canvas, sheet layout, FPS and frame order preserved.",
+        "comparison_metrics": {
+          "min_iou": 0.97677793904209,
+          "avg_mae": 10.585592091239018,
+          "max_mae": 15.56891495601173
+        }
+      }
+    },
+    {
+      "path": "sprites/pokemon/pokeemerald-front-atlas.png",
+      "sha256": "a59d774728b2619e445996b640af3a90ff34f857c6b4017fe69c671d9dcea1fc",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "jobs": [
+          {
+            "job_id": "job_87f514f52c53478d9bfa03ead0c5e476",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/opening-static-treecko-front/Make_an_almost_imperceptible_refinement_to_the_inner_pixel_shading_of_this_treecko_front_battle_sprite_Preserv_dbb177c4/final_outputs.json",
+            "species": "treecko"
+          },
+          {
+            "job_id": "job_2dc99cf4ccd54d5ba996fc76432f3f7d",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/opening-static-torchic-front/Make_an_almost_imperceptible_refinement_to_the_inner_pixel_shading_of_this_torchic_front_battle_sprite_Preserv_90348abf/final_outputs.json",
+            "species": "torchic"
+          },
+          {
+            "job_id": "job_35590e0589cf42019b84f31c8a29d637",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/opening-static-mudkip-front/Make_an_almost_imperceptible_refinement_to_the_inner_pixel_shading_of_this_mudkip_front_battle_sprite_Preserve_9acb3111/final_outputs.json",
+            "species": "mudkip"
+          },
+          {
+            "job_id": "job_0a45378fd9a1427aa73d7fea2f2f5491",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/opening-static-zigzagoon-front/Make_an_almost_imperceptible_refinement_to_the_inner_pixel_shading_of_this_zigzagoon_front_battle_sprite_Prese_5343df92/final_outputs.json",
+            "species": "zigzagoon"
+          },
+          {
+            "job_id": "job_6dda524f20e844769707a91ee6ccc536",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/opening-static-poochyena-front/Make_an_almost_imperceptible_refinement_to_the_inner_pixel_shading_of_this_poochyena_front_battle_sprite_Prese_ef44e731/final_outputs.json",
+            "species": "poochyena"
+          },
+          {
+            "job_id": "job_661528770818497f861505043d02570f",
+            "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/opening-static-wurmple-front/Make_an_almost_imperceptible_refinement_to_the_inner_pixel_shading_of_this_wurmple_front_battle_sprite_Preserv_85dc1475/final_outputs.json",
+            "species": "wurmple"
+          }
+        ],
+        "capability": "image-edit-run",
+        "width": 192,
+        "height": 128,
+        "output_sha256": "a59d774728b2619e445996b640af3a90ff34f857c6b4017fe69c671d9dcea1fc",
+        "validation": "Six individually edited native 64x64 sprites visually compared; packed without resampling into compact 3x2 atlas, reused by starter selection and battle portraits."
+      }
+    },
+    {
+      "path": "sprites/props/flower-idle-spritesheet.png",
+      "sha256": "87d57b24dda9fa8156e23d5630fc59f17a78ebb5cd49ec6dadd3a292fd37f3aa",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/sign.png",
+      "sha256": "d0677ac5bea077c51f832cb3edb7230fe53bfde2134813544c910698fffbba44",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_d74596f9ad1d4ee5af11bea1c3963fc4",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/sign-retry/Make_an_almost_imperceptible_refinement_to_the_colors_of_these_existing_pixel_shapes_Preserve_every_original_s_ec82f1c8/final_outputs.json",
+        "width": 16,
+        "height": 16,
+        "output_sha256": "d0677ac5bea077c51f832cb3edb7230fe53bfde2134813544c910698fffbba44",
+        "validation": "Native canvas and individual frame layout reviewed against original; UI/sign normalized to runtime dimensions and original alpha contract using generated RGB only."
+      }
+    },
+    {
+      "path": "sprites/props/tall-grass.png",
+      "sha256": "011fccc47fa1d089b0e3c76f2ccdcd6908bd2324df34e71a74131f75d3324ede",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/tree.png",
+      "sha256": "60249a91edf7a987093a454f0c7a70bd1c9f2f069aa9c756cd161fc5cf5d4bc3",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/house-awning-gable-side.png",
+      "sha256": "3d4c8af358cd67bffc7d18b6b1111d3c5a695a6428d3048a6ef3b74ebcb648ed",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/house-awning-roof-back.png",
+      "sha256": "1ee4c962b50ef253c06aacc97101db6e72a6296a4658fb9eca8d080f59706e83",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/house-awning-roof-front.png",
+      "sha256": "6a2adb50eae6777485e7578149054c69cdcf5a9f7e7ae87207a9b87156f9c263",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/house-main-gable-side.png",
+      "sha256": "c0859511ae193800055d3fe53b1dfce192e30faf64d511e4c10e890317f20451",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/house-main-roof-back.png",
+      "sha256": "744c593038be618d715a54ec0da0b0767546fb9e5f84f72fb6575438f2973ad4",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/house-main-roof-front.png",
+      "sha256": "78902cc6752b79f256fb71dfa5453a6a4542efa5a44c83c78b603d241e6a3355",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/house-ridge.png",
+      "sha256": "edf8d1dc25957476bc8111c8b27d11a3adbd51c88f9b9a08bab55c62a38ca858",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/house-upper-back-emissive.png",
+      "sha256": "cd863a704b4bc500785cdcfa1d7e4b3a1739ec50d3f13a2011e79a9bcd99a007",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/house-upper-back.png",
+      "sha256": "e582effeb97411c812e325f39e81f254b540183b9ca45460ab1b159638fb80e6",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/house-upper-front-emissive.png",
+      "sha256": "7d9ce8b0cb66c58d08675cd5b69b8558c221192beb92ade2075746c284a91d17",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/house-upper-front.png",
+      "sha256": "8c35b6aafd1fdedd08045ae7aff4148a09a5d2d086c2a356da3304c21e6cf4d1",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/house-upper-side-emissive.png",
+      "sha256": "cd863a704b4bc500785cdcfa1d7e4b3a1739ec50d3f13a2011e79a9bcd99a007",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/house-upper-side.png",
+      "sha256": "4b6abbd6e209c5703097b09e698fce19a71b72b817083300583f21e660d0343f",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/house-wall-back-emissive.png",
+      "sha256": "8ed5cfda5f0af5a61c8d9e4e3125451c483c2ebdae8283f0d79921e238342cc3",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/house-wall-back.png",
+      "sha256": "f245487cc55b11d0a3f92aee1af8bcbbaef3e397d2e882390606f7b989d59958",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/house-wall-front-emissive.png",
+      "sha256": "3e06bb1fcea9f81b73c5570854f00a0a0752d019fbdc4a1f18cb1355520bc469",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/house-wall-front.png",
+      "sha256": "e41a276e2bd06e4fd884e7b10f8ff12a8600031fd4e644a735a03cd8d7a495b3",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/house-wall-side-emissive.png",
+      "sha256": "2e2e0dbe69f497e0821de08e38e571d61d1a0cc343cb18ed1a8ec2a53cf5682d",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/house-wall-side.png",
+      "sha256": "008eed7529cace4fff853d736e12593bb2ab09ab1c80f3e2f183f5d060fd2b3d",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/lab-gable-side.png",
+      "sha256": "83610c59e2eb2112bd908602653b55b928b26b0f38deeab12550d5fb18110f3c",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/lab-ridge.png",
+      "sha256": "7e68b37181e102cf887a678d4c70690eb9d41737c577db58bbc36d7ff711b0a9",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/lab-roof-back.png",
+      "sha256": "9c0b8e6f72a4284858e0569951e414cbbfa8c8e6c822e6208c237c08a1279303",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/lab-roof-front.png",
+      "sha256": "368cca64c48b0d7ea7c28f4b32d55fe7f949380f1a40f0b68abd713f4d8ff138",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/lab-wall-back-emissive.png",
+      "sha256": "12ef4c3ae2dad491b5fa3e2aadf2721b143784ba01a70138ec271dce99b4789e",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/lab-wall-back.png",
+      "sha256": "320ab60ffbaba687aabc4444b3e6ec62be64373e14a9e8ef79d0ccf2d17ef86b",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/lab-wall-front-emissive.png",
+      "sha256": "557111b05c7c301397eae2c0c5fa3b51e9a3f6df2a3ef803977f7a86d31fdc0d",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/lab-wall-front.png",
+      "sha256": "abbc539532fad5999c4ec77434bd3f9f31fe9b5834d7ec60b5363f67cf381b29",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/lab-wall-side-emissive.png",
+      "sha256": "169a02cdf20d92691d7a1fde0e8924409089a9fe22c5c1612b7de5b62065f1f7",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/lab-wall-side.png",
+      "sha256": "f566aa9add3d675bcca12f104adfd8481c6ab3ae0f9f75b8c785646e37ccdd51",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-center-band-back.png",
+      "sha256": "5399132be2ea432d1bd531fcaf9fccddc32dfd8848f9a21dbb08b6c053975956",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-center-band-front.png",
+      "sha256": "af5106d941ac9ce1b2214afca2ba76aced94e089773a1cdc74821759745f0477",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-center-band-side.png",
+      "sha256": "4347829ceffdc5681c93251cf16cd9a1b034b79278eba25fbc7b9d16f1857772",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-center-crown-back.png",
+      "sha256": "d2e8c77a5e25b6b5dfb601c5c8815f94f72f1b0ad02343ac630003b61f808704",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-center-crown-front.png",
+      "sha256": "fe25d084267761783f03c5951da98d459c71e60f0c6337e335456c2fe72db4c6",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-center-crown-side.png",
+      "sha256": "69d5f23f495cea02e83cbf0eed13ca6435d3f2fd78c4e3df40272f35ea96d17f",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-center-top.png",
+      "sha256": "74c042646b0688855b0e8f7240a001c552d096296afc657fda1bb97273f7eef2",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-center-wall-back-emissive.png",
+      "sha256": "927f1534d1bbaea9c993ff9792342b9c9974a865ab31171e36283b8a50e2df9a",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-center-wall-back.png",
+      "sha256": "e5ccb080355d6ee78682fd78563cb20102763b1b96eaa94f155054c132ed89cd",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-center-wall-front-emissive.png",
+      "sha256": "9b061f6d1ed78a2cdc24ac11e8738958b84c9f2855d75b79f1ef4e55803e274e",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-center-wall-front.png",
+      "sha256": "62847577c432fc8fde2c7815a32437c9299ebf5bdc83c4bcafef0a5d0a5b137f",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-center-wall-side-emissive.png",
+      "sha256": "ff972eddcf36bb1e6e6a7fcd0e0e9d9bc04f633ee5b8a3eac2642b4a492d52b3",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-center-wall-side.png",
+      "sha256": "1fa111b7b7b89fbbe8bfbcd05ea1fc61893c8fe30b90dc87279fe04aa79c6e6b",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-house-gable-side-emissive.png",
+      "sha256": "5b37a05ccc04d5c793c3a3b9c4c18847a28b18f7c5d53194ecb86a9cc85978f7",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-house-gable-side.png",
+      "sha256": "72fe2f96a0edc41dd10c94742af7cca07cda13fdf595f333a132cf7d7f3a8d6d",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-house-ridge.png",
+      "sha256": "4b39b9759c45803a61f84098a14070e349babf34e0a7ebd6e32972a5de1ed83c",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-house-roof-front.png",
+      "sha256": "43d94869f5412bfdba582dd6a0a5693e6383d9f67e1b64f8a8553c12570076c4",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-house-wall-back-emissive.png",
+      "sha256": "849e6302872d12132615fe4ff7cc7e859bea45da46d4f65f0413cea58a0248a8",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-house-wall-back.png",
+      "sha256": "b2513e3a1f2ae63b2da37bdbc9695f7f24de157db1a9beb65224e90e13efb8b3",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-house-wall-front-emissive.png",
+      "sha256": "22131c716bcc687ae54dd2d8a0aac75d25b406e59c3975fd552a1924bd69b9b2",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-house-wall-front.png",
+      "sha256": "b8813b11713940e94658a95f60b507d444f983fa0712ace63177e6db490c6cb7",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-house-wall-side-emissive.png",
+      "sha256": "553da02dfacaf9dae797b55b79d3cbb954fd0c87133d742f8fecb6db29dc4eeb",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-house-wall-side.png",
+      "sha256": "a3d4024064bdbe09a0c551efd9f1f31242fc4301c8c20598f9d126a6866de8f1",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-mart-band-back.png",
+      "sha256": "2d2b8036097be77feed358fd3b8d0894d5cd1b17a6a5c618d8b46ced20de35a7",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-mart-band-front.png",
+      "sha256": "e596da081e4f8008234902e2a5c05090a181fe214cb1cc1639477164eec430d9",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-mart-band-side.png",
+      "sha256": "e892e36d94e3b2efd5d2e027e4af14cffb05cc300404f7bd9a09c3219544e736",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-mart-crown-back.png",
+      "sha256": "43dfa6a0512e5adff9f1ba6d9e6ffbe7c2b95b0dab65e6dbabae20e73a0a2ac1",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-mart-crown-front.png",
+      "sha256": "b08ace75f71f676649d08e9e9e3b0cdc7e6ec62f23d9cdca22e2f74b296dc462",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-mart-crown-side.png",
+      "sha256": "614b8d9d04a2ec9a3c4e7b362e403aefe996aa9de23b2c5ed2de02187f5ec504",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-mart-top.png",
+      "sha256": "81155f5c124e68962483efe49002b31fd08397571832ed80e76694376b642e74",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-mart-wall-back-emissive.png",
+      "sha256": "3077231fe29afd4d4b5ca3e5434a190ce04832040ced7914d62f35f3eaa3c4cd",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-mart-wall-back.png",
+      "sha256": "eefa3069e34b57fdc4b13ddd1fe4d437e7ef406fde16402057451c75814a7aa7",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-mart-wall-front-emissive.png",
+      "sha256": "45b11ceea14fb7e7df71d9b44f96a80452c437632a4836089c8b9b26bec0c274",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-mart-wall-front.png",
+      "sha256": "aa30a768403b102670538995815bf5a45b470281c603d5bf6c813654176e9d8d",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-mart-wall-side-emissive.png",
+      "sha256": "63c162bc0371022aa76cfc3780561ce3536298f705d8ec0807c32c5b293eeb35",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/props/turnaround/oldale-mart-wall-side.png",
+      "sha256": "4455352ee8a378bd93b772dd103e4833e5d3fe1cc66e846849edcd1b73e31f26",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "sprites/story/birchs-bag.png",
+      "sha256": "ac87f3f3a6aa480f080b58e3ddd003fad842c8ece334dafbec4d01709b84e490",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_6f954ec376a849719568b8667260519e",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/individual-birchs-bag/Make_an_almost_imperceptible_refinement_to_a_few_interior_clothing_or_fur_shading_pixels_Preserve_the_original_c09c4f7c/final_outputs.json",
+        "width": 16,
+        "height": 16,
+        "output_sha256": "ac87f3f3a6aa480f080b58e3ddd003fad842c8ece334dafbec4d01709b84e490",
+        "validation": "Native canvas and individual frame layout reviewed against original; UI/sign normalized to runtime dimensions and original alpha contract using generated RGB only."
+      }
+    },
+    {
+      "path": "sprites/story/enemy-zigzagoon.png",
+      "sha256": "bad56a3ad677a0ceed35215ed020d125e6ed497050eeca1cf7cce2695c4c266c",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_213abda1586249308cac767f27394a45",
+        "capability": "animation-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/story-zigzagoon-frames/Refine_just_a_few_interior_fur_shading_pixels_on_this_Zigzagoon_consistently_across_all_frames_Preserve_every_c3f52615/final_outputs.json",
+        "width": 288,
+        "height": 32,
+        "output_sha256": "bad56a3ad677a0ceed35215ed020d125e6ed497050eeca1cf7cce2695c4c266c",
+        "validation": "All nine original 32x32 directional walking frames compared visually; native frame layout preserved and repacked from Meowa final WebP."
+      }
+    },
+    {
+      "path": "sprites/story/prof-birch.png",
+      "sha256": "0256f21412b3dddf7744f86e51adf3766203b3534922c65cb694fa6e43cdd1bd",
+      "origin": "meowa-reference-edit",
+      "generation": {
+        "job_id": "job_db361d6a7b3b4ccb81d80a673a8f12d7",
+        "capability": "image-edit-run",
+        "manifest": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909/jobs/individual-prof-birch/Make_an_almost_imperceptible_refinement_to_a_few_interior_clothing_or_fur_shading_pixels_Preserve_the_original_c09c4f7c/final_outputs.json",
+        "width": 144,
+        "height": 32,
+        "output_sha256": "0256f21412b3dddf7744f86e51adf3766203b3534922c65cb694fa6e43cdd1bd",
+        "validation": "Native canvas and individual frame layout reviewed against original; UI/sign normalized to runtime dimensions and original alpha contract using generated RGB only."
+      }
+    },
+    {
+      "path": "tilesets/route101-clearing-dual-grid.png",
+      "sha256": "ba5e0dabbbb64fbea7cfec55231f6d0a854ba6c5ba2de344aed024cd5e1537a5",
+      "origin": "existing-meowa-asset"
+    },
+    {
+      "path": "vfx/BGM/OST_NewLittleRoot_Intro.wav",
+      "sha256": "77746c7c6f11cc6b30242821ad4600788d59921ced1238b5233258b515d79b96",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    },
+    {
+      "path": "vfx/BGM/OST_NewLittleRoot_Ioop.wav",
+      "sha256": "0222ae76d34ca8f5dbbc14ab81f6d1e97ced67629530f02fa4d2d3938de58311",
+      "origin": "original-audio-retained",
+      "category": "外部提取音频",
+      "source_evidence": "与本地 PokemonEmerald UE 提取包文件的 SHA-256 完全相同",
+      "replacement_required": false,
+      "reason": "User explicitly requested keeping audio unchanged."
+    }
+  ],
+  "replacement_status": "Complete: all 214 runtime images have Meowa provenance; 0 images pending. All 38 audio files are retained unchanged by user request."
+}

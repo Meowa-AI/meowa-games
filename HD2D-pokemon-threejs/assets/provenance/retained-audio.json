@@ -1,0 +1,196 @@
+{
+  "count": 38,
+  "reason": "User explicitly exempted audio from Meowa replacement. All remaining runtime-triggered audio is retained.",
+  "assets": [
+    {
+      "path": "audio/cries/mudkip.wav",
+      "category": "外部提取音频",
+      "sha256": "243a5eb44a09618bf0fabe209fdeffbc17ff3270c3e1e7b0c2b7acd74825ef6a"
+    },
+    {
+      "path": "audio/cries/poochyena.wav",
+      "category": "外部提取音频",
+      "sha256": "314577260f78afe70a81d7fbceb33b09c01313b2785bcde8d86f26ebeda616e1"
+    },
+    {
+      "path": "audio/cries/torchic.wav",
+      "category": "外部提取音频",
+      "sha256": "f9cc0b2b1ace48b374c0afed4f00a11113f0343147d51c7698bfa624308cd8b3"
+    },
+    {
+      "path": "audio/cries/treecko.wav",
+      "category": "外部提取音频",
+      "sha256": "01379f03d3a3940c1f0e602f4de20efea76772fa847df0026a4723e56d7923cc"
+    },
+    {
+      "path": "audio/cries/wurmple.wav",
+      "category": "外部提取音频",
+      "sha256": "e4428f2ab72b23c23c195848991aeb85668cfe16b416f1dbf620936984aba406"
+    },
+    {
+      "path": "audio/cries/zigzagoon.wav",
+      "category": "外部提取音频",
+      "sha256": "6043900a25e403dbb0b5e032f8dc87ac05c5decfd5bc4721d0ecc5b6615e39f5"
+    },
+    {
+      "path": "audio/music/caught.wav",
+      "category": "外部提取音频",
+      "sha256": "2c22403c5447659b2fc31e6701b7fc33d6fa4424ead026480954e6c2927b638a"
+    },
+    {
+      "path": "audio/music/wild-battle-intro.wav",
+      "category": "外部提取音频",
+      "sha256": "9d030f4a6231baff79812c498932c51097cb5e0187497115bdfbddeec8c49f49"
+    },
+    {
+      "path": "audio/music/wild-battle-loop.wav",
+      "category": "外部提取音频",
+      "sha256": "71f00a3be5002c44a2457d18f621a5da459021faf13d5a062d7ffede5685886c"
+    },
+    {
+      "path": "audio/music/wild-victory-intro.wav",
+      "category": "外部提取音频",
+      "sha256": "d5d0c0fbec9688f47f74efb9eb0cedba116d210a90eadd37da163be8bd229336"
+    },
+    {
+      "path": "audio/music/wild-victory-loop.wav",
+      "category": "外部提取音频",
+      "sha256": "2ad6732ac1466fece9b42024061bf2c4f7a43ee7828193d86f1d24e619591158"
+    },
+    {
+      "path": "audio/sfx/battle/ball-absorb.wav",
+      "category": "外部提取音频",
+      "sha256": "26d85a8de73bbec522c4452e891882a6be5567c4d3af0638f7920a1d9b359cab"
+    },
+    {
+      "path": "audio/sfx/battle/ball-click.wav",
+      "category": "外部提取音频",
+      "sha256": "e3842018734a59c51822f9d8eea6dd88e513a571dbb6bfc0433ddadc475946e7"
+    },
+    {
+      "path": "audio/sfx/battle/ball-drop.wav",
+      "category": "外部提取音频",
+      "sha256": "04e57b2a99058d704eee8550de74ac5929148b34502cd5746b459e7dfa662b39"
+    },
+    {
+      "path": "audio/sfx/battle/ball-hit.wav",
+      "category": "外部提取音频",
+      "sha256": "fc216784b49d26c59e7c625e03b14ce34d9272c8713dfac81bfe3e08f9a7f144"
+    },
+    {
+      "path": "audio/sfx/battle/ball-shake.wav",
+      "category": "外部提取音频",
+      "sha256": "9dc388eb7073ddd6c90372ab0c21d138041d6abbd8b017b5e204adddd71aad47"
+    },
+    {
+      "path": "audio/sfx/battle/capture-success.wav",
+      "category": "外部提取音频",
+      "sha256": "63907e18b532c1491be665df0715aadb97e4b2b1b55061723124c73677bc64da"
+    },
+    {
+      "path": "audio/sfx/battle/flee.wav",
+      "category": "外部提取音频",
+      "sha256": "09259f07ecb1d204df199b6882e7eeb4357423941ec6277c0f5774d292678672"
+    },
+    {
+      "path": "audio/sfx/battle/heal.wav",
+      "category": "外部提取音频",
+      "sha256": "9455ae1d27b9389224ab0d1d2318e208b06ec8b098b6628d8497635ac7da721a"
+    },
+    {
+      "path": "audio/sfx/battle/hit-normal.wav",
+      "category": "外部提取音频",
+      "sha256": "9d27e0a24ac04db2859878e7b7f195b7d04aa4a1b2a31f27f4d40e8ac84a33c0"
+    },
+    {
+      "path": "audio/sfx/battle/lost.wav",
+      "category": "外部提取音频",
+      "sha256": "42b1f4942ac612977e5268cd61ca89fa3ba41cde424da84d1b60cca7422a3f04"
+    },
+    {
+      "path": "audio/sfx/battle/low-hp.wav",
+      "category": "外部提取音频",
+      "sha256": "58a1930e52512a7b23531c8f8386b0fbf05cbc96773d697efb194a856c1c446f"
+    },
+    {
+      "path": "audio/sfx/battle/party-switch.wav",
+      "category": "外部提取音频",
+      "sha256": "59826b1e6f0650f4c76ab89d4b84e087f30a05be1185b96d8ebd75e38f84ca25"
+    },
+    {
+      "path": "audio/sfx/battle/release-pokemon.wav",
+      "category": "外部提取音频",
+      "sha256": "d0068655fbcaabd0a05e19e85b71fad5590d07a92dac9acf4980e662785abc2a"
+    },
+    {
+      "path": "audio/sfx/battle/throw-ball.wav",
+      "category": "外部提取音频",
+      "sha256": "26b105031bd7aac79a270c53b95be3f3b9329cd9893c40950007ced1182ffcd4"
+    },
+    {
+      "path": "audio/sfx/moves/leer.wav",
+      "category": "外部提取音频",
+      "sha256": "33cb9c9dca0ba213728debc7f1ff924194c4789e944ade33799505be51b32f4c"
+    },
+    {
+      "path": "audio/sfx/moves/pound.wav",
+      "category": "外部提取音频",
+      "sha256": "369bff091c743b09d39a6ae04d9c034ae1c1d79d9986e4c688f061312aff517e"
+    },
+    {
+      "path": "audio/sfx/moves/scratch.wav",
+      "category": "外部提取音频",
+      "sha256": "6cfaf9182ecc8755bfee81ac7137d9eda898292ac6f79c88b93b8a77c4a846cb"
+    },
+    {
+      "path": "audio/sfx/ui/hover.wav",
+      "category": "外部提取音频",
+      "sha256": "97a29313e1e8bf045f36edfc9d811ba24a5a39a2de3fbba0fa15a52c2be2e0df"
+    },
+    {
+      "path": "audio/sfx/ui/menu-close.wav",
+      "category": "外部提取音频",
+      "sha256": "96f91d87d01e60abab92cf37819a8369d9ed0cda2b3f2c0c9791a7ce971a9100"
+    },
+    {
+      "path": "audio/sfx/ui/menu-open.wav",
+      "category": "外部提取音频",
+      "sha256": "1480da24fbdb66acbf00438a1257c0d26ba5eb9ba895515ebbe81aa70407811b"
+    },
+    {
+      "path": "audio/sfx/ui/select.wav",
+      "category": "外部提取音频",
+      "sha256": "7d89bfbacee820cb8bc3306d94776b19f5bff5907938db9f75f5c1c00598efe0"
+    },
+    {
+      "path": "audio/sfx/world/door-enter.wav",
+      "category": "外部提取音频",
+      "sha256": "911931471d5e8669e2a87501752f64fce742185938cfe0de3bf27b094a3ef2d3"
+    },
+    {
+      "path": "audio/sfx/world/door-exit.wav",
+      "category": "外部提取音频",
+      "sha256": "4370e9d044c00257198ec7942d002653c8b8fbfec97fe17c4fd9eb35363316c9"
+    },
+    {
+      "path": "audio/sfx/world/exclaim.wav",
+      "category": "外部提取音频",
+      "sha256": "b86d9b3998b1eafa9fcd83c891741aff9832f3d4c13cab974a23b1c0efcaa724"
+    },
+    {
+      "path": "audio/sfx/world/grass-step.wav",
+      "category": "外部提取音频",
+      "sha256": "085e63ee65b4184ab42cb1c514ba13bfacf5465a3e0da494d1902e32576f6b6a"
+    },
+    {
+      "path": "vfx/BGM/OST_NewLittleRoot_Intro.wav",
+      "category": "外部提取音频",
+      "sha256": "77746c7c6f11cc6b30242821ad4600788d59921ced1238b5233258b515d79b96"
+    },
+    {
+      "path": "vfx/BGM/OST_NewLittleRoot_Ioop.wav",
+      "category": "外部提取音频",
+      "sha256": "0222ae76d34ca8f5dbbc14ab81f6d1e97ced67629530f02fa4d2d3938de58311"
+    }
+  ]
+}

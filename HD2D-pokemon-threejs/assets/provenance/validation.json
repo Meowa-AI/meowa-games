@@ -1,0 +1,385 @@
+{
+  "completed_at": "2026-09-09T03:04:47.530891+00:00",
+  "pending_images": 0,
+  "runtime_files": 253,
+  "meowa_images": 214,
+  "unchanged_audio": 38,
+  "animation_metadata_files": 1,
+  "source_and_public_byte_identical": true,
+  "unused_runtime_files": 0,
+  "missing_runtime_files": 0,
+  "audio_matches_original_backup": true,
+  "unit_tests": {
+    "passed": 48
+  },
+  "playwright_e2e": {
+    "passed": 5
+  },
+  "build": "passed",
+  "decoded_images": 214,
+  "decoded_audio": 38,
+  "animation_playback": {
+    "checks": [
+      {
+        "path": "assets/sprites/pokemon-animated/mudkip/back-idle.png",
+        "frames": 25,
+        "fps": 30,
+        "observedFrames": 25,
+        "wraps": 10,
+        "passed": true
+      },
+      {
+        "path": "assets/sprites/pokemon-animated/mudkip/back-cry.png",
+        "frames": 48,
+        "fps": 30,
+        "observedFrames": 48,
+        "wraps": 5,
+        "passed": true
+      },
+      {
+        "path": "assets/sprites/pokemon-animated/mudkip/back-hurt.png",
+        "frames": 14,
+        "fps": 30,
+        "observedFrames": 14,
+        "wraps": 18,
+        "passed": true
+      },
+      {
+        "path": "assets/sprites/pokemon-animated/mudkip/front-cry.png",
+        "frames": 48,
+        "fps": 30,
+        "observedFrames": 48,
+        "wraps": 5,
+        "passed": true
+      },
+      {
+        "path": "assets/sprites/pokemon-animated/mudkip/front-hurt.png",
+        "frames": 14,
+        "fps": 30,
+        "observedFrames": 14,
+        "wraps": 18,
+        "passed": true
+      },
+      {
+        "path": "assets/sprites/pokemon-animated/mudkip/front-idle.png",
+        "frames": 96,
+        "fps": 30,
+        "observedFrames": 96,
+        "wraps": 2,
+        "passed": true
+      },
+      {
+        "path": "assets/sprites/pokemon-animated/poochyena/back-idle.png",
+        "frames": 96,
+        "fps": 30,
+        "observedFrames": 96,
+        "wraps": 2,
+        "passed": true
+      },
+      {
+        "path": "assets/sprites/pokemon-animated/poochyena/back-cry.png",
+        "frames": 24,
+        "fps": 30,
+        "observedFrames": 24,
+        "wraps": 10,
+        "passed": true
+      },
+      {
+        "path": "assets/sprites/pokemon-animated/poochyena/back-hurt.png",
+        "frames": 14,
+        "fps": 30,
+        "observedFrames": 14,
+        "wraps": 18,
+        "passed": true
+      },
+      {
+        "path": "assets/sprites/pokemon-animated/torchic/back-idle.png",
+        "frames": 96,
+        "fps": 30,
+        "observedFrames": 96,
+        "wraps": 2,
+        "passed": true
+      },
+      {
+        "path": "assets/sprites/pokemon-animated/torchic/back-cry.png",
+        "frames": 48,
+        "fps": 30,
+        "observedFrames": 48,
+        "wraps": 5,
+        "passed": true
+      },
+      {
+        "path": "assets/sprites/pokemon-animated/torchic/back-hurt.png",
+        "frames": 14,
+        "fps": 30,
+        "observedFrames": 14,
+        "wraps": 18,
+        "passed": true
+      },
+      {
+        "path": "assets/sprites/pokemon-animated/torchic/front-cry.png",
+        "frames": 48,
+        "fps": 30,
+        "observedFrames": 48,
+        "wraps": 5,
+        "passed": true
+      },
+      {
+        "path": "assets/sprites/pokemon-animated/torchic/front-hurt.png",
+        "frames": 14,
+        "fps": 30,
+        "observedFrames": 14,
+        "wraps": 18,
+        "passed": true
+      },
+      {
+        "path": "assets/sprites/pokemon-animated/torchic/front-idle.png",
+        "frames": 96,
+        "fps": 30,
+        "observedFrames": 96,
+        "wraps": 2,
+        "passed": true
+      },
+      {
+        "path": "assets/sprites/pokemon-animated/treecko/back-idle.png",
+        "frames": 96,
+        "fps": 30,
+        "observedFrames": 96,
+        "wraps": 2,
+        "passed": true
+      },
+      {
+        "path": "assets/sprites/pokemon-animated/treecko/back-cry.png",
+        "frames": 48,
+        "fps": 30,
+        "observedFrames": 48,
+        "wraps": 5,
+        "passed": true
+      },
+      {
+        "path": "assets/sprites/pokemon-animated/treecko/back-hurt.png",
+        "frames": 14,
+        "fps": 30,
+        "observedFrames": 14,
+        "wraps": 18,
+        "passed": true
+      },
+      {
+        "path": "assets/sprites/pokemon-animated/treecko/front-cry.png",
+        "frames": 48,
+        "fps": 30,
+        "observedFrames": 48,
+        "wraps": 5,
+        "passed": true
+      },
+      {
+        "path": "assets/sprites/pokemon-animated/treecko/front-hurt.png",
+        "frames": 14,
+        "fps": 30,
+        "observedFrames": 14,
+        "wraps": 18,
+        "passed": true
+      },
+      {
+        "path": "assets/sprites/pokemon-animated/treecko/front-idle.png",
+        "frames": 120,
+        "fps": 30,
+        "observedFrames": 120,
+        "wraps": 2,
+        "passed": true
+      },
+      {
+        "path": "assets/sprites/pokemon-animated/wurmple/back-cry.png",
+        "frames": 24,
+        "fps": 30,
+        "observedFrames": 24,
+        "wraps": 10,
+        "passed": true
+      },
+      {
+        "path": "assets/sprites/pokemon-animated/wurmple/back-hurt.png",
+        "frames": 14,
+        "fps": 30,
+        "observedFrames": 14,
+        "wraps": 18,
+        "passed": true
+      },
+      {
+        "path": "assets/sprites/pokemon-animated/wurmple/back-idle.png",
+        "frames": 96,
+        "fps": 30,
+        "observedFrames": 96,
+        "wraps": 2,
+        "passed": true
+      },
+      {
+        "path": "assets/sprites/pokemon-animated/wurmple/front-cry.png",
+        "frames": 24,
+        "fps": 30,
+        "observedFrames": 24,
+        "wraps": 10,
+        "passed": true
+      },
+      {
+        "path": "assets/sprites/pokemon-animated/wurmple/front-hurt.png",
+        "frames": 14,
+        "fps": 30,
+        "observedFrames": 14,
+        "wraps": 18,
+        "passed": true
+      },
+      {
+        "path": "assets/sprites/pokemon-animated/wurmple/front-idle.png",
+        "frames": 96,
+        "fps": 30,
+        "observedFrames": 96,
+        "wraps": 2,
+        "passed": true
+      },
+      {
+        "path": "assets/sprites/pokemon-animated/zigzagoon/back-cry.png",
+        "frames": 24,
+        "fps": 30,
+        "observedFrames": 24,
+        "wraps": 10,
+        "passed": true
+      },
+      {
+        "path": "assets/sprites/pokemon-animated/zigzagoon/back-hurt.png",
+        "frames": 14,
+        "fps": 30,
+        "observedFrames": 14,
+        "wraps": 18,
+        "passed": true
+      },
+      {
+        "path": "assets/sprites/pokemon-animated/zigzagoon/back-idle.png",
+        "frames": 96,
+        "fps": 30,
+        "observedFrames": 96,
+        "wraps": 2,
+        "passed": true
+      },
+      {
+        "path": "assets/sprites/pokemon-animated/zigzagoon/front-idle.png",
+        "frames": 96,
+        "fps": 30,
+        "observedFrames": 96,
+        "wraps": 2,
+        "passed": true
+      },
+      {
+        "path": "assets/sprites/pokemon-animated/zigzagoon/front-cry.png",
+        "frames": 48,
+        "fps": 30,
+        "observedFrames": 48,
+        "wraps": 5,
+        "passed": true
+      },
+      {
+        "path": "assets/sprites/pokemon-animated/zigzagoon/front-hurt.png",
+        "frames": 14,
+        "fps": 30,
+        "observedFrames": 14,
+        "wraps": 18,
+        "passed": true
+      }
+    ],
+    "errors": []
+  },
+  "animation_frames": {
+    "animation_frames": 1595,
+    "empty_frames": []
+  },
+  "battle_render": {
+    "checks": [
+      {
+        "action": "idle",
+        "visible": [
+          {
+            "side": "player",
+            "species": "torchic",
+            "action": "idle",
+            "frame": 34,
+            "url": "http://127.0.0.1:5175/assets/sprites/pokemon-animated/torchic/back-idle.png",
+            "visible": true
+          },
+          {
+            "side": "enemy",
+            "species": "wurmple",
+            "action": "idle",
+            "frame": 34,
+            "url": "http://127.0.0.1:5175/assets/sprites/pokemon-animated/wurmple/front-idle.png",
+            "visible": true
+          }
+        ]
+      },
+      {
+        "action": "cry",
+        "visible": [
+          {
+            "side": "player",
+            "species": "torchic",
+            "action": "cry",
+            "frame": 35,
+            "url": "http://127.0.0.1:5175/assets/sprites/pokemon-animated/torchic/back-cry.png",
+            "visible": true
+          },
+          {
+            "side": "enemy",
+            "species": "wurmple",
+            "action": "cry",
+            "frame": 11,
+            "url": "http://127.0.0.1:5175/assets/sprites/pokemon-animated/wurmple/front-cry.png",
+            "visible": true
+          }
+        ]
+      },
+      {
+        "action": "hurt",
+        "visible": [
+          {
+            "side": "player",
+            "species": "torchic",
+            "action": "hurt",
+            "frame": 7,
+            "url": "http://127.0.0.1:5175/assets/sprites/pokemon-animated/torchic/back-hurt.png",
+            "visible": true
+          },
+          {
+            "side": "enemy",
+            "species": "wurmple",
+            "action": "hurt",
+            "frame": 7,
+            "url": "http://127.0.0.1:5175/assets/sprites/pokemon-animated/wurmple/front-hurt.png",
+            "visible": true
+          }
+        ]
+      }
+    ],
+    "errors": []
+  },
+  "generation_archive": "/home/pc/hdd/develop/.asset-backups/hd2d-pokemon-20260908-_qzkb972/completed-meowa-replacement-20260909",
+  "visual_review": "Original and generated images and all animation frames compared; original dimensions, atlas layout, frame count and FPS retained. Small shading and pixel-detail differences remain.",
+  "revisions": [
+    {
+      "validated_at": "2026-09-09T09:11:07.488064+00:00",
+      "scope": "Second-floor wall clocks and framed pictures",
+      "assets_changed": [
+        "interiors/player-house/wall-2f.png",
+        "interiors/rival-house/wall-2f.png"
+      ],
+      "report": "assets/provenance/wall-decoration-advanced.json",
+      "checks": {
+        "advanced_background_removal": true,
+        "original_dimensions_retained": true,
+        "clock_and_picture_interiors_from_new_output": true,
+        "final_walls_fully_opaque": true,
+        "source_public_build_and_http_hashes_match": true,
+        "runtime_asset_audit": "passed",
+        "provenance_audit": "passed",
+        "build": "passed"
+      }
+    }
+  ]
+}

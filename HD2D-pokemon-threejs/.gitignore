@@ -1,0 +1,44 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+.playwright-mcp/
+test-results/
+outputs/
+__pycache__/
+*.py[cod]
+.claude/
+
+# Local visual-debug captures.
+/.tmp/
+/birch-lab.png
+/lab-zfight-fixed.png
+
+# Local-only copyrighted references and generation work files.
+# Never commit Pokemon maps, sprites, screenshots, padded inputs, or raw edit jobs.
+/local-assets/
+/local-reference/
+/assets-src/
+.env
+.env.*
+!.env.example
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
